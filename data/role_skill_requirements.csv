@@ -1,0 +1,495 @@
+requirement_id,job_title,skill_id,required_level
+1,Account Manager,20,4
+2,Account Manager,30,4
+3,Account Manager,58,4
+4,Account Manager,21,3
+5,Account Manager,8,4
+6,Account Manager,1,5
+7,Account Manager,48,4
+8,Account Manager,9,4
+9,Account Manager,25,4
+10,Account Manager,28,4
+11,Accounts Analyst,19,3
+12,Accounts Analyst,39,3
+13,Accounts Analyst,3,3
+14,Accounts Analyst,37,3
+15,Accounts Analyst,40,3
+16,Accounts Analyst,41,3
+17,Accounts Analyst,1,2
+18,Accounts Analyst,42,3
+19,Accounts Analyst,38,3
+20,Accounts Analyst,8,3
+21,Accounts Analyst,11,2
+22,Analytics Consultant,12,4
+23,Analytics Consultant,21,5
+24,Analytics Consultant,8,4
+25,Analytics Consultant,4,4
+26,Analytics Consultant,19,4
+27,Analytics Consultant,3,4
+28,Analytics Consultant,5,5
+29,Analytics Consultant,6,4
+30,Analytics Consultant,9,3
+31,BI Analyst,11,4
+32,BI Analyst,1,4
+33,BI Analyst,19,2
+34,BI Analyst,5,3
+35,BI Analyst,8,3
+36,BI Analyst,7,3
+37,BI Analyst,3,2
+38,BI Analyst,9,4
+39,BI Analyst,4,2
+40,BI Analyst,12,3
+41,Brand Analyst,9,4
+42,Brand Analyst,3,4
+43,Brand Analyst,44,4
+44,Brand Analyst,45,3
+45,Brand Analyst,21,3
+46,Brand Analyst,8,3
+47,Brand Analyst,5,2
+48,Brand Analyst,48,3
+49,Brand Analyst,46,4
+50,Business Development Executive,48,4
+51,Business Development Executive,24,4
+52,Business Development Executive,20,3
+53,Business Development Executive,55,4
+54,Business Development Executive,57,3
+55,Business Development Executive,9,3
+56,Business Development Executive,30,4
+57,Business Development Executive,1,4
+58,Business Development Executive,58,3
+59,Business Development Executive,56,2
+60,Cloud Engineer,19,3
+61,Cloud Engineer,51,2
+62,Cloud Engineer,8,3
+63,Cloud Engineer,52,3
+64,Cloud Engineer,3,4
+65,Cloud Engineer,6,3
+66,Cloud Engineer,60,3
+67,Cloud Engineer,4,3
+68,Cloud Engineer,9,2
+69,Cloud Engineer,21,2
+70,Content Strategist,3,3
+71,Content Strategist,21,3
+72,Content Strategist,47,3
+73,Content Strategist,20,2
+74,Content Strategist,9,2
+75,Content Strategist,45,2
+76,Content Strategist,46,4
+77,Content Strategist,5,3
+78,Content Strategist,43,3
+79,Customer Experience Analyst,21,3
+80,Customer Experience Analyst,59,3
+81,Customer Experience Analyst,9,3
+82,Customer Experience Analyst,30,4
+83,Customer Experience Analyst,23,3
+84,Customer Experience Analyst,53,2
+85,Customer Experience Analyst,22,3
+86,Customer Experience Analyst,19,3
+87,Customer Success Associate,21,3
+88,Customer Success Associate,11,4
+89,Customer Success Associate,30,3
+90,Customer Success Associate,9,2
+91,Customer Success Associate,59,3
+92,Customer Success Associate,8,4
+93,Customer Success Associate,22,3
+94,Customer Success Associate,53,2
+95,Customer Success Associate,23,2
+96,Customer Success Associate,19,3
+97,Customer Success Associate,58,3
+98,Customer Support Executive,30,3
+99,Customer Support Executive,58,4
+100,Customer Support Executive,8,4
+101,Customer Support Executive,59,3
+102,Customer Support Executive,53,3
+103,Customer Support Executive,19,3
+104,Customer Support Executive,21,2
+105,Customer Support Executive,9,3
+106,Customer Support Executive,22,4
+107,Cybersecurity Analyst,60,4
+108,Cybersecurity Analyst,3,3
+109,Cybersecurity Analyst,8,3
+110,Cybersecurity Analyst,52,2
+111,Cybersecurity Analyst,6,3
+112,Cybersecurity Analyst,21,2
+113,Cybersecurity Analyst,19,3
+114,Cybersecurity Analyst,1,4
+115,Cybersecurity Analyst,9,3
+116,Cybersecurity Analyst,4,3
+117,Data Analyst,5,3
+118,Data Analyst,21,3
+119,Data Analyst,12,2
+120,Data Analyst,6,4
+121,Data Analyst,19,2
+122,Data Analyst,9,3
+123,Data Analyst,8,3
+124,Data Analyst,2,4
+125,Data Analyst,3,3
+126,Data Analyst,1,3
+127,Data Analyst,11,3
+128,Digital Marketing Executive,5,3
+129,Digital Marketing Executive,8,2
+130,Digital Marketing Executive,3,3
+131,Digital Marketing Executive,43,3
+132,Digital Marketing Executive,45,3
+133,Digital Marketing Executive,13,3
+134,Digital Marketing Executive,20,4
+135,Digital Marketing Executive,19,3
+136,Digital Marketing Executive,44,3
+137,Digital Marketing Executive,48,4
+138,FP&A Analyst,21,3
+139,FP&A Analyst,3,3
+140,FP&A Analyst,41,3
+141,FP&A Analyst,39,2
+142,FP&A Analyst,9,3
+143,FP&A Analyst,8,3
+144,FP&A Analyst,40,2
+145,FP&A Analyst,38,2
+146,Finance Executive,11,2
+147,Finance Executive,19,4
+148,Finance Executive,1,4
+149,Finance Executive,3,4
+150,Finance Executive,8,3
+151,Finance Executive,40,3
+152,Finance Executive,39,4
+153,Finance Executive,21,3
+154,Finance Executive,9,3
+155,Financial Analyst,1,2
+156,Financial Analyst,19,3
+157,Financial Analyst,8,4
+158,Financial Analyst,41,4
+159,Financial Analyst,38,3
+160,Financial Analyst,11,3
+161,Financial Analyst,40,3
+162,Financial Analyst,3,3
+163,Financial Analyst,37,4
+164,HR Analyst,8,3
+165,HR Analyst,34,4
+166,HR Analyst,21,2
+167,HR Analyst,5,3
+168,HR Analyst,30,3
+169,HR Analyst,35,3
+170,HR Analyst,31,3
+171,HR Analyst,36,3
+172,HR Business Partner,1,4
+173,HR Business Partner,30,4
+174,HR Business Partner,35,5
+175,HR Business Partner,19,4
+176,HR Business Partner,9,4
+177,HR Business Partner,36,5
+178,HR Business Partner,8,5
+179,HR Business Partner,31,3
+180,HR Business Partner,25,4
+181,HR Business Partner,28,4
+182,HR Coordinator,1,2
+183,HR Coordinator,36,4
+184,HR Coordinator,31,3
+185,HR Coordinator,34,3
+186,HR Coordinator,35,3
+187,HR Coordinator,21,3
+188,HR Coordinator,5,3
+189,HR Coordinator,11,2
+190,HR Coordinator,30,4
+191,HR Executive,11,4
+192,HR Executive,3,3
+193,HR Executive,30,4
+194,HR Executive,36,4
+195,HR Executive,1,4
+196,HR Executive,21,3
+197,HR Executive,19,4
+198,HR Executive,34,4
+199,HR Executive,31,3
+200,IT Support Specialist,51,3
+201,IT Support Specialist,21,4
+202,IT Support Specialist,9,3
+203,IT Support Specialist,19,3
+204,IT Support Specialist,8,3
+205,IT Support Specialist,4,3
+206,IT Support Specialist,3,2
+207,IT Support Specialist,60,3
+208,IT Support Specialist,52,4
+209,Insights Analyst,17,4
+210,Insights Analyst,13,3
+211,Insights Analyst,7,3
+212,Insights Analyst,18,2
+213,Insights Analyst,1,3
+214,Insights Analyst,21,4
+215,Insights Analyst,19,3
+216,Insights Analyst,14,4
+217,Insights Analyst,15,4
+218,Insights Analyst,8,2
+219,Instructional Designer,11,2
+220,Instructional Designer,33,3
+221,Instructional Designer,27,3
+222,Instructional Designer,19,4
+223,Instructional Designer,21,3
+224,Instructional Designer,8,3
+225,Instructional Designer,32,4
+226,Instructional Designer,3,4
+227,Instructional Designer,9,4
+228,L&D Coordinator,33,3
+229,L&D Coordinator,9,2
+230,L&D Coordinator,8,2
+231,L&D Coordinator,3,3
+232,L&D Coordinator,21,3
+233,L&D Coordinator,27,4
+234,L&D Coordinator,1,3
+235,L&D Coordinator,36,4
+236,L&D Specialist,9,4
+237,L&D Specialist,1,4
+238,L&D Specialist,19,3
+239,L&D Specialist,8,3
+240,L&D Specialist,36,4
+241,L&D Specialist,32,3
+242,L&D Specialist,20,3
+243,L&D Specialist,3,2
+244,L&D Specialist,13,4
+245,Learning Program Manager,21,4
+246,Learning Program Manager,9,4
+247,Learning Program Manager,27,4
+248,Learning Program Manager,20,5
+249,Learning Program Manager,1,4
+250,Learning Program Manager,32,5
+251,Learning Program Manager,11,4
+252,Learning Program Manager,3,4
+253,Learning Program Manager,25,4
+254,Learning Program Manager,30,4
+255,Learning Program Manager,28,3
+256,Market Research Associate,17,3
+257,Market Research Associate,19,2
+258,Market Research Associate,13,2
+259,Market Research Associate,9,3
+260,Market Research Associate,15,3
+261,Market Research Associate,8,2
+262,Market Research Associate,18,3
+263,Market Research Associate,16,3
+264,Market Research Associate,1,2
+265,Market Research Associate,7,4
+266,Market Research Associate,21,3
+267,Marketing Analyst,21,3
+268,Marketing Analyst,9,3
+269,Marketing Analyst,3,3
+270,Marketing Analyst,13,3
+271,Marketing Analyst,47,4
+272,Marketing Analyst,46,3
+273,Marketing Analyst,8,3
+274,Marketing Analyst,45,3
+275,Marketing Manager,13,3
+276,Marketing Manager,5,4
+277,Marketing Manager,47,4
+278,Marketing Manager,19,5
+279,Marketing Manager,21,3
+280,Marketing Manager,3,4
+281,Marketing Manager,46,4
+282,Marketing Manager,9,3
+283,Marketing Manager,48,4
+284,Marketing Manager,8,4
+285,Marketing Manager,25,3
+286,Marketing Manager,30,3
+287,Marketing Manager,28,4
+288,Operations Analyst,51,2
+289,Operations Analyst,50,4
+290,Operations Analyst,19,3
+291,Operations Analyst,54,4
+292,Operations Analyst,41,4
+293,Operations Analyst,1,3
+294,Operations Analyst,8,3
+295,Operations Analyst,21,3
+296,Operations Analyst,52,3
+297,Operations Manager,19,4
+298,Operations Manager,9,3
+299,Operations Manager,51,4
+300,Operations Manager,52,4
+301,Operations Manager,41,4
+302,Operations Manager,50,5
+303,Operations Manager,8,4
+304,Operations Manager,21,5
+305,Operations Manager,11,3
+306,Operations Manager,25,3
+307,Operations Manager,30,3
+308,Operations Manager,28,3
+309,People Operations Specialist,1,3
+310,People Operations Specialist,36,4
+311,People Operations Specialist,34,3
+312,People Operations Specialist,31,3
+313,People Operations Specialist,3,3
+314,People Operations Specialist,9,3
+315,People Operations Specialist,2,3
+316,People Operations Specialist,21,4
+317,People Operations Specialist,11,2
+318,Process Executive,8,2
+319,Process Executive,9,3
+320,Process Executive,51,2
+321,Process Executive,19,3
+322,Process Executive,41,3
+323,Process Executive,1,3
+324,Process Executive,49,3
+325,Process Executive,21,3
+326,Process Executive,54,4
+327,Process Executive,11,3
+328,Quality Analyst,19,2
+329,Quality Analyst,21,3
+330,Quality Analyst,11,2
+331,Quality Analyst,54,4
+332,Quality Analyst,8,4
+333,Quality Analyst,49,3
+334,Quality Analyst,50,2
+335,Quality Analyst,41,2
+336,Quality Analyst,51,3
+337,Quality Analyst,9,3
+338,Quality Analyst,1,3
+339,Regional Sales Manager,19,4
+340,Regional Sales Manager,30,5
+341,Regional Sales Manager,21,4
+342,Regional Sales Manager,24,4
+343,Regional Sales Manager,48,3
+344,Regional Sales Manager,20,5
+345,Regional Sales Manager,58,4
+346,Regional Sales Manager,56,3
+347,Regional Sales Manager,9,4
+348,Regional Sales Manager,57,4
+349,Regional Sales Manager,1,4
+350,Regional Sales Manager,25,4
+351,Regional Sales Manager,28,4
+352,Reporting Analyst,4,3
+353,Reporting Analyst,1,3
+354,Reporting Analyst,12,2
+355,Reporting Analyst,7,3
+356,Reporting Analyst,8,2
+357,Reporting Analyst,19,4
+358,Reporting Analyst,5,2
+359,Reporting Analyst,6,3
+360,Reporting Analyst,11,3
+361,Research Analyst,13,4
+362,Research Analyst,7,3
+363,Research Analyst,14,3
+364,Research Analyst,9,3
+365,Research Analyst,8,3
+366,Research Analyst,21,2
+367,Research Analyst,18,3
+368,Research Analyst,15,4
+369,Research Coordinator,15,3
+370,Research Coordinator,14,2
+371,Research Coordinator,7,2
+372,Research Coordinator,17,3
+373,Research Coordinator,20,2
+374,Research Coordinator,19,4
+375,Research Coordinator,18,3
+376,Research Coordinator,21,3
+377,Sales Analyst,57,3
+378,Sales Analyst,55,2
+379,Sales Analyst,24,2
+380,Sales Analyst,21,3
+381,Sales Analyst,8,2
+382,Sales Analyst,30,4
+383,Sales Analyst,1,3
+384,Sales Analyst,58,2
+385,Sales Analyst,20,3
+386,Sales Analyst,9,4
+387,Sales Analyst,48,4
+388,Sales Executive,21,3
+389,Sales Executive,58,3
+390,Sales Executive,1,3
+391,Sales Executive,56,4
+392,Sales Executive,24,2
+393,Sales Executive,8,4
+394,Sales Executive,30,2
+395,Sales Executive,9,3
+396,Sales Executive,55,3
+397,Sales Executive,48,3
+398,Senior Data Analyst,6,3
+399,Senior Data Analyst,3,4
+400,Senior Data Analyst,19,4
+401,Senior Data Analyst,5,4
+402,Senior Data Analyst,21,3
+403,Senior Data Analyst,9,3
+404,Senior Data Analyst,11,4
+405,Senior Data Analyst,8,4
+406,Senior Data Analyst,25,4
+407,Senior Data Analyst,30,4
+408,Senior Data Analyst,28,5
+409,Senior Financial Analyst,41,4
+410,Senior Financial Analyst,40,4
+411,Senior Financial Analyst,42,3
+412,Senior Financial Analyst,11,3
+413,Senior Financial Analyst,19,4
+414,Senior Financial Analyst,39,4
+415,Senior Financial Analyst,37,4
+416,Senior Financial Analyst,21,5
+417,Senior Financial Analyst,1,4
+418,Senior Financial Analyst,9,4
+419,Senior Financial Analyst,25,3
+420,Senior Financial Analyst,30,3
+421,Senior Financial Analyst,28,4
+422,Senior Research Analyst,13,4
+423,Senior Research Analyst,21,4
+424,Senior Research Analyst,15,4
+425,Senior Research Analyst,20,4
+426,Senior Research Analyst,18,4
+427,Senior Research Analyst,17,3
+428,Senior Research Analyst,9,5
+429,Senior Research Analyst,8,4
+430,Senior Research Analyst,7,5
+431,Senior Research Analyst,14,5
+432,Senior Research Analyst,25,3
+433,Senior Research Analyst,30,3
+434,Senior Research Analyst,28,5
+435,Software Engineer,9,3
+436,Software Engineer,51,4
+437,Software Engineer,4,3
+438,Software Engineer,19,4
+439,Software Engineer,2,3
+440,Software Engineer,3,3
+441,Software Engineer,8,2
+442,Software Engineer,1,3
+443,Software Engineer,60,3
+444,Supply Chain Analyst,9,3
+445,Supply Chain Analyst,19,4
+446,Supply Chain Analyst,8,3
+447,Supply Chain Analyst,54,4
+448,Supply Chain Analyst,11,3
+449,Supply Chain Analyst,41,3
+450,Supply Chain Analyst,21,2
+451,Supply Chain Analyst,1,4
+452,Supply Chain Analyst,49,3
+453,Supply Chain Analyst,51,3
+454,Supply Chain Analyst,50,3
+455,Support Analyst,30,4
+456,Support Analyst,9,4
+457,Support Analyst,11,2
+458,Support Analyst,8,3
+459,Support Analyst,58,3
+460,Support Analyst,23,3
+461,Support Analyst,22,3
+462,Support Analyst,21,4
+463,Support Analyst,53,3
+464,Support Analyst,59,4
+465,Support Analyst,19,4
+466,Systems Analyst,1,3
+467,Systems Analyst,60,2
+468,Systems Analyst,9,2
+469,Systems Analyst,51,3
+470,Systems Analyst,3,4
+471,Systems Analyst,21,3
+472,Systems Analyst,6,3
+473,Systems Analyst,8,3
+474,Team Lead - Support,58,4
+475,Team Lead - Support,22,4
+476,Team Lead - Support,59,4
+477,Team Lead - Support,11,4
+478,Team Lead - Support,21,4
+479,Team Lead - Support,19,4
+480,Team Lead - Support,53,4
+481,Team Lead - Support,23,5
+482,Team Lead - Support,8,4
+483,Team Lead - Support,30,3
+484,Team Lead - Support,25,4
+485,Team Lead - Support,28,4
+486,Training Analyst,11,3
+487,Training Analyst,32,2
+488,Training Analyst,9,4
+489,Training Analyst,27,3
+490,Training Analyst,36,3
+491,Training Analyst,33,2
+492,Training Analyst,3,3
+493,Training Analyst,1,4
+494,Training Analyst,20,4

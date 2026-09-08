@@ -1,0 +1,2001 @@
+employee_id,employee_name,department_id,job_title,hire_date,employment_level,location,employment_type
+1,Gaurav Deshmukh,7,Sales Analyst,2018-04-13,Senior,Mumbai,Contract
+2,Ananya Joshi,1,HR Analyst,2022-09-25,Junior,Pune,Contract
+3,Mohit Deshmukh,3,Finance Executive,2025-04-15,Junior,Delhi NCR,Full-Time
+4,Karan Gupta,8,Support Analyst,2019-10-16,Senior,Hyderabad,Full-Time
+5,Kavya Kapoor,2,Training Analyst,2022-04-06,Junior,Pune,Full-Time
+6,Ishaan Bajaj,6,Quality Analyst,2022-03-31,Junior,Hyderabad,Full-Time
+7,Ananya Sethi,1,People Operations Specialist,2020-07-22,Senior,Mumbai,Full-Time
+8,Bhavna Verma,4,Content Strategist,2025-02-16,Mid,Hyderabad,Full-Time
+9,Sameer Yadav,7,Business Development Executive,2025-08-31,Junior,Hyderabad,Full-Time
+10,Sneha Naik,5,Cybersecurity Analyst,2021-01-10,Lead,Hyderabad,Full-Time
+11,Aditya Saxena,9,Research Coordinator,2018-08-18,Mid,Nagpur,Full-Time
+12,Kabir Joshi,1,HR Coordinator,2024-05-12,Senior,Remote,Full-Time
+13,Harsh Singh,9,Market Research Associate,2025-03-18,Junior,Delhi NCR,Contract
+14,Diya Singh,5,Cloud Engineer,2024-07-18,Junior,Mumbai,Full-Time
+15,Vedant Iyer,9,Senior Research Analyst,2019-09-19,Senior,Mumbai,Full-Time
+16,Riya Sethi,5,Software Engineer,2023-04-02,Mid,Mumbai,Contract
+17,Ishaan Iyer,8,Customer Success Associate,2025-03-10,Junior,Remote,Full-Time
+18,Priya Gokhale,10,BI Analyst,2026-01-26,Junior,Mumbai,Full-Time
+19,Avni Verma,9,Market Research Associate,2023-09-11,Mid,Pune,Contract
+20,Komal Mane,4,Content Strategist,2018-03-21,Mid,Hyderabad,Full-Time
+21,Ananya Thakur,3,Finance Executive,2024-05-12,Senior,Mumbai,Contract
+22,Riya Kulkarni,8,Team Lead - Support,2019-06-10,Senior,Nagpur,Full-Time
+23,Deepa Naik,10,Reporting Analyst,2026-06-21,Junior,Nagpur,Full-Time
+24,Gaurav Deshmukh,5,Software Engineer,2023-10-21,Mid,Chennai,Full-Time
+25,Aarav Mehta,6,Supply Chain Analyst,2020-07-31,Senior,Pune,Full-Time
+26,Aman Bhosale,1,HR Coordinator,2018-05-09,Lead,Hyderabad,Full-Time
+27,Mihir Jadhav,7,Regional Sales Manager,2020-05-27,Senior,Remote,Full-Time
+28,Aniket More,8,Team Lead - Support,2022-07-26,Mid,Chennai,Full-Time
+29,Tanvi Yadav,5,Software Engineer,2026-03-06,Junior,Pune,Full-Time
+30,Deepa Chavan,7,Account Manager,2019-03-24,Mid,Bengaluru,Full-Time
+31,Aman Jain,3,Financial Analyst,2023-03-10,Mid,Pune,Contract
+32,Gaurav Kulkarni,8,Customer Experience Analyst,2019-01-18,Lead,Nagpur,Full-Time
+33,Bhavna Khan,5,IT Support Specialist,2022-07-01,Senior,Nagpur,Full-Time
+34,Yash Thakur,10,Analytics Consultant,2023-02-07,Mid,Bengaluru,Full-Time
+35,Rahul Patil,4,Marketing Manager,2018-08-28,Senior,Chennai,Full-Time
+36,Radhika Kulkarni,1,HR Executive,2023-05-07,Mid,Mumbai,Full-Time
+37,Gaurav Khan,1,People Operations Specialist,2018-10-06,Senior,Hyderabad,Contract
+38,Varun Mishra,6,Quality Analyst,2024-12-11,Junior,Delhi NCR,Full-Time
+39,Meera Singh,7,Sales Analyst,2021-07-10,Mid,Remote,Full-Time
+40,Shreya Mishra,10,Data Analyst,2018-10-25,Mid,Mumbai,Contract
+41,Kavya Mane,3,Financial Analyst,2020-12-22,Mid,Hyderabad,Full-Time
+42,Zoya Rao,4,Marketing Manager,2022-11-30,Senior,Pune,Contract
+43,Arjun Gupta,4,Marketing Analyst,2025-06-10,Junior,Mumbai,Contract
+44,Zoya Shah,2,Training Analyst,2021-02-28,Senior,Delhi NCR,Contract
+45,Naina Bajaj,5,IT Support Specialist,2018-07-28,Mid,Pune,Full-Time
+46,Harsh Kulkarni,4,Marketing Manager,2019-06-20,Senior,Remote,Contract
+47,Aman Mane,7,Business Development Executive,2024-04-16,Junior,Pune,Full-Time
+48,Aditya Rao,6,Operations Manager,2019-08-30,Senior,Pune,Full-Time
+49,Kavya Gokhale,3,Senior Financial Analyst,2020-10-19,Senior,Nagpur,Contract
+50,Chetan Mane,8,Customer Experience Analyst,2020-08-27,Lead,Nagpur,Full-Time
+51,Mohit Saxena,2,L&D Specialist,2021-09-22,Mid,Delhi NCR,Full-Time
+52,Aditya Sethi,8,Team Lead - Support,2019-03-19,Senior,Hyderabad,Full-Time
+53,Diya Deshmukh,8,Customer Support Executive,2023-03-01,Mid,Hyderabad,Full-Time
+54,Isha Verma,4,Marketing Manager,2018-10-12,Lead,Nagpur,Contract
+55,Harsh Kulkarni,4,Content Strategist,2018-04-24,Mid,Pune,Full-Time
+56,Kabir Iyer,6,Operations Analyst,2021-11-16,Mid,Nagpur,Contract
+57,Aarav Bhosale,3,Senior Financial Analyst,2018-07-01,Senior,Hyderabad,Full-Time
+58,Shreya Shah,5,Software Engineer,2025-06-13,Mid,Delhi NCR,Contract
+59,Yash Rao,4,Digital Marketing Executive,2022-07-31,Mid,Hyderabad,Full-Time
+60,Chetan Kapoor,7,Sales Analyst,2022-04-02,Mid,Nagpur,Contract
+61,Naina Saxena,8,Customer Experience Analyst,2021-05-29,Senior,Chennai,Full-Time
+62,Pooja Saxena,5,Systems Analyst,2025-07-30,Junior,Mumbai,Full-Time
+63,Ananya Bajaj,6,Process Executive,2025-02-05,Junior,Delhi NCR,Full-Time
+64,Gaurav Pawar,8,Customer Support Executive,2019-08-27,Mid,Remote,Full-Time
+65,Yash Khan,9,Insights Analyst,2024-06-15,Mid,Nagpur,Full-Time
+66,Siddharth Sethi,2,L&D Coordinator,2025-09-17,Junior,Nagpur,Full-Time
+67,Akash Chavan,2,L&D Specialist,2025-10-21,Junior,Mumbai,Full-Time
+68,Riya Kapoor,2,Training Analyst,2023-03-19,Mid,Remote,Contract
+69,Riya Jain,8,Customer Success Associate,2023-08-30,Mid,Remote,Full-Time
+70,Isha Gokhale,3,Senior Financial Analyst,2020-10-09,Lead,Remote,Full-Time
+71,Gaurav Gupta,4,Brand Analyst,2018-11-14,Senior,Chennai,Contract
+72,Yash Singh,1,HR Analyst,2019-09-10,Mid,Mumbai,Full-Time
+73,Akash Joshi,5,Cloud Engineer,2024-02-01,Mid,Nagpur,Contract
+74,Siddharth Mishra,10,Senior Data Analyst,2018-03-22,Lead,Nagpur,Full-Time
+75,Kunal Sethi,1,HR Business Partner,2021-12-11,Mid,Hyderabad,Full-Time
+76,Kunal Shah,3,Finance Executive,2022-11-21,Mid,Bengaluru,Full-Time
+77,Meera Mishra,10,Data Analyst,2024-12-23,Junior,Mumbai,Full-Time
+78,Harsh Khan,2,Training Analyst,2023-03-07,Mid,Hyderabad,Full-Time
+79,Mohit Gupta,4,Marketing Analyst,2022-04-02,Mid,Remote,Full-Time
+80,Kavya Deshmukh,8,Customer Experience Analyst,2018-08-02,Lead,Mumbai,Full-Time
+81,Aditi Kapoor,8,Customer Success Associate,2020-10-09,Mid,Hyderabad,Full-Time
+82,Dev Jain,5,Cybersecurity Analyst,2019-04-14,Senior,Delhi NCR,Full-Time
+83,Zoya Nair,2,L&D Specialist,2024-10-23,Mid,Delhi NCR,Full-Time
+84,Kunal Khan,6,Process Executive,2021-07-01,Mid,Mumbai,Contract
+85,Yash Gokhale,7,Sales Analyst,2025-01-13,Junior,Mumbai,Contract
+86,Varun Verma,8,Customer Support Executive,2021-11-23,Mid,Chennai,Full-Time
+87,Komal Yadav,9,Insights Analyst,2023-07-01,Junior,Bengaluru,Full-Time
+88,Isha Kapoor,2,Learning Program Manager,2023-11-08,Senior,Remote,Full-Time
+89,Kabir Sethi,5,Systems Analyst,2026-03-14,Junior,Mumbai,Full-Time
+90,Rohan Kapoor,9,Senior Research Analyst,2020-09-25,Senior,Nagpur,Full-Time
+91,Dev Verma,1,People Operations Specialist,2021-08-24,Mid,Chennai,Full-Time
+92,Riya Sharma,9,Market Research Associate,2025-11-12,Mid,Mumbai,Full-Time
+93,Gaurav Naik,7,Account Manager,2023-06-25,Mid,Remote,Full-Time
+94,Meera Naik,8,Support Analyst,2019-01-17,Senior,Delhi NCR,Contract
+95,Naina Thakur,5,IT Support Specialist,2024-03-17,Mid,Chennai,Full-Time
+96,Mihir Joshi,4,Content Strategist,2020-10-26,Mid,Mumbai,Contract
+97,Dev Thakur,10,Analytics Consultant,2025-09-27,Junior,Delhi NCR,Contract
+98,Aniket Bajaj,10,BI Analyst,2023-11-19,Mid,Delhi NCR,Full-Time
+99,Rahul Singh,5,IT Support Specialist,2021-05-23,Mid,Pune,Full-Time
+100,Sneha Sethi,6,Operations Manager,2025-10-27,Mid,Mumbai,Full-Time
+101,Karan Kulkarni,6,Operations Analyst,2023-04-07,Mid,Delhi NCR,Full-Time
+102,Aman Mishra,2,Learning Program Manager,2018-09-25,Senior,Pune,Full-Time
+103,Ananya Deshmukh,2,Training Analyst,2024-04-24,Senior,Nagpur,Contract
+104,Radhika Khan,6,Operations Manager,2024-12-08,Junior,Remote,Full-Time
+105,Shreya Patil,9,Research Analyst,2022-10-23,Mid,Hyderabad,Full-Time
+106,Chetan Chavan,3,Financial Analyst,2018-11-29,Mid,Bengaluru,Full-Time
+107,Ishaan Patil,5,Systems Analyst,2025-09-24,Junior,Delhi NCR,Full-Time
+108,Diya Jadhav,7,Sales Analyst,2023-02-03,Junior,Hyderabad,Full-Time
+109,Isha Bajaj,2,Training Analyst,2020-07-09,Senior,Mumbai,Full-Time
+110,Rohan Jadhav,2,Instructional Designer,2021-06-13,Senior,Remote,Full-Time
+111,Isha Bhosale,5,Cybersecurity Analyst,2021-05-30,Senior,Remote,Full-Time
+112,Rutuja Shah,1,HR Coordinator,2018-06-13,Lead,Delhi NCR,Full-Time
+113,Rohan Mishra,1,HR Executive,2025-07-24,Mid,Delhi NCR,Contract
+114,Radhika Yadav,1,HR Business Partner,2026-06-25,Junior,Delhi NCR,Full-Time
+115,Pranav Mehta,10,Analytics Consultant,2022-11-21,Mid,Chennai,Full-Time
+116,Bhavna Shah,4,Brand Analyst,2025-07-07,Junior,Remote,Full-Time
+117,Riya Patil,7,Account Manager,2022-06-29,Senior,Mumbai,Full-Time
+118,Meera Sethi,3,Senior Financial Analyst,2019-04-20,Lead,Pune,Contract
+119,Komal Kapoor,5,Cloud Engineer,2018-08-11,Mid,Remote,Full-Time
+120,Ishaan Jain,3,Finance Executive,2024-02-28,Junior,Mumbai,Full-Time
+121,Zoya Kulkarni,10,Reporting Analyst,2024-10-29,Mid,Pune,Contract
+122,Anjali Jain,5,Cybersecurity Analyst,2020-07-09,Lead,Mumbai,Full-Time
+123,Zoya Gupta,5,Cloud Engineer,2026-01-14,Junior,Remote,Full-Time
+124,Deepa Jadhav,3,Accounts Analyst,2024-03-07,Junior,Mumbai,Full-Time
+125,Priya Gupta,8,Customer Support Executive,2022-08-27,Mid,Delhi NCR,Full-Time
+126,Pranav Sethi,8,Customer Success Associate,2024-07-03,Mid,Remote,Contract
+127,Rahul Khan,5,Cloud Engineer,2021-09-23,Mid,Chennai,Full-Time
+128,Diya Sethi,10,Analytics Consultant,2020-09-05,Senior,Pune,Full-Time
+129,Kunal Khan,8,Customer Success Associate,2025-11-28,Mid,Remote,Full-Time
+130,Aniket Sethi,2,Instructional Designer,2024-08-14,Junior,Mumbai,Contract
+131,Mohit Sethi,10,Senior Data Analyst,2018-03-04,Senior,Bengaluru,Full-Time
+132,Yash Khan,5,Cybersecurity Analyst,2020-12-21,Senior,Mumbai,Full-Time
+133,Kabir Yadav,9,Insights Analyst,2023-12-26,Mid,Pune,Contract
+134,Ishaan Deshmukh,1,HR Executive,2025-01-29,Junior,Nagpur,Full-Time
+135,Neha Kulkarni,8,Support Analyst,2025-11-23,Mid,Pune,Full-Time
+136,Komal Iyer,4,Content Strategist,2018-08-18,Senior,Hyderabad,Contract
+137,Bhavna Kulkarni,5,Software Engineer,2025-08-24,Mid,Nagpur,Contract
+138,Avni Deshmukh,7,Account Manager,2023-08-01,Senior,Delhi NCR,Full-Time
+139,Nikhil Mane,3,Senior Financial Analyst,2018-02-08,Lead,Delhi NCR,Contract
+140,Sakshi Rao,2,Learning Program Manager,2022-12-15,Senior,Nagpur,Full-Time
+141,Kunal Sethi,5,Cloud Engineer,2021-05-22,Mid,Mumbai,Full-Time
+142,Yash Rao,5,Software Engineer,2022-01-10,Mid,Nagpur,Full-Time
+143,Akash Jadhav,1,HR Business Partner,2025-09-10,Mid,Delhi NCR,Full-Time
+144,Deepa Kapoor,6,Quality Analyst,2021-12-14,Mid,Bengaluru,Full-Time
+145,Neha Patil,9,Research Coordinator,2025-04-01,Junior,Bengaluru,Full-Time
+146,Chetan Joshi,9,Market Research Associate,2021-08-31,Mid,Chennai,Contract
+147,Harsh Jadhav,6,Supply Chain Analyst,2021-01-21,Lead,Remote,Full-Time
+148,Nikhil Mehta,8,Support Analyst,2021-10-19,Senior,Hyderabad,Full-Time
+149,Meera Sharma,10,Reporting Analyst,2024-04-01,Mid,Mumbai,Full-Time
+150,Sakshi Khan,5,IT Support Specialist,2026-05-26,Junior,Mumbai,Full-Time
+151,Riya Shah,5,Systems Analyst,2024-12-12,Mid,Mumbai,Full-Time
+152,Anjali Singh,9,Research Coordinator,2021-05-22,Senior,Pune,Full-Time
+153,Rahul Singh,10,Analytics Consultant,2019-04-21,Mid,Remote,Full-Time
+154,Rahul Iyer,7,Business Development Executive,2026-05-02,Junior,Nagpur,Full-Time
+155,Isha Patil,8,Support Analyst,2024-11-26,Junior,Hyderabad,Full-Time
+156,Aniket More,5,Cybersecurity Analyst,2020-08-25,Lead,Chennai,Contract
+157,Meera Gupta,9,Market Research Associate,2025-03-26,Junior,Mumbai,Full-Time
+158,Sameer Sharma,1,People Operations Specialist,2020-05-18,Senior,Chennai,Full-Time
+159,Siddharth Chavan,10,BI Analyst,2024-05-01,Mid,Hyderabad,Full-Time
+160,Sameer Sharma,4,Brand Analyst,2019-08-28,Senior,Bengaluru,Full-Time
+161,Aditi Singh,6,Operations Analyst,2019-12-16,Mid,Chennai,Full-Time
+162,Akash Singh,6,Operations Manager,2018-03-06,Mid,Mumbai,Full-Time
+163,Aniket Jain,5,Systems Analyst,2022-01-22,Mid,Pune,Contract
+164,Akash Pawar,4,Brand Analyst,2025-03-20,Mid,Nagpur,Full-Time
+165,Ananya Shah,5,Systems Analyst,2022-12-22,Junior,Mumbai,Full-Time
+166,Zoya Shah,4,Brand Analyst,2025-02-06,Junior,Delhi NCR,Full-Time
+167,Yash Nair,6,Process Executive,2022-10-29,Junior,Nagpur,Full-Time
+168,Nikhil Khan,9,Insights Analyst,2022-08-22,Mid,Mumbai,Full-Time
+169,Avni More,5,Cloud Engineer,2025-06-17,Junior,Mumbai,Full-Time
+170,Rutuja Thakur,8,Team Lead - Support,2019-01-17,Senior,Bengaluru,Contract
+171,Varun Nair,1,HR Business Partner,2024-04-19,Mid,Chennai,Full-Time
+172,Ishaan Kapoor,9,Research Coordinator,2026-02-01,Junior,Chennai,Full-Time
+173,Pooja Deshmukh,6,Operations Analyst,2020-05-21,Mid,Chennai,Contract
+174,Naina Sethi,5,Cybersecurity Analyst,2021-02-15,Senior,Pune,Contract
+175,Chetan Gupta,10,Reporting Analyst,2025-10-11,Junior,Chennai,Full-Time
+176,Meera Mehta,1,People Operations Specialist,2019-08-10,Senior,Pune,Full-Time
+177,Nikhil Shah,8,Support Analyst,2020-05-31,Senior,Chennai,Full-Time
+178,Akash Singh,7,Business Development Executive,2024-05-13,Mid,Pune,Full-Time
+179,Sameer Jain,4,Brand Analyst,2025-06-04,Junior,Delhi NCR,Full-Time
+180,Anjali Rao,8,Customer Experience Analyst,2019-04-12,Senior,Remote,Contract
+181,Sameer Patil,7,Sales Executive,2018-07-06,Mid,Hyderabad,Full-Time
+182,Ishaan Shah,10,Reporting Analyst,2019-07-17,Senior,Pune,Full-Time
+183,Rahul Naik,8,Customer Success Associate,2019-12-21,Mid,Chennai,Full-Time
+184,Aditi Jain,5,Software Engineer,2026-04-28,Junior,Chennai,Contract
+185,Mohit Rao,5,Software Engineer,2022-07-15,Mid,Nagpur,Full-Time
+186,Shreya Jain,10,Senior Data Analyst,2019-12-05,Lead,Chennai,Full-Time
+187,Sakshi Khan,5,Software Engineer,2019-03-10,Mid,Nagpur,Full-Time
+188,Bhavna Mehta,8,Customer Experience Analyst,2020-06-26,Senior,Mumbai,Contract
+189,Tanvi Bajaj,6,Process Executive,2021-12-02,Mid,Hyderabad,Full-Time
+190,Avni Gokhale,2,L&D Coordinator,2020-03-19,Mid,Bengaluru,Full-Time
+191,Neha More,5,IT Support Specialist,2024-04-28,Mid,Chennai,Full-Time
+192,Janhavi Saxena,5,IT Support Specialist,2023-04-05,Mid,Pune,Full-Time
+193,Aditya Patil,6,Operations Manager,2021-06-25,Senior,Delhi NCR,Full-Time
+194,Priya Khan,7,Account Manager,2019-01-05,Senior,Pune,Full-Time
+195,Kabir Kapoor,9,Insights Analyst,2024-05-30,Mid,Bengaluru,Full-Time
+196,Ananya Bhosale,5,Cybersecurity Analyst,2021-11-07,Senior,Bengaluru,Full-Time
+197,Radhika Bhosale,3,Senior Financial Analyst,2022-11-29,Senior,Bengaluru,Full-Time
+198,Anushka Shah,5,Cybersecurity Analyst,2021-03-04,Senior,Pune,Full-Time
+199,Kunal Rao,1,HR Business Partner,2019-01-23,Senior,Bengaluru,Full-Time
+200,Kavya Rao,1,HR Business Partner,2025-06-11,Junior,Bengaluru,Contract
+201,Kunal Yadav,7,Account Manager,2018-12-14,Senior,Bengaluru,Contract
+202,Komal Sharma,1,People Operations Specialist,2025-07-09,Junior,Delhi NCR,Full-Time
+203,Pranav Joshi,10,Reporting Analyst,2021-10-31,Senior,Bengaluru,Full-Time
+204,Rahul Bajaj,1,HR Coordinator,2019-02-19,Senior,Pune,Full-Time
+205,Kunal Singh,9,Market Research Associate,2024-12-06,Junior,Bengaluru,Contract
+206,Aditya Iyer,8,Team Lead - Support,2019-11-10,Senior,Hyderabad,Full-Time
+207,Neha Deshmukh,6,Process Executive,2026-06-09,Junior,Delhi NCR,Full-Time
+208,Rohan Jain,9,Insights Analyst,2020-03-05,Senior,Delhi NCR,Full-Time
+209,Deepa Saxena,6,Supply Chain Analyst,2022-09-11,Senior,Bengaluru,Full-Time
+210,Riya Jadhav,1,People Operations Specialist,2023-05-23,Senior,Mumbai,Full-Time
+211,Priya Singh,1,HR Business Partner,2019-10-19,Senior,Mumbai,Full-Time
+212,Mohit Patil,8,Team Lead - Support,2021-12-02,Senior,Chennai,Full-Time
+213,Aditi Shah,5,IT Support Specialist,2018-12-01,Senior,Chennai,Full-Time
+214,Pooja Naik,2,Learning Program Manager,2021-03-21,Lead,Bengaluru,Full-Time
+215,Aditi Gupta,5,Cybersecurity Analyst,2018-01-22,Lead,Hyderabad,Full-Time
+216,Naina Nair,6,Quality Analyst,2026-02-26,Junior,Hyderabad,Full-Time
+217,Shreya Jain,2,Training Analyst,2020-09-03,Senior,Mumbai,Full-Time
+218,Rohan Deshmukh,6,Supply Chain Analyst,2018-03-09,Senior,Bengaluru,Full-Time
+219,Rohan Iyer,5,Systems Analyst,2024-11-23,Junior,Mumbai,Contract
+220,Rahul Bhosale,10,Senior Data Analyst,2018-10-05,Lead,Pune,Full-Time
+221,Komal Gupta,9,Senior Research Analyst,2018-06-28,Senior,Pune,Full-Time
+222,Varun Yadav,8,Customer Support Executive,2021-11-13,Mid,Chennai,Full-Time
+223,Tanvi Kulkarni,1,HR Business Partner,2024-02-15,Mid,Remote,Full-Time
+224,Nikhil Patil,8,Team Lead - Support,2018-09-16,Senior,Hyderabad,Full-Time
+225,Janhavi Bhosale,8,Team Lead - Support,2018-06-21,Senior,Remote,Full-Time
+226,Kavya Sethi,1,HR Executive,2025-04-03,Junior,Chennai,Full-Time
+227,Meera Thakur,2,Instructional Designer,2022-02-16,Mid,Nagpur,Full-Time
+228,Komal Jadhav,10,Reporting Analyst,2023-07-26,Mid,Mumbai,Full-Time
+229,Chetan Chavan,1,People Operations Specialist,2024-10-03,Mid,Chennai,Full-Time
+230,Neha Kapoor,1,HR Business Partner,2025-05-31,Junior,Bengaluru,Full-Time
+231,Kavya Kapoor,4,Brand Analyst,2018-06-23,Senior,Delhi NCR,Full-Time
+232,Priya Saxena,1,HR Analyst,2025-02-24,Junior,Pune,Full-Time
+233,Aditya Singh,9,Research Analyst,2025-08-09,Mid,Hyderabad,Full-Time
+234,Avni More,5,Cloud Engineer,2024-05-12,Junior,Chennai,Full-Time
+235,Radhika Verma,5,Cloud Engineer,2018-11-11,Senior,Chennai,Full-Time
+236,Chetan Pawar,3,Finance Executive,2019-04-10,Mid,Mumbai,Full-Time
+237,Shreya Rao,8,Team Lead - Support,2025-11-23,Junior,Hyderabad,Full-Time
+238,Zoya Jain,2,Training Analyst,2018-10-31,Senior,Chennai,Full-Time
+239,Janhavi Sethi,7,Business Development Executive,2024-03-02,Mid,Bengaluru,Full-Time
+240,Arjun Deshmukh,6,Supply Chain Analyst,2019-05-13,Lead,Remote,Full-Time
+241,Riya Singh,5,Software Engineer,2024-06-02,Mid,Mumbai,Full-Time
+242,Radhika Iyer,5,Cloud Engineer,2026-01-15,Junior,Mumbai,Full-Time
+243,Nikhil More,10,Reporting Analyst,2025-03-16,Junior,Bengaluru,Contract
+244,Arjun Iyer,7,Regional Sales Manager,2020-01-16,Senior,Pune,Full-Time
+245,Kabir Jadhav,6,Process Executive,2021-05-30,Mid,Chennai,Contract
+246,Sneha Chavan,9,Insights Analyst,2018-11-20,Senior,Bengaluru,Full-Time
+247,Bhavna Mishra,6,Supply Chain Analyst,2019-01-18,Senior,Bengaluru,Full-Time
+248,Karan Bajaj,7,Sales Executive,2026-01-30,Mid,Pune,Full-Time
+249,Harsh Yadav,1,HR Analyst,2025-03-12,Mid,Nagpur,Contract
+250,Rahul Rao,7,Regional Sales Manager,2023-08-02,Senior,Delhi NCR,Full-Time
+251,Nikhil Mehta,3,Financial Analyst,2025-09-06,Junior,Bengaluru,Full-Time
+252,Sameer Singh,5,IT Support Specialist,2023-03-18,Mid,Chennai,Full-Time
+253,Priya Chavan,10,Reporting Analyst,2019-06-20,Senior,Chennai,Full-Time
+254,Avni Nair,5,IT Support Specialist,2020-12-31,Senior,Delhi NCR,Full-Time
+255,Bhavna Bajaj,9,Research Coordinator,2022-09-09,Mid,Chennai,Full-Time
+256,Nikhil Pawar,8,Team Lead - Support,2023-08-03,Senior,Remote,Full-Time
+257,Gaurav Joshi,1,People Operations Specialist,2022-05-30,Mid,Pune,Full-Time
+258,Tanvi More,4,Brand Analyst,2024-09-13,Mid,Delhi NCR,Contract
+259,Harsh Thakur,1,HR Business Partner,2019-03-17,Senior,Nagpur,Full-Time
+260,Deepa Verma,1,HR Coordinator,2018-07-29,Senior,Delhi NCR,Full-Time
+261,Isha Bajaj,5,Software Engineer,2023-01-19,Mid,Bengaluru,Full-Time
+262,Komal Gokhale,5,Systems Analyst,2021-10-20,Mid,Hyderabad,Contract
+263,Aditya Singh,6,Quality Analyst,2023-08-11,Junior,Remote,Contract
+264,Arjun Shah,5,IT Support Specialist,2024-10-19,Mid,Bengaluru,Full-Time
+265,Sakshi Shah,10,Analytics Consultant,2026-04-17,Mid,Delhi NCR,Full-Time
+266,Anjali Iyer,8,Support Analyst,2022-02-17,Mid,Pune,Contract
+267,Anushka Mishra,5,Systems Analyst,2025-05-09,Mid,Pune,Contract
+268,Shreya Gokhale,5,Cloud Engineer,2023-11-18,Mid,Bengaluru,Full-Time
+269,Aditi Jain,1,People Operations Specialist,2025-11-09,Junior,Nagpur,Full-Time
+270,Anushka Kapoor,5,Cloud Engineer,2020-04-15,Senior,Pune,Full-Time
+271,Varun Pawar,6,Operations Manager,2024-04-16,Mid,Chennai,Full-Time
+272,Kavya More,5,IT Support Specialist,2023-12-24,Mid,Remote,Full-Time
+273,Diya Rao,10,Analytics Consultant,2021-02-16,Senior,Hyderabad,Full-Time
+274,Mihir Gupta,4,Content Strategist,2021-11-29,Mid,Mumbai,Contract
+275,Meera Bajaj,7,Account Manager,2022-04-05,Senior,Bengaluru,Full-Time
+276,Neha Yadav,1,People Operations Specialist,2026-01-04,Junior,Remote,Full-Time
+277,Riya Naik,3,FP&A Analyst,2024-01-16,Mid,Bengaluru,Full-Time
+278,Akash More,6,Process Executive,2024-07-31,Junior,Hyderabad,Full-Time
+279,Aniket More,2,L&D Specialist,2021-09-14,Mid,Pune,Contract
+280,Pooja Pawar,10,Senior Data Analyst,2019-10-09,Senior,Hyderabad,Full-Time
+281,Anushka Mehta,4,Digital Marketing Executive,2025-03-30,Junior,Pune,Full-Time
+282,Aditya Bajaj,5,Cybersecurity Analyst,2019-12-22,Lead,Nagpur,Full-Time
+283,Ishaan Mane,3,Financial Analyst,2026-05-26,Mid,Pune,Full-Time
+284,Karan Rao,6,Supply Chain Analyst,2019-03-16,Lead,Remote,Contract
+285,Nikhil Gupta,6,Supply Chain Analyst,2019-07-04,Lead,Hyderabad,Full-Time
+286,Harsh Naik,4,Digital Marketing Executive,2026-03-14,Junior,Pune,Full-Time
+287,Deepa Kulkarni,8,Team Lead - Support,2024-05-14,Mid,Nagpur,Contract
+288,Chetan Singh,4,Brand Analyst,2022-06-30,Mid,Chennai,Full-Time
+289,Siddharth Gupta,1,People Operations Specialist,2022-04-21,Mid,Delhi NCR,Contract
+290,Komal Naik,7,Sales Analyst,2018-02-16,Senior,Pune,Full-Time
+291,Priya Jadhav,5,Cybersecurity Analyst,2019-10-17,Senior,Delhi NCR,Full-Time
+292,Diya Deshmukh,7,Sales Analyst,2021-04-23,Senior,Remote,Full-Time
+293,Yash Chavan,5,Cloud Engineer,2024-10-17,Junior,Hyderabad,Full-Time
+294,Ananya Bhosale,7,Account Manager,2024-09-06,Mid,Chennai,Full-Time
+295,Riya Mane,10,BI Analyst,2019-04-05,Mid,Bengaluru,Full-Time
+296,Vedant Joshi,4,Brand Analyst,2023-11-02,Mid,Mumbai,Contract
+297,Priya Iyer,5,Cloud Engineer,2018-08-16,Senior,Pune,Contract
+298,Meera Gupta,5,IT Support Specialist,2021-06-16,Senior,Hyderabad,Contract
+299,Aman Chavan,1,HR Executive,2022-10-02,Mid,Mumbai,Full-Time
+300,Arjun Gokhale,1,HR Business Partner,2022-08-02,Mid,Chennai,Full-Time
+301,Vedant More,5,Systems Analyst,2022-03-27,Mid,Chennai,Full-Time
+302,Arjun Thakur,2,L&D Specialist,2024-01-10,Mid,Pune,Full-Time
+303,Rahul Iyer,10,Analytics Consultant,2023-03-12,Mid,Hyderabad,Full-Time
+304,Mihir Gokhale,5,IT Support Specialist,2019-09-28,Senior,Pune,Full-Time
+305,Aman Nair,6,Operations Analyst,2018-03-06,Mid,Remote,Contract
+306,Aditya Khan,7,Account Manager,2018-07-19,Mid,Hyderabad,Contract
+307,Ishaan Deshmukh,3,FP&A Analyst,2018-08-20,Mid,Chennai,Full-Time
+308,Radhika Deshmukh,4,Marketing Manager,2019-08-10,Lead,Nagpur,Full-Time
+309,Rutuja Jadhav,4,Content Strategist,2024-03-30,Senior,Nagpur,Contract
+310,Varun Khan,5,Cybersecurity Analyst,2021-11-11,Senior,Chennai,Full-Time
+311,Siddharth Chavan,5,Cloud Engineer,2021-05-13,Senior,Hyderabad,Full-Time
+312,Nikhil Jadhav,4,Marketing Analyst,2025-12-08,Junior,Nagpur,Full-Time
+313,Harsh Joshi,6,Operations Manager,2019-07-04,Senior,Mumbai,Full-Time
+314,Deepa Patil,9,Insights Analyst,2019-01-14,Senior,Nagpur,Contract
+315,Siddharth Mishra,6,Process Executive,2018-10-26,Mid,Remote,Full-Time
+316,Aarav Joshi,9,Market Research Associate,2021-09-25,Mid,Mumbai,Full-Time
+317,Dev Khan,10,BI Analyst,2025-10-20,Junior,Chennai,Full-Time
+318,Janhavi Gupta,5,IT Support Specialist,2023-12-26,Mid,Remote,Full-Time
+319,Kabir Jadhav,1,HR Analyst,2026-02-07,Junior,Chennai,Full-Time
+320,Rutuja Singh,5,IT Support Specialist,2024-04-23,Senior,Delhi NCR,Contract
+321,Ishaan Singh,10,BI Analyst,2024-06-30,Mid,Chennai,Full-Time
+322,Tanvi More,5,Cloud Engineer,2020-10-03,Senior,Delhi NCR,Full-Time
+323,Nikhil Kulkarni,10,Reporting Analyst,2025-03-13,Junior,Bengaluru,Full-Time
+324,Rahul Yadav,7,Sales Executive,2023-06-24,Mid,Pune,Full-Time
+325,Aarav Iyer,10,BI Analyst,2025-06-30,Junior,Hyderabad,Full-Time
+326,Nikhil Verma,7,Sales Executive,2018-02-07,Mid,Remote,Full-Time
+327,Aarav Sharma,1,People Operations Specialist,2023-12-20,Mid,Delhi NCR,Full-Time
+328,Chetan Nair,6,Operations Analyst,2025-10-29,Junior,Bengaluru,Full-Time
+329,Kavya Gupta,3,Finance Executive,2023-11-27,Mid,Mumbai,Full-Time
+330,Yash Deshmukh,10,Reporting Analyst,2023-02-24,Mid,Mumbai,Full-Time
+331,Pooja Patil,1,HR Executive,2022-04-03,Mid,Bengaluru,Full-Time
+332,Karan Mishra,5,Software Engineer,2022-11-13,Mid,Pune,Full-Time
+333,Pooja Gupta,3,Financial Analyst,2025-10-06,Mid,Mumbai,Full-Time
+334,Chetan Jadhav,9,Research Coordinator,2024-04-27,Mid,Pune,Full-Time
+335,Meera Jadhav,6,Operations Analyst,2026-06-09,Mid,Delhi NCR,Full-Time
+336,Kunal More,6,Supply Chain Analyst,2024-05-10,Senior,Chennai,Full-Time
+337,Yash Thakur,8,Support Analyst,2019-07-28,Senior,Chennai,Full-Time
+338,Karan Kapoor,1,HR Coordinator,2020-08-08,Lead,Nagpur,Full-Time
+339,Neha Pawar,1,People Operations Specialist,2021-01-24,Senior,Chennai,Contract
+340,Sakshi More,10,Analytics Consultant,2022-11-04,Mid,Mumbai,Contract
+341,Ananya Gupta,4,Content Strategist,2020-10-06,Senior,Nagpur,Full-Time
+342,Ananya Sharma,7,Sales Analyst,2021-07-21,Mid,Remote,Full-Time
+343,Chetan Iyer,8,Team Lead - Support,2019-02-23,Mid,Nagpur,Full-Time
+344,Sameer Kapoor,1,People Operations Specialist,2021-12-20,Mid,Nagpur,Full-Time
+345,Mihir Mane,4,Digital Marketing Executive,2022-05-08,Mid,Bengaluru,Full-Time
+346,Pranav Singh,2,Training Analyst,2021-01-06,Senior,Bengaluru,Full-Time
+347,Aman Verma,4,Brand Analyst,2021-05-12,Senior,Hyderabad,Full-Time
+348,Arjun Rao,6,Quality Analyst,2020-03-11,Senior,Nagpur,Full-Time
+349,Karan Jain,9,Insights Analyst,2022-04-06,Senior,Nagpur,Contract
+350,Yash Joshi,2,Instructional Designer,2021-08-06,Mid,Chennai,Full-Time
+351,Yash Yadav,10,Analytics Consultant,2021-07-31,Mid,Hyderabad,Full-Time
+352,Rohan Joshi,5,Systems Analyst,2022-05-29,Mid,Pune,Full-Time
+353,Ishaan Bajaj,10,Senior Data Analyst,2020-05-08,Senior,Mumbai,Full-Time
+354,Gaurav Gupta,7,Regional Sales Manager,2019-07-25,Senior,Bengaluru,Full-Time
+355,Sameer Pawar,8,Customer Experience Analyst,2018-10-30,Senior,Nagpur,Contract
+356,Aditya Saxena,6,Quality Analyst,2025-10-04,Junior,Mumbai,Full-Time
+357,Bhavna Yadav,8,Customer Support Executive,2025-05-17,Junior,Nagpur,Full-Time
+358,Aniket Gupta,10,BI Analyst,2022-10-30,Junior,Hyderabad,Full-Time
+359,Sakshi Naik,5,Systems Analyst,2023-03-12,Mid,Chennai,Full-Time
+360,Ananya Nair,5,Cybersecurity Analyst,2021-04-25,Senior,Bengaluru,Full-Time
+361,Radhika Pawar,4,Content Strategist,2023-02-09,Mid,Remote,Full-Time
+362,Aman Rao,5,Software Engineer,2025-10-24,Junior,Mumbai,Full-Time
+363,Bhavna Jadhav,9,Market Research Associate,2025-04-08,Junior,Bengaluru,Contract
+364,Nikhil Deshmukh,2,Instructional Designer,2024-04-12,Mid,Bengaluru,Full-Time
+365,Rutuja Kapoor,7,Business Development Executive,2022-11-06,Mid,Remote,Contract
+366,Dev Gupta,5,Cybersecurity Analyst,2018-01-19,Senior,Mumbai,Contract
+367,Kabir Joshi,2,Instructional Designer,2024-01-09,Mid,Mumbai,Full-Time
+368,Sneha Shah,7,Account Manager,2023-06-28,Mid,Nagpur,Contract
+369,Shreya Kulkarni,2,Learning Program Manager,2021-12-12,Senior,Delhi NCR,Contract
+370,Anjali Deshmukh,6,Quality Analyst,2025-07-15,Junior,Mumbai,Full-Time
+371,Mohit Kapoor,5,IT Support Specialist,2019-08-03,Senior,Nagpur,Full-Time
+372,Tanvi Jadhav,3,Accounts Analyst,2025-02-16,Junior,Bengaluru,Full-Time
+373,Neha Kapoor,4,Content Strategist,2020-02-06,Senior,Chennai,Full-Time
+374,Riya Bhosale,5,Cybersecurity Analyst,2020-03-10,Lead,Remote,Full-Time
+375,Neha Pawar,7,Business Development Executive,2022-08-30,Mid,Mumbai,Contract
+376,Isha Deshmukh,1,HR Coordinator,2020-06-22,Senior,Delhi NCR,Full-Time
+377,Anushka Pawar,8,Customer Support Executive,2024-05-05,Mid,Mumbai,Full-Time
+378,Siddharth Patil,8,Team Lead - Support,2022-02-11,Mid,Hyderabad,Full-Time
+379,Janhavi Sethi,2,L&D Coordinator,2025-05-01,Mid,Remote,Full-Time
+380,Anjali Gokhale,4,Content Strategist,2018-12-23,Senior,Hyderabad,Contract
+381,Naina Kulkarni,7,Business Development Executive,2025-12-21,Junior,Hyderabad,Full-Time
+382,Isha Kapoor,8,Customer Success Associate,2024-05-24,Mid,Chennai,Full-Time
+383,Priya Mane,4,Marketing Manager,2020-12-31,Lead,Mumbai,Full-Time
+384,Isha Sethi,10,Senior Data Analyst,2022-08-13,Senior,Bengaluru,Full-Time
+385,Gaurav Gokhale,3,Finance Executive,2025-12-23,Junior,Remote,Full-Time
+386,Kunal Jain,6,Quality Analyst,2021-01-05,Senior,Mumbai,Full-Time
+387,Komal Jain,6,Operations Manager,2021-02-13,Senior,Chennai,Contract
+388,Nikhil Yadav,1,People Operations Specialist,2026-03-21,Junior,Mumbai,Contract
+389,Pranav Gupta,5,Cloud Engineer,2022-10-26,Senior,Delhi NCR,Full-Time
+390,Pranav Saxena,6,Operations Manager,2019-06-19,Senior,Pune,Full-Time
+391,Bhavna Jain,1,HR Business Partner,2023-02-26,Junior,Pune,Full-Time
+392,Tanvi Rao,3,Accounts Analyst,2025-09-21,Mid,Delhi NCR,Full-Time
+393,Varun Mane,7,Business Development Executive,2020-10-22,Mid,Pune,Full-Time
+394,Diya Iyer,7,Sales Executive,2026-02-21,Junior,Mumbai,Full-Time
+395,Diya Bhosale,3,Finance Executive,2018-11-16,Mid,Pune,Full-Time
+396,Naina Naik,7,Regional Sales Manager,2019-05-09,Lead,Bengaluru,Full-Time
+397,Aniket Nair,1,People Operations Specialist,2022-04-19,Junior,Chennai,Full-Time
+398,Tanvi More,2,L&D Specialist,2026-06-12,Mid,Mumbai,Contract
+399,Neha Verma,6,Process Executive,2024-11-04,Junior,Bengaluru,Full-Time
+400,Ananya Mane,6,Quality Analyst,2022-12-18,Senior,Bengaluru,Full-Time
+401,Naina Shah,6,Process Executive,2022-04-22,Mid,Hyderabad,Full-Time
+402,Sameer Thakur,7,Regional Sales Manager,2020-10-13,Senior,Delhi NCR,Full-Time
+403,Dev Bhosale,9,Market Research Associate,2025-05-20,Mid,Nagpur,Full-Time
+404,Anjali Deshmukh,7,Account Manager,2020-09-07,Senior,Mumbai,Contract
+405,Kabir Singh,9,Senior Research Analyst,2018-02-19,Lead,Nagpur,Contract
+406,Siddharth Pawar,5,Software Engineer,2024-02-16,Mid,Pune,Contract
+407,Akash Saxena,1,HR Business Partner,2020-12-09,Mid,Delhi NCR,Contract
+408,Ananya Yadav,8,Customer Success Associate,2022-10-01,Mid,Delhi NCR,Full-Time
+409,Avni Chavan,4,Brand Analyst,2023-09-26,Senior,Nagpur,Contract
+410,Aman Rao,7,Account Manager,2025-04-15,Junior,Hyderabad,Full-Time
+411,Shreya Kapoor,3,Financial Analyst,2022-11-15,Junior,Delhi NCR,Full-Time
+412,Aarav Kulkarni,2,Instructional Designer,2025-12-09,Junior,Chennai,Contract
+413,Komal Singh,6,Quality Analyst,2026-01-31,Junior,Mumbai,Full-Time
+414,Aman Gupta,4,Marketing Analyst,2022-10-25,Mid,Remote,Full-Time
+415,Rohan Kulkarni,6,Operations Manager,2018-08-16,Senior,Bengaluru,Full-Time
+416,Anjali Deshmukh,8,Customer Support Executive,2024-06-08,Mid,Pune,Full-Time
+417,Avni Kulkarni,3,Financial Analyst,2023-04-17,Mid,Nagpur,Full-Time
+418,Kabir Gupta,4,Content Strategist,2022-09-01,Senior,Chennai,Full-Time
+419,Radhika Patil,6,Operations Manager,2018-08-04,Mid,Mumbai,Full-Time
+420,Riya Jain,9,Research Coordinator,2021-06-26,Senior,Chennai,Full-Time
+421,Gaurav Jain,4,Brand Analyst,2021-05-29,Senior,Remote,Full-Time
+422,Gaurav Singh,7,Sales Executive,2024-02-17,Mid,Nagpur,Full-Time
+423,Yash Mane,3,Financial Analyst,2021-11-19,Mid,Chennai,Full-Time
+424,Mihir Rao,8,Support Analyst,2022-03-22,Senior,Hyderabad,Contract
+425,Akash Singh,10,Reporting Analyst,2022-09-16,Mid,Mumbai,Full-Time
+426,Komal Jain,10,Data Analyst,2023-10-30,Mid,Mumbai,Contract
+427,Rohan Patil,2,Instructional Designer,2022-06-04,Junior,Bengaluru,Full-Time
+428,Meera Naik,4,Marketing Manager,2021-07-14,Senior,Chennai,Full-Time
+429,Deepa Singh,5,Software Engineer,2020-08-14,Mid,Bengaluru,Full-Time
+430,Anjali Chavan,2,Training Analyst,2023-03-24,Mid,Hyderabad,Full-Time
+431,Ananya Kulkarni,4,Marketing Manager,2020-12-21,Lead,Delhi NCR,Contract
+432,Zoya Deshmukh,1,People Operations Specialist,2021-09-04,Junior,Nagpur,Contract
+433,Chetan Sharma,1,HR Business Partner,2021-05-09,Senior,Remote,Contract
+434,Aniket Saxena,8,Customer Success Associate,2020-10-20,Mid,Mumbai,Full-Time
+435,Meera Verma,1,HR Executive,2020-06-29,Mid,Delhi NCR,Full-Time
+436,Tanvi Jain,1,HR Analyst,2018-09-22,Mid,Mumbai,Full-Time
+437,Rohan Iyer,2,Instructional Designer,2023-03-04,Junior,Remote,Full-Time
+438,Dev Jadhav,5,Systems Analyst,2022-10-14,Mid,Delhi NCR,Full-Time
+439,Shreya Kapoor,5,Systems Analyst,2019-09-01,Mid,Delhi NCR,Full-Time
+440,Ananya Gupta,5,Cloud Engineer,2024-03-05,Mid,Bengaluru,Full-Time
+441,Rahul Saxena,3,Financial Analyst,2023-11-24,Mid,Nagpur,Full-Time
+442,Rohan Bhosale,5,IT Support Specialist,2023-06-09,Mid,Nagpur,Full-Time
+443,Aditi Mane,2,Training Analyst,2021-07-30,Mid,Pune,Full-Time
+444,Bhavna Nair,6,Process Executive,2024-07-20,Mid,Hyderabad,Full-Time
+445,Diya Mishra,6,Operations Manager,2026-04-07,Junior,Chennai,Full-Time
+446,Rutuja Naik,2,Training Analyst,2024-08-23,Junior,Pune,Full-Time
+447,Deepa Bajaj,10,Analytics Consultant,2024-04-27,Junior,Delhi NCR,Full-Time
+448,Sameer Deshmukh,5,Software Engineer,2019-01-05,Mid,Remote,Full-Time
+449,Arjun Shah,4,Digital Marketing Executive,2024-11-20,Junior,Chennai,Full-Time
+450,Avni Gokhale,1,HR Executive,2024-07-30,Junior,Chennai,Full-Time
+451,Aniket Shah,5,IT Support Specialist,2025-06-05,Junior,Chennai,Full-Time
+452,Sneha Pawar,10,Reporting Analyst,2026-03-19,Mid,Bengaluru,Contract
+453,Diya More,7,Business Development Executive,2024-11-18,Mid,Nagpur,Full-Time
+454,Mihir Sharma,7,Account Manager,2021-04-21,Mid,Pune,Full-Time
+455,Rohan Nair,6,Operations Manager,2024-11-09,Junior,Bengaluru,Full-Time
+456,Kabir Kulkarni,8,Customer Experience Analyst,2020-09-01,Senior,Mumbai,Full-Time
+457,Yash Mehta,5,IT Support Specialist,2020-12-22,Mid,Delhi NCR,Full-Time
+458,Mihir Iyer,7,Sales Analyst,2018-07-17,Senior,Nagpur,Full-Time
+459,Aniket Bajaj,9,Insights Analyst,2021-12-09,Mid,Hyderabad,Full-Time
+460,Kabir Gupta,5,IT Support Specialist,2018-05-17,Senior,Mumbai,Full-Time
+461,Aman Chavan,2,L&D Coordinator,2022-03-18,Mid,Chennai,Contract
+462,Naina Yadav,10,BI Analyst,2023-06-01,Mid,Nagpur,Full-Time
+463,Deepa Iyer,1,People Operations Specialist,2021-09-18,Mid,Delhi NCR,Full-Time
+464,Riya Bajaj,3,Finance Executive,2018-07-23,Senior,Bengaluru,Full-Time
+465,Varun Yadav,5,Cloud Engineer,2022-10-18,Junior,Hyderabad,Full-Time
+466,Ananya Pawar,1,People Operations Specialist,2019-12-01,Senior,Delhi NCR,Full-Time
+467,Tanvi Chavan,5,Cloud Engineer,2025-05-31,Junior,Bengaluru,Full-Time
+468,Aditya Gupta,9,Insights Analyst,2022-02-22,Mid,Remote,Full-Time
+469,Avni Gokhale,3,Senior Financial Analyst,2021-01-05,Senior,Mumbai,Full-Time
+470,Siddharth Mishra,7,Business Development Executive,2024-01-27,Mid,Pune,Full-Time
+471,Vedant Sethi,8,Team Lead - Support,2022-09-11,Senior,Hyderabad,Full-Time
+472,Zoya Patil,4,Marketing Manager,2022-06-06,Senior,Bengaluru,Full-Time
+473,Bhavna Joshi,10,BI Analyst,2023-01-14,Mid,Bengaluru,Full-Time
+474,Sneha Singh,5,IT Support Specialist,2025-08-30,Junior,Chennai,Full-Time
+475,Kabir Sethi,1,People Operations Specialist,2024-03-28,Mid,Remote,Full-Time
+476,Mohit Nair,8,Team Lead - Support,2024-12-27,Junior,Bengaluru,Full-Time
+477,Aniket Jadhav,6,Operations Analyst,2024-07-14,Mid,Mumbai,Full-Time
+478,Harsh Khan,9,Senior Research Analyst,2021-11-09,Senior,Remote,Contract
+479,Meera Singh,6,Operations Manager,2018-06-03,Mid,Pune,Full-Time
+480,Akash Thakur,9,Insights Analyst,2021-09-19,Mid,Delhi NCR,Full-Time
+481,Pranav Sethi,1,HR Coordinator,2021-05-26,Senior,Mumbai,Full-Time
+482,Kabir Gupta,2,Instructional Designer,2026-05-05,Junior,Mumbai,Full-Time
+483,Siddharth Bhosale,5,IT Support Specialist,2022-07-26,Mid,Pune,Contract
+484,Priya Khan,8,Support Analyst,2018-09-26,Senior,Pune,Full-Time
+485,Gaurav Patil,3,Senior Financial Analyst,2020-04-02,Lead,Remote,Full-Time
+486,Komal Bajaj,10,Analytics Consultant,2025-11-26,Junior,Nagpur,Full-Time
+487,Sameer Jain,7,Sales Analyst,2020-09-17,Senior,Remote,Contract
+488,Harsh Thakur,6,Operations Analyst,2021-11-11,Mid,Delhi NCR,Full-Time
+489,Anushka Joshi,5,Cybersecurity Analyst,2019-10-30,Lead,Hyderabad,Full-Time
+490,Priya Sharma,7,Regional Sales Manager,2021-01-07,Senior,Pune,Full-Time
+491,Aarav Deshmukh,10,Reporting Analyst,2025-04-05,Junior,Delhi NCR,Full-Time
+492,Nikhil Gupta,5,IT Support Specialist,2022-03-23,Senior,Remote,Full-Time
+493,Aniket Sharma,7,Sales Analyst,2024-12-29,Junior,Delhi NCR,Full-Time
+494,Isha Yadav,7,Sales Analyst,2023-05-28,Junior,Delhi NCR,Full-Time
+495,Avni Bhosale,7,Business Development Executive,2025-04-22,Junior,Pune,Contract
+496,Mihir Sharma,5,Cloud Engineer,2021-08-02,Mid,Delhi NCR,Full-Time
+497,Aditya Mishra,9,Market Research Associate,2022-07-16,Mid,Chennai,Full-Time
+498,Varun Verma,7,Sales Analyst,2025-02-27,Mid,Bengaluru,Contract
+499,Rutuja Gupta,3,Senior Financial Analyst,2019-02-04,Senior,Bengaluru,Full-Time
+500,Rutuja Sethi,7,Account Manager,2020-06-29,Senior,Nagpur,Full-Time
+501,Anjali Pawar,5,Software Engineer,2024-07-26,Junior,Mumbai,Full-Time
+502,Vedant Khan,9,Research Coordinator,2023-08-12,Junior,Nagpur,Full-Time
+503,Deepa Shah,9,Insights Analyst,2019-09-10,Mid,Remote,Full-Time
+504,Ananya Pawar,4,Content Strategist,2026-01-10,Junior,Bengaluru,Full-Time
+505,Dev Gokhale,7,Sales Analyst,2018-01-20,Senior,Bengaluru,Full-Time
+506,Naina Yadav,8,Team Lead - Support,2018-12-27,Mid,Nagpur,Full-Time
+507,Rahul Joshi,10,Reporting Analyst,2022-04-20,Junior,Pune,Full-Time
+508,Vedant Sharma,8,Customer Success Associate,2023-12-16,Mid,Hyderabad,Full-Time
+509,Sakshi Rao,4,Content Strategist,2019-02-25,Senior,Mumbai,Full-Time
+510,Radhika Kapoor,4,Marketing Manager,2021-04-06,Senior,Chennai,Full-Time
+511,Pranav Verma,9,Research Coordinator,2019-07-03,Senior,Bengaluru,Full-Time
+512,Arjun Joshi,1,HR Coordinator,2020-07-07,Senior,Pune,Contract
+513,Tanvi Saxena,6,Quality Analyst,2019-05-20,Senior,Nagpur,Full-Time
+514,Akash More,8,Customer Support Executive,2024-12-27,Junior,Pune,Full-Time
+515,Anjali Chavan,7,Sales Analyst,2022-09-04,Mid,Remote,Full-Time
+516,Janhavi Iyer,3,Financial Analyst,2025-09-09,Junior,Delhi NCR,Contract
+517,Aniket Bhosale,6,Supply Chain Analyst,2019-07-16,Senior,Mumbai,Full-Time
+518,Sameer Joshi,2,Instructional Designer,2019-03-12,Senior,Hyderabad,Full-Time
+519,Riya Pawar,7,Business Development Executive,2021-04-24,Mid,Remote,Full-Time
+520,Anjali Bajaj,3,Senior Financial Analyst,2018-02-22,Senior,Remote,Full-Time
+521,Mihir Nair,10,Reporting Analyst,2023-09-27,Junior,Hyderabad,Full-Time
+522,Akash Nair,10,Reporting Analyst,2021-04-27,Senior,Pune,Full-Time
+523,Rutuja Nair,5,Software Engineer,2025-08-04,Junior,Pune,Full-Time
+524,Karan Verma,9,Insights Analyst,2025-06-10,Junior,Delhi NCR,Full-Time
+525,Meera Khan,5,Cloud Engineer,2021-11-04,Mid,Delhi NCR,Full-Time
+526,Tanvi Mane,7,Business Development Executive,2023-05-13,Mid,Mumbai,Full-Time
+527,Bhavna Nair,7,Regional Sales Manager,2018-08-29,Lead,Nagpur,Contract
+528,Chetan Kapoor,5,Cloud Engineer,2024-05-19,Mid,Chennai,Contract
+529,Mihir Mane,1,HR Analyst,2025-09-04,Mid,Remote,Full-Time
+530,Aman Gupta,2,Training Analyst,2022-08-12,Mid,Pune,Contract
+531,Diya More,8,Support Analyst,2024-06-19,Mid,Mumbai,Full-Time
+532,Varun More,7,Regional Sales Manager,2020-10-15,Senior,Nagpur,Full-Time
+533,Shreya Patil,8,Support Analyst,2024-04-05,Senior,Bengaluru,Contract
+534,Aman Gokhale,9,Insights Analyst,2023-07-24,Senior,Chennai,Full-Time
+535,Diya Chavan,4,Brand Analyst,2021-02-13,Mid,Nagpur,Full-Time
+536,Neha Mehta,1,HR Business Partner,2022-12-25,Senior,Remote,Full-Time
+537,Aditi Nair,2,Instructional Designer,2023-07-31,Mid,Nagpur,Full-Time
+538,Sameer Kapoor,6,Supply Chain Analyst,2018-01-01,Lead,Delhi NCR,Contract
+539,Karan Verma,6,Operations Analyst,2025-05-05,Junior,Hyderabad,Full-Time
+540,Zoya More,4,Content Strategist,2024-12-13,Junior,Remote,Full-Time
+541,Karan Verma,1,People Operations Specialist,2025-05-22,Junior,Chennai,Full-Time
+542,Zoya Thakur,1,HR Coordinator,2019-11-04,Senior,Nagpur,Full-Time
+543,Meera Joshi,3,Finance Executive,2020-03-13,Mid,Hyderabad,Full-Time
+544,Sneha Bajaj,2,L&D Coordinator,2022-08-25,Junior,Remote,Full-Time
+545,Pranav Sharma,7,Sales Executive,2023-08-28,Junior,Nagpur,Contract
+546,Chetan Naik,5,Systems Analyst,2023-09-14,Mid,Bengaluru,Full-Time
+547,Kabir Bhosale,5,Cloud Engineer,2024-09-25,Junior,Nagpur,Contract
+548,Karan Rao,10,Analytics Consultant,2020-10-13,Senior,Bengaluru,Full-Time
+549,Priya Rao,5,IT Support Specialist,2025-11-07,Mid,Hyderabad,Full-Time
+550,Kavya Jadhav,3,Accounts Analyst,2026-01-05,Junior,Bengaluru,Contract
+551,Anjali Gokhale,6,Quality Analyst,2025-02-21,Junior,Remote,Contract
+552,Vedant Thakur,6,Quality Analyst,2025-06-25,Junior,Nagpur,Full-Time
+553,Akash More,6,Quality Analyst,2018-04-14,Senior,Hyderabad,Full-Time
+554,Vedant Gupta,8,Customer Experience Analyst,2019-10-22,Lead,Bengaluru,Full-Time
+555,Rahul Patil,7,Sales Analyst,2021-04-23,Mid,Remote,Full-Time
+556,Diya Thakur,6,Operations Manager,2025-07-29,Junior,Hyderabad,Contract
+557,Varun Patil,8,Team Lead - Support,2025-10-22,Junior,Nagpur,Full-Time
+558,Riya Patil,10,Data Analyst,2025-09-07,Junior,Delhi NCR,Full-Time
+559,Sneha Naik,7,Regional Sales Manager,2022-12-20,Senior,Chennai,Contract
+560,Mihir Joshi,6,Quality Analyst,2024-10-07,Junior,Remote,Full-Time
+561,Chetan Thakur,10,Data Analyst,2018-11-02,Mid,Nagpur,Full-Time
+562,Bhavna Mishra,5,IT Support Specialist,2024-03-29,Mid,Pune,Full-Time
+563,Kabir Kapoor,5,Software Engineer,2019-09-27,Mid,Delhi NCR,Full-Time
+564,Zoya Shah,8,Customer Success Associate,2024-03-03,Mid,Bengaluru,Contract
+565,Rahul Chavan,1,HR Business Partner,2023-09-01,Mid,Mumbai,Full-Time
+566,Karan Verma,3,Finance Executive,2020-05-23,Senior,Hyderabad,Contract
+567,Tanvi Sharma,6,Quality Analyst,2024-04-18,Senior,Chennai,Full-Time
+568,Shreya Deshmukh,3,Financial Analyst,2025-03-15,Junior,Chennai,Full-Time
+569,Rahul Thakur,10,Analytics Consultant,2019-04-10,Senior,Pune,Contract
+570,Priya Jain,8,Team Lead - Support,2022-03-16,Mid,Pune,Full-Time
+571,Ananya Nair,9,Research Coordinator,2020-02-28,Senior,Pune,Full-Time
+572,Vedant Iyer,3,Financial Analyst,2025-01-22,Mid,Hyderabad,Contract
+573,Tanvi Bajaj,8,Customer Support Executive,2026-04-25,Mid,Bengaluru,Full-Time
+574,Aman Patil,5,Systems Analyst,2021-09-20,Junior,Delhi NCR,Contract
+575,Mohit Khan,1,HR Coordinator,2020-07-21,Lead,Remote,Full-Time
+576,Anjali Chavan,5,IT Support Specialist,2018-03-11,Senior,Mumbai,Contract
+577,Priya Nair,1,HR Business Partner,2018-10-25,Senior,Delhi NCR,Contract
+578,Varun Sharma,1,HR Business Partner,2022-11-28,Mid,Bengaluru,Contract
+579,Rahul Rao,3,Accounts Analyst,2026-05-17,Junior,Delhi NCR,Full-Time
+580,Riya Singh,10,Reporting Analyst,2018-02-15,Senior,Pune,Full-Time
+581,Ananya Rao,6,Process Executive,2022-06-03,Mid,Chennai,Full-Time
+582,Avni Kulkarni,5,Systems Analyst,2025-03-30,Mid,Hyderabad,Contract
+583,Varun Saxena,8,Customer Support Executive,2020-03-06,Mid,Remote,Contract
+584,Aniket Joshi,1,HR Business Partner,2025-07-14,Junior,Chennai,Full-Time
+585,Ishaan Kapoor,2,L&D Coordinator,2025-05-08,Junior,Hyderabad,Full-Time
+586,Janhavi Naik,5,Systems Analyst,2021-09-06,Mid,Chennai,Full-Time
+587,Gaurav Saxena,10,BI Analyst,2019-11-22,Mid,Nagpur,Full-Time
+588,Karan Mane,9,Insights Analyst,2019-07-05,Senior,Remote,Full-Time
+589,Aniket Kulkarni,4,Marketing Manager,2021-06-05,Senior,Mumbai,Full-Time
+590,Deepa Gupta,9,Senior Research Analyst,2019-07-28,Lead,Mumbai,Full-Time
+591,Sakshi Mishra,9,Insights Analyst,2023-09-09,Mid,Hyderabad,Full-Time
+592,Rahul Pawar,6,Supply Chain Analyst,2024-02-05,Senior,Bengaluru,Full-Time
+593,Ishaan Singh,5,Cloud Engineer,2024-08-12,Junior,Mumbai,Full-Time
+594,Shreya More,5,IT Support Specialist,2018-02-13,Senior,Bengaluru,Full-Time
+595,Varun Sethi,2,Training Analyst,2024-05-08,Senior,Remote,Full-Time
+596,Harsh Verma,1,HR Analyst,2023-06-21,Mid,Pune,Full-Time
+597,Nikhil Mane,6,Operations Analyst,2022-01-19,Mid,Pune,Full-Time
+598,Isha Bajaj,2,Training Analyst,2023-11-06,Mid,Bengaluru,Full-Time
+599,Aman Bhosale,7,Sales Analyst,2022-02-05,Mid,Nagpur,Full-Time
+600,Kavya Pawar,6,Operations Manager,2021-12-16,Senior,Pune,Contract
+601,Aman Bhosale,9,Research Coordinator,2022-12-07,Mid,Hyderabad,Full-Time
+602,Anjali More,3,Accounts Analyst,2022-01-23,Mid,Nagpur,Full-Time
+603,Pooja Joshi,7,Business Development Executive,2023-05-27,Mid,Nagpur,Full-Time
+604,Bhavna Singh,3,Senior Financial Analyst,2019-06-08,Senior,Pune,Contract
+605,Chetan Bhosale,2,Instructional Designer,2019-11-13,Senior,Pune,Full-Time
+606,Pooja Sethi,10,Analytics Consultant,2020-06-06,Senior,Bengaluru,Full-Time
+607,Sakshi Bajaj,8,Customer Success Associate,2024-09-27,Junior,Delhi NCR,Full-Time
+608,Sameer Mishra,7,Sales Analyst,2021-11-04,Senior,Hyderabad,Full-Time
+609,Radhika Sethi,5,Cloud Engineer,2019-03-21,Mid,Bengaluru,Contract
+610,Sameer Patil,1,HR Coordinator,2023-05-04,Senior,Mumbai,Full-Time
+611,Rahul Bajaj,5,Cybersecurity Analyst,2019-06-18,Lead,Pune,Full-Time
+612,Yash Bhosale,6,Operations Manager,2022-02-26,Senior,Hyderabad,Full-Time
+613,Rutuja Jadhav,8,Customer Support Executive,2022-04-11,Mid,Nagpur,Full-Time
+614,Ananya Rao,3,Senior Financial Analyst,2020-08-10,Lead,Nagpur,Full-Time
+615,Aarav Mishra,3,Financial Analyst,2025-12-14,Junior,Pune,Full-Time
+616,Mohit Verma,7,Sales Executive,2025-09-18,Mid,Bengaluru,Full-Time
+617,Rahul Iyer,7,Regional Sales Manager,2020-11-04,Senior,Chennai,Contract
+618,Dev Iyer,4,Brand Analyst,2025-08-19,Junior,Bengaluru,Full-Time
+619,Janhavi Mishra,6,Quality Analyst,2023-06-05,Mid,Nagpur,Full-Time
+620,Diya Jain,9,Market Research Associate,2025-05-24,Junior,Mumbai,Full-Time
+621,Shreya Naik,6,Supply Chain Analyst,2021-10-18,Senior,Pune,Full-Time
+622,Ananya Bajaj,5,Systems Analyst,2025-02-17,Junior,Remote,Contract
+623,Komal Mehta,5,Cybersecurity Analyst,2018-09-20,Senior,Pune,Full-Time
+624,Radhika Rao,10,Data Analyst,2022-06-30,Mid,Bengaluru,Full-Time
+625,Radhika Rao,5,Cybersecurity Analyst,2020-04-06,Lead,Hyderabad,Full-Time
+626,Diya Kapoor,8,Customer Success Associate,2023-09-23,Mid,Pune,Full-Time
+627,Ananya Gupta,3,Senior Financial Analyst,2018-01-02,Lead,Nagpur,Full-Time
+628,Radhika Sharma,7,Sales Executive,2022-07-19,Mid,Mumbai,Contract
+629,Kavya Verma,4,Brand Analyst,2024-04-09,Senior,Hyderabad,Contract
+630,Rohan Sharma,10,Analytics Consultant,2023-02-06,Senior,Bengaluru,Full-Time
+631,Ishaan Shah,6,Operations Analyst,2024-04-07,Junior,Delhi NCR,Contract
+632,Neha Khan,8,Team Lead - Support,2024-06-12,Mid,Hyderabad,Full-Time
+633,Sakshi Sethi,10,Data Analyst,2023-02-23,Mid,Remote,Full-Time
+634,Diya More,3,Accounts Analyst,2022-04-17,Mid,Chennai,Full-Time
+635,Yash Bajaj,10,Reporting Analyst,2023-10-17,Mid,Hyderabad,Full-Time
+636,Karan Mehta,1,HR Analyst,2025-07-22,Junior,Remote,Full-Time
+637,Rutuja More,4,Digital Marketing Executive,2024-06-07,Mid,Remote,Full-Time
+638,Dev Deshmukh,3,Senior Financial Analyst,2020-09-18,Lead,Hyderabad,Full-Time
+639,Aniket Nair,8,Customer Support Executive,2021-12-29,Mid,Remote,Contract
+640,Pooja Verma,1,HR Coordinator,2024-01-27,Senior,Chennai,Full-Time
+641,Pranav Kulkarni,9,Senior Research Analyst,2024-06-11,Senior,Delhi NCR,Full-Time
+642,Radhika Saxena,3,Finance Executive,2024-06-20,Junior,Remote,Contract
+643,Vedant Gokhale,1,HR Analyst,2021-11-23,Mid,Remote,Full-Time
+644,Aarav Sharma,7,Business Development Executive,2023-02-28,Mid,Nagpur,Contract
+645,Harsh Kulkarni,2,Training Analyst,2022-01-21,Mid,Hyderabad,Full-Time
+646,Chetan Pawar,5,Cloud Engineer,2024-11-16,Junior,Hyderabad,Full-Time
+647,Meera Gupta,7,Account Manager,2022-03-05,Mid,Bengaluru,Contract
+648,Aniket Thakur,2,Training Analyst,2024-06-16,Mid,Hyderabad,Contract
+649,Rutuja Singh,5,Cloud Engineer,2022-04-10,Mid,Pune,Full-Time
+650,Sneha Bhosale,5,Cybersecurity Analyst,2019-07-05,Lead,Chennai,Full-Time
+651,Akash Khan,4,Content Strategist,2024-04-21,Senior,Bengaluru,Full-Time
+652,Sneha Nair,3,Finance Executive,2020-11-07,Senior,Chennai,Full-Time
+653,Harsh Verma,5,Software Engineer,2024-04-14,Mid,Nagpur,Full-Time
+654,Deepa Mishra,4,Digital Marketing Executive,2025-08-15,Mid,Delhi NCR,Full-Time
+655,Rutuja Jain,4,Marketing Analyst,2023-09-22,Mid,Nagpur,Contract
+656,Bhavna Yadav,4,Content Strategist,2025-01-31,Mid,Nagpur,Contract
+657,Karan Deshmukh,6,Quality Analyst,2018-10-20,Mid,Chennai,Full-Time
+658,Isha Mane,7,Account Manager,2024-10-15,Junior,Chennai,Contract
+659,Chetan Sethi,6,Operations Analyst,2023-01-19,Mid,Bengaluru,Full-Time
+660,Ananya Joshi,7,Business Development Executive,2026-05-05,Junior,Nagpur,Full-Time
+661,Aditi Gokhale,1,HR Business Partner,2023-04-23,Mid,Mumbai,Full-Time
+662,Kunal Rao,3,Accounts Analyst,2019-09-29,Mid,Hyderabad,Full-Time
+663,Bhavna Sharma,5,Software Engineer,2019-06-02,Mid,Chennai,Full-Time
+664,Rahul Jadhav,9,Insights Analyst,2023-03-29,Senior,Remote,Full-Time
+665,Sakshi Kapoor,10,Analytics Consultant,2025-10-28,Junior,Nagpur,Contract
+666,Kavya Pawar,7,Business Development Executive,2023-12-27,Mid,Mumbai,Full-Time
+667,Janhavi Sharma,4,Marketing Analyst,2022-08-16,Mid,Bengaluru,Full-Time
+668,Pranav Gokhale,4,Brand Analyst,2024-01-01,Junior,Delhi NCR,Full-Time
+669,Aarav Chavan,8,Team Lead - Support,2021-04-14,Senior,Hyderabad,Full-Time
+670,Bhavna Naik,9,Insights Analyst,2022-11-26,Mid,Nagpur,Full-Time
+671,Radhika Gokhale,3,FP&A Analyst,2022-09-26,Mid,Delhi NCR,Contract
+672,Aman Kulkarni,8,Customer Success Associate,2022-08-19,Mid,Delhi NCR,Full-Time
+673,Yash Kapoor,7,Account Manager,2024-12-05,Junior,Hyderabad,Full-Time
+674,Aditi Kulkarni,1,HR Coordinator,2018-07-23,Lead,Mumbai,Full-Time
+675,Aarav Deshmukh,3,Financial Analyst,2026-01-08,Junior,Bengaluru,Full-Time
+676,Pranav Verma,5,Cloud Engineer,2021-11-01,Mid,Pune,Full-Time
+677,Akash Gupta,1,HR Business Partner,2026-06-02,Mid,Mumbai,Contract
+678,Harsh Bajaj,5,Cybersecurity Analyst,2020-02-27,Lead,Nagpur,Full-Time
+679,Anushka Jain,2,L&D Specialist,2026-01-06,Junior,Pune,Full-Time
+680,Dev Pawar,5,Cloud Engineer,2019-01-20,Senior,Delhi NCR,Full-Time
+681,Riya Bhosale,2,L&D Coordinator,2026-03-02,Junior,Delhi NCR,Full-Time
+682,Akash Sethi,7,Regional Sales Manager,2020-03-24,Senior,Hyderabad,Full-Time
+683,Bhavna Saxena,3,FP&A Analyst,2022-11-14,Mid,Mumbai,Full-Time
+684,Sakshi Saxena,8,Customer Experience Analyst,2018-02-06,Lead,Remote,Contract
+685,Pranav Mehta,2,Training Analyst,2019-01-02,Mid,Pune,Full-Time
+686,Aniket Singh,4,Brand Analyst,2019-09-23,Senior,Hyderabad,Full-Time
+687,Neha Thakur,10,BI Analyst,2025-03-25,Mid,Pune,Full-Time
+688,Aditya Pawar,4,Marketing Manager,2019-07-06,Senior,Remote,Contract
+689,Rohan Kulkarni,4,Content Strategist,2025-10-26,Junior,Chennai,Full-Time
+690,Riya Kulkarni,4,Marketing Analyst,2024-09-18,Mid,Bengaluru,Full-Time
+691,Nikhil Sharma,4,Marketing Manager,2020-12-14,Senior,Nagpur,Full-Time
+692,Anushka Kapoor,9,Market Research Associate,2024-12-13,Mid,Chennai,Full-Time
+693,Deepa Bhosale,7,Regional Sales Manager,2024-01-17,Senior,Remote,Contract
+694,Tanvi Shah,2,Training Analyst,2021-03-05,Senior,Mumbai,Contract
+695,Arjun Kulkarni,7,Regional Sales Manager,2018-06-29,Lead,Pune,Full-Time
+696,Rohan Yadav,2,Instructional Designer,2020-02-24,Mid,Remote,Contract
+697,Komal Deshmukh,7,Sales Executive,2024-08-14,Junior,Pune,Full-Time
+698,Sneha Patil,7,Account Manager,2018-11-24,Senior,Nagpur,Full-Time
+699,Isha Bhosale,8,Customer Experience Analyst,2018-08-27,Lead,Pune,Full-Time
+700,Radhika Nair,8,Customer Experience Analyst,2018-11-16,Lead,Mumbai,Full-Time
+701,Varun Deshmukh,6,Process Executive,2020-02-16,Mid,Nagpur,Full-Time
+702,Nikhil Naik,8,Team Lead - Support,2024-06-19,Mid,Mumbai,Full-Time
+703,Karan More,8,Customer Success Associate,2024-03-02,Mid,Remote,Full-Time
+704,Kabir Sethi,9,Insights Analyst,2024-03-03,Senior,Nagpur,Full-Time
+705,Rohan Chavan,8,Customer Success Associate,2021-08-17,Mid,Nagpur,Contract
+706,Neha Jain,10,Analytics Consultant,2020-11-06,Senior,Pune,Full-Time
+707,Arjun Mane,10,Reporting Analyst,2024-09-06,Junior,Pune,Full-Time
+708,Aditi Gokhale,10,Senior Data Analyst,2020-05-29,Lead,Delhi NCR,Contract
+709,Avni Nair,6,Quality Analyst,2024-05-26,Senior,Remote,Full-Time
+710,Sakshi Deshmukh,2,Training Analyst,2020-12-21,Senior,Delhi NCR,Full-Time
+711,Dev Thakur,1,HR Executive,2022-06-26,Mid,Chennai,Full-Time
+712,Aniket Kapoor,2,Training Analyst,2025-09-25,Junior,Pune,Contract
+713,Karan Verma,5,Cybersecurity Analyst,2018-08-18,Lead,Nagpur,Full-Time
+714,Diya Thakur,10,Senior Data Analyst,2019-05-09,Lead,Pune,Full-Time
+715,Rahul Mishra,1,HR Analyst,2023-11-18,Junior,Chennai,Contract
+716,Mihir Khan,7,Account Manager,2019-09-20,Mid,Mumbai,Full-Time
+717,Karan Mehta,5,Cloud Engineer,2022-06-04,Junior,Pune,Contract
+718,Naina Gokhale,5,Cybersecurity Analyst,2018-12-15,Senior,Bengaluru,Full-Time
+719,Tanvi Mishra,5,IT Support Specialist,2020-03-22,Senior,Hyderabad,Full-Time
+720,Rohan Mehta,1,HR Executive,2022-10-28,Mid,Nagpur,Full-Time
+721,Sameer Yadav,5,IT Support Specialist,2020-02-20,Senior,Delhi NCR,Full-Time
+722,Neha Kapoor,10,BI Analyst,2024-11-29,Mid,Remote,Full-Time
+723,Komal Singh,10,Data Analyst,2020-08-14,Mid,Mumbai,Full-Time
+724,Ishaan Sharma,3,FP&A Analyst,2024-12-18,Mid,Mumbai,Full-Time
+725,Rutuja Chavan,5,IT Support Specialist,2018-04-04,Senior,Hyderabad,Contract
+726,Shreya Thakur,6,Quality Analyst,2020-11-25,Senior,Pune,Full-Time
+727,Harsh Kulkarni,6,Operations Analyst,2025-06-10,Junior,Delhi NCR,Full-Time
+728,Nikhil Yadav,8,Customer Support Executive,2024-12-06,Junior,Mumbai,Full-Time
+729,Varun Verma,7,Sales Executive,2025-06-08,Mid,Pune,Full-Time
+730,Kunal Bhosale,9,Research Analyst,2025-04-13,Junior,Chennai,Full-Time
+731,Deepa Bhosale,9,Insights Analyst,2023-12-18,Junior,Pune,Full-Time
+732,Pranav Khan,3,Accounts Analyst,2023-12-09,Mid,Pune,Full-Time
+733,Gaurav Bhosale,7,Sales Analyst,2021-12-26,Mid,Pune,Full-Time
+734,Isha Deshmukh,9,Senior Research Analyst,2018-05-01,Lead,Bengaluru,Full-Time
+735,Mihir Khan,9,Market Research Associate,2025-05-14,Junior,Nagpur,Full-Time
+736,Sameer Shah,6,Operations Manager,2022-10-13,Senior,Bengaluru,Full-Time
+737,Deepa Sethi,7,Business Development Executive,2024-07-07,Junior,Delhi NCR,Contract
+738,Anushka Singh,9,Senior Research Analyst,2022-10-28,Senior,Bengaluru,Full-Time
+739,Anjali Kulkarni,1,HR Business Partner,2023-12-24,Senior,Bengaluru,Full-Time
+740,Janhavi Jain,8,Customer Experience Analyst,2022-08-23,Senior,Delhi NCR,Full-Time
+741,Aditi Gokhale,8,Support Analyst,2019-03-14,Mid,Hyderabad,Contract
+742,Ananya Naik,3,Finance Executive,2025-09-16,Junior,Bengaluru,Contract
+743,Komal Kulkarni,9,Insights Analyst,2023-04-05,Mid,Remote,Full-Time
+744,Mohit Gokhale,2,L&D Coordinator,2020-03-02,Mid,Delhi NCR,Full-Time
+745,Siddharth Joshi,3,Financial Analyst,2025-07-12,Mid,Bengaluru,Full-Time
+746,Nikhil Mane,9,Market Research Associate,2023-06-30,Mid,Nagpur,Full-Time
+747,Kunal Thakur,8,Support Analyst,2024-10-26,Junior,Nagpur,Contract
+748,Radhika Yadav,10,Data Analyst,2024-05-31,Mid,Mumbai,Full-Time
+749,Gaurav Bhosale,5,Cybersecurity Analyst,2018-06-23,Lead,Nagpur,Full-Time
+750,Akash Joshi,6,Quality Analyst,2023-10-16,Mid,Remote,Full-Time
+751,Naina Rao,9,Senior Research Analyst,2021-03-17,Senior,Pune,Contract
+752,Neha Mehta,9,Senior Research Analyst,2023-03-14,Senior,Mumbai,Full-Time
+753,Meera Iyer,8,Support Analyst,2025-10-22,Junior,Remote,Full-Time
+754,Deepa Mane,2,Instructional Designer,2024-08-14,Mid,Mumbai,Full-Time
+755,Bhavna Naik,4,Marketing Analyst,2025-04-10,Mid,Mumbai,Full-Time
+756,Radhika Naik,7,Account Manager,2025-02-10,Junior,Bengaluru,Full-Time
+757,Karan Mishra,6,Supply Chain Analyst,2018-06-29,Senior,Bengaluru,Full-Time
+758,Akash Iyer,9,Insights Analyst,2020-01-03,Senior,Delhi NCR,Full-Time
+759,Arjun Joshi,4,Marketing Analyst,2020-01-11,Mid,Delhi NCR,Full-Time
+760,Aarav Kapoor,5,Cloud Engineer,2023-08-05,Mid,Hyderabad,Full-Time
+761,Neha Mehta,6,Operations Analyst,2023-05-03,Mid,Hyderabad,Contract
+762,Dev Patil,4,Digital Marketing Executive,2025-01-18,Junior,Bengaluru,Full-Time
+763,Aditya More,7,Sales Analyst,2018-05-31,Mid,Chennai,Full-Time
+764,Bhavna More,1,HR Business Partner,2022-09-04,Senior,Bengaluru,Full-Time
+765,Ananya Gokhale,8,Team Lead - Support,2022-01-15,Senior,Chennai,Full-Time
+766,Riya Mehta,9,Insights Analyst,2018-10-05,Senior,Remote,Full-Time
+767,Mohit Bhosale,2,Training Analyst,2021-01-29,Senior,Hyderabad,Contract
+768,Sneha Bhosale,1,HR Executive,2024-05-29,Mid,Remote,Contract
+769,Sameer Sethi,10,Reporting Analyst,2025-12-05,Junior,Delhi NCR,Contract
+770,Arjun Kapoor,6,Operations Manager,2024-12-27,Junior,Remote,Full-Time
+771,Ishaan Joshi,8,Customer Support Executive,2024-11-01,Junior,Mumbai,Full-Time
+772,Dev Saxena,5,Cybersecurity Analyst,2019-04-29,Senior,Nagpur,Full-Time
+773,Sneha Joshi,1,HR Executive,2021-12-03,Mid,Hyderabad,Full-Time
+774,Priya Chavan,3,Finance Executive,2018-10-05,Senior,Pune,Full-Time
+775,Rohan Kapoor,7,Sales Executive,2021-10-30,Mid,Bengaluru,Full-Time
+776,Pooja Jadhav,4,Brand Analyst,2021-10-16,Senior,Pune,Full-Time
+777,Rahul Mane,5,IT Support Specialist,2025-01-13,Junior,Remote,Full-Time
+778,Janhavi Mishra,10,Senior Data Analyst,2018-08-18,Lead,Chennai,Contract
+779,Karan Saxena,6,Operations Manager,2020-05-03,Senior,Mumbai,Full-Time
+780,Kunal Yadav,4,Marketing Manager,2018-05-08,Senior,Bengaluru,Contract
+781,Siddharth Rao,6,Supply Chain Analyst,2020-02-07,Senior,Chennai,Full-Time
+782,Gaurav Verma,4,Brand Analyst,2018-12-22,Senior,Delhi NCR,Full-Time
+783,Aditya Gokhale,6,Process Executive,2019-12-18,Mid,Mumbai,Full-Time
+784,Avni Joshi,6,Operations Manager,2023-05-31,Senior,Remote,Contract
+785,Aniket Bajaj,4,Digital Marketing Executive,2021-09-02,Junior,Hyderabad,Full-Time
+786,Anjali Sharma,5,IT Support Specialist,2026-01-02,Mid,Pune,Contract
+787,Aditya Nair,9,Research Coordinator,2021-09-27,Mid,Pune,Contract
+788,Kabir Joshi,8,Customer Success Associate,2025-03-01,Mid,Delhi NCR,Full-Time
+789,Isha Singh,6,Process Executive,2022-12-12,Mid,Delhi NCR,Full-Time
+790,Aniket Joshi,1,People Operations Specialist,2024-12-26,Junior,Chennai,Full-Time
+791,Rohan Deshmukh,2,L&D Specialist,2025-11-25,Mid,Mumbai,Full-Time
+792,Akash Singh,6,Operations Analyst,2021-10-19,Mid,Remote,Full-Time
+793,Meera Kulkarni,2,Instructional Designer,2018-08-09,Mid,Chennai,Full-Time
+794,Varun Saxena,4,Marketing Manager,2020-03-22,Senior,Mumbai,Full-Time
+795,Yash Jain,6,Supply Chain Analyst,2019-01-16,Lead,Mumbai,Full-Time
+796,Nikhil Pawar,4,Digital Marketing Executive,2025-03-24,Junior,Hyderabad,Full-Time
+797,Komal Khan,9,Market Research Associate,2024-12-01,Junior,Chennai,Full-Time
+798,Anjali Verma,5,Cloud Engineer,2018-05-04,Mid,Remote,Full-Time
+799,Arjun Bhosale,4,Marketing Analyst,2021-11-28,Mid,Nagpur,Full-Time
+800,Janhavi Chavan,4,Brand Analyst,2025-04-14,Junior,Nagpur,Contract
+801,Bhavna Pawar,5,Cloud Engineer,2024-12-18,Junior,Mumbai,Full-Time
+802,Naina Mishra,3,FP&A Analyst,2025-10-13,Junior,Hyderabad,Full-Time
+803,Zoya Mishra,7,Account Manager,2018-11-16,Senior,Mumbai,Contract
+804,Neha Kulkarni,6,Quality Analyst,2021-08-25,Mid,Nagpur,Full-Time
+805,Anushka Bajaj,6,Operations Manager,2025-09-08,Mid,Chennai,Full-Time
+806,Arjun Mane,7,Sales Executive,2018-09-09,Mid,Bengaluru,Full-Time
+807,Rohan Jain,5,IT Support Specialist,2021-04-08,Senior,Hyderabad,Full-Time
+808,Naina Naik,4,Content Strategist,2025-08-15,Junior,Mumbai,Contract
+809,Arjun Sethi,1,People Operations Specialist,2023-09-22,Mid,Pune,Full-Time
+810,Riya Bajaj,9,Research Coordinator,2018-08-06,Mid,Mumbai,Full-Time
+811,Sakshi Khan,9,Senior Research Analyst,2020-08-21,Senior,Chennai,Full-Time
+812,Varun Kulkarni,5,Cloud Engineer,2022-11-18,Mid,Bengaluru,Full-Time
+813,Avni Rao,6,Supply Chain Analyst,2022-01-15,Senior,Bengaluru,Full-Time
+814,Mihir Mane,1,HR Business Partner,2025-04-09,Junior,Nagpur,Full-Time
+815,Nikhil Mane,1,HR Business Partner,2025-03-15,Mid,Bengaluru,Full-Time
+816,Kunal Verma,6,Quality Analyst,2024-03-11,Senior,Bengaluru,Full-Time
+817,Mihir Deshmukh,6,Quality Analyst,2024-06-25,Mid,Nagpur,Contract
+818,Rohan Pawar,6,Supply Chain Analyst,2018-05-18,Lead,Chennai,Full-Time
+819,Mihir Thakur,6,Quality Analyst,2025-09-29,Junior,Remote,Contract
+820,Pooja Yadav,1,HR Executive,2024-11-03,Junior,Delhi NCR,Contract
+821,Aarav Pawar,1,HR Business Partner,2021-11-08,Mid,Remote,Contract
+822,Ishaan Rao,7,Business Development Executive,2022-09-21,Mid,Pune,Contract
+823,Harsh Patil,8,Team Lead - Support,2026-02-25,Mid,Bengaluru,Contract
+824,Shreya Sharma,1,HR Coordinator,2021-04-10,Lead,Delhi NCR,Full-Time
+825,Isha Gupta,1,HR Analyst,2023-09-02,Junior,Delhi NCR,Full-Time
+826,Sameer Kulkarni,9,Senior Research Analyst,2018-02-28,Senior,Bengaluru,Full-Time
+827,Yash Deshmukh,5,Cloud Engineer,2019-12-20,Senior,Bengaluru,Contract
+828,Avni Kapoor,9,Research Coordinator,2021-11-05,Senior,Remote,Full-Time
+829,Mihir Yadav,8,Support Analyst,2020-09-01,Senior,Hyderabad,Contract
+830,Harsh Gokhale,7,Sales Executive,2021-11-14,Junior,Pune,Full-Time
+831,Rutuja Gokhale,5,Systems Analyst,2023-05-05,Mid,Nagpur,Full-Time
+832,Naina Sharma,5,Cloud Engineer,2019-08-18,Senior,Remote,Full-Time
+833,Aditya Nair,7,Sales Analyst,2023-12-12,Mid,Nagpur,Contract
+834,Isha Saxena,10,Reporting Analyst,2021-01-21,Senior,Delhi NCR,Contract
+835,Mihir More,5,Systems Analyst,2025-07-28,Junior,Chennai,Full-Time
+836,Aman Sharma,4,Brand Analyst,2018-02-13,Senior,Mumbai,Contract
+837,Mihir Rao,2,Training Analyst,2023-01-01,Mid,Hyderabad,Full-Time
+838,Sameer More,1,HR Analyst,2019-01-12,Mid,Mumbai,Full-Time
+839,Varun Gokhale,1,HR Analyst,2024-10-12,Junior,Mumbai,Full-Time
+840,Aman Yadav,3,Finance Executive,2023-03-28,Mid,Delhi NCR,Full-Time
+841,Kabir Gupta,7,Business Development Executive,2025-06-27,Mid,Mumbai,Full-Time
+842,Akash Gupta,8,Support Analyst,2022-04-17,Mid,Bengaluru,Full-Time
+843,Chetan Yadav,1,HR Business Partner,2020-04-01,Senior,Mumbai,Full-Time
+844,Tanvi Nair,6,Operations Manager,2022-11-02,Mid,Delhi NCR,Full-Time
+845,Harsh Gokhale,1,HR Business Partner,2018-10-16,Senior,Pune,Full-Time
+846,Aditya More,2,Instructional Designer,2025-03-07,Junior,Delhi NCR,Full-Time
+847,Priya Naik,7,Account Manager,2022-05-22,Mid,Remote,Full-Time
+848,Aman Chavan,5,Systems Analyst,2026-02-28,Mid,Pune,Full-Time
+849,Rahul Jadhav,10,Reporting Analyst,2023-05-29,Junior,Chennai,Full-Time
+850,Tanvi Mehta,5,IT Support Specialist,2025-02-02,Mid,Chennai,Full-Time
+851,Chetan Chavan,9,Research Coordinator,2021-04-02,Senior,Nagpur,Full-Time
+852,Sneha Naik,4,Brand Analyst,2022-05-17,Senior,Remote,Full-Time
+853,Arjun Patil,9,Market Research Associate,2022-11-29,Mid,Pune,Contract
+854,Rahul Yadav,3,FP&A Analyst,2022-05-12,Junior,Remote,Contract
+855,Aditi Patil,10,Analytics Consultant,2023-01-15,Senior,Pune,Full-Time
+856,Dev Saxena,8,Customer Experience Analyst,2018-06-25,Senior,Remote,Contract
+857,Aman Patil,2,L&D Specialist,2024-07-01,Junior,Remote,Full-Time
+858,Yash Yadav,5,Systems Analyst,2024-12-07,Junior,Pune,Full-Time
+859,Aniket Jain,7,Regional Sales Manager,2021-06-12,Lead,Bengaluru,Contract
+860,Sameer Saxena,1,HR Analyst,2019-03-12,Mid,Mumbai,Full-Time
+861,Kabir Nair,5,Systems Analyst,2026-04-11,Junior,Chennai,Full-Time
+862,Aman Nair,8,Support Analyst,2024-08-26,Junior,Bengaluru,Full-Time
+863,Neha Deshmukh,2,L&D Coordinator,2022-02-24,Mid,Bengaluru,Full-Time
+864,Anushka Kulkarni,8,Customer Support Executive,2025-02-02,Junior,Remote,Full-Time
+865,Zoya Yadav,1,HR Coordinator,2020-01-05,Lead,Delhi NCR,Full-Time
+866,Dev Singh,7,Sales Analyst,2023-05-04,Mid,Remote,Full-Time
+867,Aditya Kapoor,3,FP&A Analyst,2019-12-16,Senior,Remote,Contract
+868,Janhavi Verma,10,Analytics Consultant,2025-01-12,Mid,Pune,Contract
+869,Aniket Kapoor,3,Senior Financial Analyst,2019-04-27,Lead,Chennai,Contract
+870,Varun Joshi,6,Quality Analyst,2023-03-17,Mid,Pune,Full-Time
+871,Pooja Pawar,2,Training Analyst,2019-09-04,Senior,Bengaluru,Full-Time
+872,Naina Gupta,1,People Operations Specialist,2022-01-31,Mid,Remote,Full-Time
+873,Chetan Kulkarni,2,Learning Program Manager,2018-08-03,Lead,Pune,Full-Time
+874,Mihir Jain,6,Supply Chain Analyst,2018-10-18,Lead,Chennai,Full-Time
+875,Diya Gokhale,3,Financial Analyst,2025-08-04,Mid,Chennai,Full-Time
+876,Deepa Khan,1,HR Analyst,2026-04-10,Junior,Mumbai,Full-Time
+877,Avni Joshi,6,Supply Chain Analyst,2018-08-11,Lead,Remote,Full-Time
+878,Deepa Yadav,5,Cloud Engineer,2019-07-13,Senior,Delhi NCR,Full-Time
+879,Akash Gupta,4,Content Strategist,2018-05-12,Senior,Mumbai,Full-Time
+880,Diya Mane,5,Cloud Engineer,2019-12-03,Senior,Bengaluru,Contract
+881,Diya Mehta,9,Insights Analyst,2024-06-25,Senior,Remote,Full-Time
+882,Mihir Iyer,6,Process Executive,2023-03-11,Mid,Hyderabad,Full-Time
+883,Sakshi Singh,5,Cybersecurity Analyst,2020-06-29,Lead,Pune,Full-Time
+884,Mihir Gokhale,10,Senior Data Analyst,2018-06-14,Lead,Pune,Full-Time
+885,Yash Bajaj,6,Quality Analyst,2023-05-18,Senior,Remote,Full-Time
+886,Yash Thakur,3,Finance Executive,2024-04-06,Mid,Hyderabad,Full-Time
+887,Ananya Sharma,4,Brand Analyst,2020-09-06,Senior,Delhi NCR,Full-Time
+888,Aditi Jain,7,Account Manager,2024-05-25,Mid,Bengaluru,Full-Time
+889,Zoya Yadav,3,Financial Analyst,2022-02-26,Mid,Mumbai,Full-Time
+890,Ishaan Iyer,9,Research Coordinator,2021-09-25,Mid,Hyderabad,Full-Time
+891,Akash Bhosale,7,Sales Analyst,2021-10-07,Mid,Pune,Full-Time
+892,Komal Verma,5,Systems Analyst,2023-03-22,Mid,Mumbai,Contract
+893,Karan Deshmukh,7,Sales Executive,2020-04-18,Mid,Remote,Contract
+894,Rutuja Gokhale,9,Market Research Associate,2025-11-18,Junior,Chennai,Full-Time
+895,Isha Patil,9,Research Analyst,2023-08-25,Mid,Chennai,Full-Time
+896,Anjali Pawar,5,IT Support Specialist,2023-08-16,Mid,Remote,Contract
+897,Aman Joshi,5,Cloud Engineer,2025-07-20,Mid,Mumbai,Full-Time
+898,Aman Nair,5,IT Support Specialist,2020-01-03,Senior,Delhi NCR,Full-Time
+899,Dev Bhosale,7,Sales Executive,2023-07-26,Mid,Delhi NCR,Full-Time
+900,Pooja Verma,10,Analytics Consultant,2024-01-27,Senior,Remote,Full-Time
+901,Diya Bajaj,4,Content Strategist,2018-09-15,Mid,Nagpur,Contract
+902,Pranav Mishra,4,Brand Analyst,2025-03-31,Mid,Remote,Full-Time
+903,Harsh Deshmukh,6,Operations Manager,2021-06-09,Mid,Chennai,Full-Time
+904,Ishaan Jain,8,Customer Success Associate,2018-07-13,Mid,Bengaluru,Contract
+905,Yash Mane,4,Marketing Manager,2019-12-20,Lead,Bengaluru,Full-Time
+906,Rohan Singh,3,Senior Financial Analyst,2018-06-18,Lead,Remote,Full-Time
+907,Aditya More,5,Cloud Engineer,2020-04-20,Senior,Chennai,Full-Time
+908,Rahul Rao,5,IT Support Specialist,2024-01-21,Senior,Pune,Full-Time
+909,Kabir Singh,10,Senior Data Analyst,2019-08-19,Lead,Pune,Contract
+910,Ishaan Pawar,10,Reporting Analyst,2021-09-18,Mid,Bengaluru,Contract
+911,Anjali Thakur,7,Account Manager,2022-12-16,Mid,Pune,Full-Time
+912,Meera Kapoor,7,Sales Analyst,2019-04-24,Senior,Remote,Full-Time
+913,Deepa Mishra,1,HR Coordinator,2018-08-14,Senior,Hyderabad,Full-Time
+914,Neha More,3,Senior Financial Analyst,2018-12-09,Senior,Mumbai,Contract
+915,Sameer Bhosale,5,Software Engineer,2023-07-02,Mid,Chennai,Full-Time
+916,Komal Sharma,2,Training Analyst,2022-10-18,Mid,Chennai,Full-Time
+917,Ananya Joshi,4,Marketing Manager,2022-12-31,Senior,Remote,Full-Time
+918,Mihir Mane,8,Team Lead - Support,2021-03-28,Mid,Nagpur,Full-Time
+919,Dev Rao,8,Team Lead - Support,2024-09-15,Junior,Chennai,Full-Time
+920,Ananya Sharma,10,Analytics Consultant,2024-08-16,Mid,Delhi NCR,Full-Time
+921,Siddharth Jadhav,2,L&D Specialist,2023-03-08,Mid,Hyderabad,Full-Time
+922,Aditya Bajaj,8,Team Lead - Support,2021-03-31,Senior,Delhi NCR,Full-Time
+923,Aarav Singh,6,Quality Analyst,2023-03-14,Mid,Delhi NCR,Full-Time
+924,Mohit Kulkarni,2,Instructional Designer,2025-06-20,Mid,Hyderabad,Full-Time
+925,Aman Kapoor,2,Learning Program Manager,2021-02-09,Senior,Chennai,Contract
+926,Sneha More,5,Cloud Engineer,2022-11-22,Senior,Mumbai,Full-Time
+927,Harsh Kulkarni,6,Operations Analyst,2024-06-14,Junior,Bengaluru,Full-Time
+928,Bhavna Patil,5,IT Support Specialist,2025-10-10,Junior,Chennai,Full-Time
+929,Ishaan Bhosale,7,Sales Executive,2021-12-29,Junior,Hyderabad,Full-Time
+930,Rahul Shah,8,Support Analyst,2024-09-18,Mid,Delhi NCR,Full-Time
+931,Rahul Mishra,7,Sales Analyst,2025-09-20,Junior,Bengaluru,Full-Time
+932,Pranav Iyer,2,Instructional Designer,2021-02-26,Senior,Bengaluru,Full-Time
+933,Deepa Saxena,3,Financial Analyst,2023-08-24,Mid,Nagpur,Full-Time
+934,Aditi Pawar,10,Senior Data Analyst,2019-04-23,Lead,Chennai,Full-Time
+935,Sameer Bhosale,7,Regional Sales Manager,2019-07-24,Lead,Chennai,Full-Time
+936,Anjali Deshmukh,7,Sales Analyst,2018-04-28,Senior,Bengaluru,Full-Time
+937,Ananya Iyer,4,Marketing Analyst,2020-05-09,Mid,Mumbai,Full-Time
+938,Deepa Nair,8,Customer Support Executive,2026-06-30,Junior,Pune,Full-Time
+939,Janhavi More,2,L&D Coordinator,2020-11-02,Mid,Mumbai,Full-Time
+940,Deepa Kulkarni,10,Senior Data Analyst,2020-04-21,Senior,Chennai,Full-Time
+941,Sakshi Verma,1,People Operations Specialist,2026-05-15,Mid,Bengaluru,Contract
+942,Rohan Mehta,8,Customer Support Executive,2024-11-15,Junior,Pune,Contract
+943,Bhavna Mane,3,Senior Financial Analyst,2020-02-24,Lead,Pune,Full-Time
+944,Pooja Verma,10,Senior Data Analyst,2023-08-28,Senior,Bengaluru,Full-Time
+945,Kavya Khan,7,Account Manager,2019-03-16,Mid,Hyderabad,Contract
+946,Kabir Nair,3,Finance Executive,2019-04-08,Senior,Mumbai,Contract
+947,Riya Thakur,2,L&D Coordinator,2022-01-19,Mid,Mumbai,Full-Time
+948,Sameer Thakur,5,IT Support Specialist,2022-04-26,Mid,Remote,Full-Time
+949,Naina Joshi,6,Supply Chain Analyst,2021-04-05,Lead,Mumbai,Full-Time
+950,Vedant Pawar,10,Data Analyst,2022-02-14,Mid,Nagpur,Full-Time
+951,Avni Khan,6,Operations Manager,2025-08-03,Junior,Mumbai,Full-Time
+952,Sameer Sethi,1,HR Business Partner,2020-03-26,Senior,Mumbai,Full-Time
+953,Siddharth Naik,8,Support Analyst,2026-02-18,Junior,Nagpur,Full-Time
+954,Pranav Bhosale,5,IT Support Specialist,2024-10-06,Mid,Bengaluru,Full-Time
+955,Diya Yadav,2,Training Analyst,2020-10-23,Senior,Pune,Full-Time
+956,Aditi Kulkarni,7,Account Manager,2018-10-07,Senior,Chennai,Full-Time
+957,Aman More,4,Brand Analyst,2024-12-27,Junior,Remote,Full-Time
+958,Harsh Chavan,4,Content Strategist,2023-08-02,Mid,Pune,Full-Time
+959,Kabir Sethi,10,Analytics Consultant,2019-05-03,Senior,Remote,Full-Time
+960,Anushka Rao,1,HR Coordinator,2019-12-26,Senior,Bengaluru,Full-Time
+961,Pranav Gokhale,5,Software Engineer,2021-07-03,Mid,Remote,Contract
+962,Riya Sethi,7,Business Development Executive,2024-06-01,Mid,Pune,Full-Time
+963,Shreya More,3,FP&A Analyst,2024-08-17,Mid,Delhi NCR,Full-Time
+964,Komal Verma,1,HR Executive,2024-08-15,Junior,Chennai,Full-Time
+965,Mohit Verma,1,People Operations Specialist,2021-11-14,Senior,Hyderabad,Full-Time
+966,Yash Mehta,3,FP&A Analyst,2021-07-02,Mid,Mumbai,Full-Time
+967,Nikhil More,2,Instructional Designer,2024-01-15,Mid,Nagpur,Full-Time
+968,Kabir Khan,1,HR Business Partner,2023-04-08,Mid,Chennai,Contract
+969,Vedant Joshi,1,People Operations Specialist,2023-06-24,Junior,Remote,Contract
+970,Shreya Rao,8,Support Analyst,2025-06-26,Junior,Nagpur,Full-Time
+971,Rahul Joshi,5,Cybersecurity Analyst,2018-11-05,Lead,Delhi NCR,Full-Time
+972,Diya Kapoor,1,HR Executive,2024-06-07,Mid,Mumbai,Contract
+973,Radhika Pawar,4,Brand Analyst,2018-10-03,Senior,Hyderabad,Full-Time
+974,Priya Saxena,8,Support Analyst,2025-04-22,Mid,Nagpur,Contract
+975,Shreya Bhosale,4,Brand Analyst,2022-08-25,Mid,Bengaluru,Full-Time
+976,Rohan Pawar,7,Sales Analyst,2023-10-16,Senior,Remote,Full-Time
+977,Anushka Jadhav,10,Analytics Consultant,2023-12-23,Senior,Pune,Contract
+978,Avni Thakur,3,FP&A Analyst,2023-03-10,Junior,Nagpur,Full-Time
+979,Mohit Gupta,4,Brand Analyst,2018-09-21,Senior,Bengaluru,Full-Time
+980,Anjali Singh,7,Sales Analyst,2020-08-25,Senior,Pune,Full-Time
+981,Riya Iyer,8,Team Lead - Support,2021-06-25,Senior,Pune,Full-Time
+982,Isha More,2,L&D Specialist,2019-07-13,Mid,Pune,Full-Time
+983,Ananya Shah,8,Customer Experience Analyst,2018-08-15,Lead,Delhi NCR,Full-Time
+984,Varun More,9,Research Coordinator,2022-07-26,Senior,Nagpur,Full-Time
+985,Anjali Bhosale,3,FP&A Analyst,2024-05-27,Mid,Remote,Full-Time
+986,Kabir Shah,3,Senior Financial Analyst,2019-05-16,Senior,Nagpur,Full-Time
+987,Chetan Joshi,10,Reporting Analyst,2020-06-11,Mid,Remote,Full-Time
+988,Rahul Verma,3,Financial Analyst,2024-08-11,Junior,Chennai,Contract
+989,Isha Mane,5,Systems Analyst,2025-08-28,Junior,Chennai,Full-Time
+990,Sameer Patil,7,Sales Executive,2021-06-16,Mid,Hyderabad,Full-Time
+991,Yash Verma,6,Supply Chain Analyst,2021-06-20,Senior,Mumbai,Contract
+992,Meera Jadhav,9,Research Coordinator,2022-12-18,Mid,Delhi NCR,Full-Time
+993,Dev Sethi,10,BI Analyst,2026-06-27,Junior,Remote,Full-Time
+994,Aditya Gupta,9,Research Analyst,2025-03-24,Junior,Remote,Full-Time
+995,Aniket Bajaj,7,Business Development Executive,2021-09-24,Mid,Delhi NCR,Contract
+996,Riya Thakur,1,People Operations Specialist,2022-09-20,Mid,Remote,Full-Time
+997,Sneha Jain,8,Customer Success Associate,2025-03-12,Junior,Pune,Full-Time
+998,Ananya Nair,3,FP&A Analyst,2021-06-05,Senior,Hyderabad,Contract
+999,Sameer More,7,Account Manager,2025-04-13,Mid,Chennai,Full-Time
+1000,Chetan More,5,IT Support Specialist,2026-03-31,Junior,Delhi NCR,Full-Time
+1001,Kunal Bajaj,1,HR Analyst,2022-02-14,Mid,Pune,Full-Time
+1002,Diya Jadhav,10,Data Analyst,2025-04-04,Junior,Remote,Full-Time
+1003,Shreya Iyer,3,FP&A Analyst,2019-11-23,Mid,Bengaluru,Full-Time
+1004,Anjali Sharma,10,Senior Data Analyst,2019-11-28,Lead,Nagpur,Full-Time
+1005,Zoya Joshi,8,Customer Success Associate,2023-07-18,Junior,Delhi NCR,Full-Time
+1006,Dev Kapoor,8,Customer Success Associate,2022-04-14,Junior,Delhi NCR,Full-Time
+1007,Aditi Rao,5,IT Support Specialist,2022-08-01,Mid,Hyderabad,Contract
+1008,Vedant Yadav,5,Cloud Engineer,2020-10-14,Senior,Mumbai,Full-Time
+1009,Meera More,5,IT Support Specialist,2021-08-17,Senior,Nagpur,Full-Time
+1010,Riya Patil,7,Sales Executive,2020-11-15,Mid,Chennai,Full-Time
+1011,Varun Saxena,5,Cybersecurity Analyst,2021-12-22,Senior,Pune,Full-Time
+1012,Meera More,3,FP&A Analyst,2024-12-13,Junior,Bengaluru,Contract
+1013,Priya Pawar,1,HR Business Partner,2020-01-05,Senior,Remote,Full-Time
+1014,Avni Gupta,1,HR Executive,2025-12-19,Junior,Chennai,Full-Time
+1015,Isha Thakur,10,Analytics Consultant,2023-08-07,Senior,Nagpur,Full-Time
+1016,Siddharth Jadhav,9,Insights Analyst,2020-12-14,Senior,Chennai,Full-Time
+1017,Pranav Gokhale,9,Market Research Associate,2021-07-16,Mid,Remote,Full-Time
+1018,Aditya Pawar,3,FP&A Analyst,2018-08-12,Mid,Bengaluru,Full-Time
+1019,Kavya Naik,5,Cloud Engineer,2023-07-21,Junior,Remote,Full-Time
+1020,Anjali Verma,2,L&D Coordinator,2026-01-27,Mid,Hyderabad,Full-Time
+1021,Isha Mishra,3,Senior Financial Analyst,2019-11-21,Senior,Hyderabad,Contract
+1022,Rohan Kulkarni,10,Analytics Consultant,2018-01-17,Senior,Mumbai,Full-Time
+1023,Karan Sharma,8,Support Analyst,2025-08-04,Junior,Mumbai,Full-Time
+1024,Avni Sharma,5,Cybersecurity Analyst,2019-03-11,Lead,Mumbai,Full-Time
+1025,Sneha Gupta,8,Customer Support Executive,2025-05-25,Junior,Chennai,Full-Time
+1026,Mihir Thakur,7,Business Development Executive,2023-01-30,Mid,Hyderabad,Full-Time
+1027,Akash Thakur,8,Support Analyst,2021-03-04,Senior,Nagpur,Full-Time
+1028,Anushka Sethi,5,Cloud Engineer,2019-12-31,Mid,Mumbai,Full-Time
+1029,Meera Rao,9,Senior Research Analyst,2019-10-30,Senior,Bengaluru,Full-Time
+1030,Janhavi Mane,4,Digital Marketing Executive,2022-11-06,Mid,Chennai,Full-Time
+1031,Neha Mane,8,Team Lead - Support,2023-10-01,Mid,Remote,Full-Time
+1032,Naina Saxena,6,Quality Analyst,2022-09-29,Junior,Bengaluru,Full-Time
+1033,Karan Jain,7,Business Development Executive,2019-01-16,Mid,Bengaluru,Full-Time
+1034,Ishaan Jain,6,Operations Manager,2025-04-05,Junior,Mumbai,Full-Time
+1035,Janhavi Bajaj,4,Content Strategist,2019-06-08,Senior,Nagpur,Full-Time
+1036,Aditya Bhosale,6,Operations Analyst,2024-03-06,Junior,Nagpur,Full-Time
+1037,Harsh Verma,1,People Operations Specialist,2025-05-30,Junior,Mumbai,Contract
+1038,Chetan Saxena,1,HR Analyst,2026-04-22,Junior,Nagpur,Full-Time
+1039,Sakshi Thakur,1,HR Business Partner,2025-11-25,Junior,Remote,Contract
+1040,Chetan Joshi,8,Support Analyst,2021-10-30,Senior,Mumbai,Contract
+1041,Rahul Sharma,3,Financial Analyst,2025-07-21,Junior,Nagpur,Full-Time
+1042,Yash Khan,1,HR Business Partner,2025-05-10,Junior,Delhi NCR,Contract
+1043,Vedant Naik,8,Team Lead - Support,2024-12-01,Junior,Delhi NCR,Full-Time
+1044,Aditi Naik,2,L&D Specialist,2018-02-26,Mid,Pune,Full-Time
+1045,Naina Bajaj,5,Cybersecurity Analyst,2019-08-18,Senior,Hyderabad,Full-Time
+1046,Naina Sharma,4,Marketing Analyst,2023-03-14,Junior,Bengaluru,Full-Time
+1047,Pooja Sharma,7,Account Manager,2022-12-29,Senior,Hyderabad,Full-Time
+1048,Aarav Nair,4,Brand Analyst,2022-05-24,Junior,Nagpur,Full-Time
+1049,Ishaan Patil,7,Account Manager,2024-09-06,Junior,Nagpur,Full-Time
+1050,Vedant Mane,6,Operations Manager,2026-02-16,Junior,Hyderabad,Full-Time
+1051,Riya Mehta,6,Quality Analyst,2022-09-25,Mid,Nagpur,Full-Time
+1052,Kavya Jain,2,Instructional Designer,2024-12-25,Mid,Pune,Full-Time
+1053,Neha Deshmukh,4,Marketing Manager,2020-02-27,Senior,Hyderabad,Contract
+1054,Zoya More,9,Insights Analyst,2021-10-21,Senior,Bengaluru,Full-Time
+1055,Vedant Yadav,7,Regional Sales Manager,2022-05-18,Senior,Chennai,Full-Time
+1056,Ishaan Naik,8,Customer Experience Analyst,2019-10-26,Senior,Mumbai,Full-Time
+1057,Pranav Nair,2,Instructional Designer,2020-03-28,Mid,Remote,Full-Time
+1058,Aditi Verma,3,FP&A Analyst,2024-03-30,Junior,Chennai,Full-Time
+1059,Aman Shah,2,Instructional Designer,2023-08-25,Junior,Mumbai,Contract
+1060,Harsh Shah,3,FP&A Analyst,2024-04-20,Mid,Pune,Contract
+1061,Priya Kapoor,3,Senior Financial Analyst,2019-09-12,Lead,Mumbai,Full-Time
+1062,Siddharth Nair,10,Data Analyst,2022-11-29,Mid,Mumbai,Contract
+1063,Anjali Sethi,1,HR Analyst,2019-03-08,Mid,Chennai,Full-Time
+1064,Priya Pawar,7,Sales Executive,2025-12-10,Junior,Bengaluru,Full-Time
+1065,Deepa Jain,4,Brand Analyst,2019-07-19,Mid,Pune,Full-Time
+1066,Priya Kulkarni,8,Customer Support Executive,2023-04-25,Mid,Delhi NCR,Full-Time
+1067,Varun Deshmukh,7,Business Development Executive,2022-08-27,Mid,Nagpur,Full-Time
+1068,Mohit Mane,2,Instructional Designer,2022-10-23,Mid,Chennai,Full-Time
+1069,Radhika Mehta,5,IT Support Specialist,2018-02-10,Senior,Chennai,Full-Time
+1070,Meera Gokhale,5,IT Support Specialist,2019-11-05,Senior,Bengaluru,Contract
+1071,Varun Mane,1,People Operations Specialist,2025-01-31,Mid,Nagpur,Full-Time
+1072,Janhavi Thakur,9,Research Coordinator,2025-11-10,Junior,Chennai,Full-Time
+1073,Avni Naik,8,Team Lead - Support,2023-12-02,Mid,Remote,Full-Time
+1074,Tanvi Jain,9,Research Coordinator,2025-01-01,Mid,Nagpur,Full-Time
+1075,Karan Khan,9,Market Research Associate,2018-12-12,Mid,Delhi NCR,Full-Time
+1076,Karan Gokhale,1,HR Analyst,2024-03-10,Mid,Pune,Full-Time
+1077,Gaurav Bajaj,9,Research Coordinator,2024-01-21,Mid,Nagpur,Contract
+1078,Harsh Yadav,2,Learning Program Manager,2018-09-03,Lead,Chennai,Full-Time
+1079,Neha Rao,1,HR Executive,2025-04-20,Mid,Remote,Full-Time
+1080,Rohan Naik,10,BI Analyst,2026-05-13,Mid,Chennai,Full-Time
+1081,Arjun Naik,4,Brand Analyst,2026-01-07,Junior,Hyderabad,Full-Time
+1082,Anushka Verma,4,Brand Analyst,2024-07-13,Junior,Mumbai,Full-Time
+1083,Akash Iyer,7,Business Development Executive,2022-08-15,Junior,Remote,Full-Time
+1084,Meera Mishra,5,Cloud Engineer,2022-02-21,Mid,Delhi NCR,Contract
+1085,Yash Jadhav,5,Cloud Engineer,2022-10-01,Senior,Nagpur,Full-Time
+1086,Nikhil Singh,2,Learning Program Manager,2019-06-05,Senior,Mumbai,Full-Time
+1087,Riya Verma,5,IT Support Specialist,2018-05-14,Senior,Nagpur,Full-Time
+1088,Radhika Singh,2,L&D Coordinator,2024-05-30,Mid,Chennai,Full-Time
+1089,Aditi Saxena,10,Reporting Analyst,2021-05-27,Senior,Bengaluru,Contract
+1090,Dev Kulkarni,5,Cybersecurity Analyst,2021-06-03,Lead,Remote,Full-Time
+1091,Aditya Iyer,2,Instructional Designer,2021-11-29,Junior,Delhi NCR,Contract
+1092,Pooja Bajaj,5,Systems Analyst,2021-10-15,Mid,Bengaluru,Contract
+1093,Avni Sethi,7,Sales Analyst,2023-01-17,Mid,Mumbai,Contract
+1094,Meera Shah,7,Sales Executive,2022-08-05,Mid,Remote,Full-Time
+1095,Rohan Yadav,7,Regional Sales Manager,2019-11-10,Senior,Delhi NCR,Contract
+1096,Deepa Kapoor,7,Sales Executive,2025-03-22,Junior,Hyderabad,Full-Time
+1097,Rahul Kulkarni,6,Operations Analyst,2018-03-18,Mid,Delhi NCR,Full-Time
+1098,Sakshi Jain,3,Financial Analyst,2025-11-30,Mid,Chennai,Full-Time
+1099,Aditi Shah,6,Operations Manager,2023-07-07,Senior,Bengaluru,Full-Time
+1100,Harsh Mehta,1,HR Executive,2023-12-03,Mid,Mumbai,Contract
+1101,Anushka Mehta,2,L&D Specialist,2019-08-13,Mid,Delhi NCR,Full-Time
+1102,Kabir Kulkarni,7,Sales Analyst,2018-08-30,Senior,Pune,Full-Time
+1103,Kabir Gupta,5,Cloud Engineer,2021-08-03,Junior,Mumbai,Full-Time
+1104,Gaurav Pawar,3,Finance Executive,2026-06-08,Junior,Mumbai,Full-Time
+1105,Aman Pawar,1,HR Executive,2023-03-19,Mid,Nagpur,Full-Time
+1106,Sakshi More,10,Reporting Analyst,2018-03-18,Senior,Hyderabad,Contract
+1107,Mohit Jain,7,Sales Analyst,2019-05-30,Senior,Hyderabad,Full-Time
+1108,Rahul Iyer,5,Cybersecurity Analyst,2019-11-20,Senior,Remote,Full-Time
+1109,Shreya Rao,1,HR Coordinator,2023-03-19,Senior,Bengaluru,Full-Time
+1110,Harsh Bajaj,1,HR Business Partner,2023-05-30,Mid,Chennai,Full-Time
+1111,Bhavna Thakur,6,Operations Analyst,2023-09-22,Mid,Delhi NCR,Full-Time
+1112,Mihir Chavan,5,Cybersecurity Analyst,2019-05-19,Lead,Delhi NCR,Full-Time
+1113,Kabir Mane,3,Senior Financial Analyst,2023-08-30,Senior,Chennai,Full-Time
+1114,Gaurav More,10,Reporting Analyst,2025-12-08,Junior,Chennai,Full-Time
+1115,Yash Singh,5,Software Engineer,2024-09-21,Junior,Remote,Full-Time
+1116,Riya Mane,9,Insights Analyst,2025-07-18,Junior,Nagpur,Contract
+1117,Rahul Sharma,1,HR Business Partner,2025-04-12,Junior,Mumbai,Full-Time
+1118,Kavya Khan,10,Reporting Analyst,2022-03-22,Senior,Pune,Full-Time
+1119,Diya Thakur,5,IT Support Specialist,2020-03-01,Senior,Delhi NCR,Full-Time
+1120,Zoya Deshmukh,3,Accounts Analyst,2024-11-17,Junior,Remote,Full-Time
+1121,Zoya Kapoor,1,People Operations Specialist,2023-07-12,Senior,Pune,Full-Time
+1122,Isha Mishra,10,Analytics Consultant,2025-02-28,Junior,Bengaluru,Contract
+1123,Vedant Kapoor,3,Accounts Analyst,2026-04-15,Junior,Mumbai,Contract
+1124,Rohan Sethi,2,L&D Specialist,2018-09-24,Mid,Delhi NCR,Full-Time
+1125,Yash More,9,Senior Research Analyst,2018-04-05,Lead,Delhi NCR,Contract
+1126,Tanvi More,9,Senior Research Analyst,2018-01-09,Lead,Pune,Full-Time
+1127,Vedant Bhosale,5,Cloud Engineer,2022-07-25,Mid,Remote,Full-Time
+1128,Diya Patil,6,Supply Chain Analyst,2018-06-28,Lead,Delhi NCR,Full-Time
+1129,Deepa Shah,6,Operations Analyst,2021-07-19,Junior,Pune,Full-Time
+1130,Gaurav Joshi,10,Reporting Analyst,2022-10-02,Senior,Chennai,Full-Time
+1131,Pooja Iyer,1,HR Executive,2025-01-05,Junior,Chennai,Full-Time
+1132,Karan Bajaj,3,Financial Analyst,2023-04-24,Mid,Chennai,Contract
+1133,Shreya Jain,8,Support Analyst,2018-10-26,Senior,Remote,Contract
+1134,Kunal Shah,2,Learning Program Manager,2018-09-06,Lead,Mumbai,Full-Time
+1135,Shreya Yadav,1,HR Business Partner,2022-12-16,Junior,Mumbai,Full-Time
+1136,Kunal Khan,7,Sales Executive,2024-04-09,Junior,Nagpur,Full-Time
+1137,Nikhil Khan,9,Insights Analyst,2025-05-26,Junior,Nagpur,Contract
+1138,Vedant Saxena,6,Operations Analyst,2021-10-23,Mid,Remote,Contract
+1139,Aarav Kapoor,4,Marketing Analyst,2020-02-28,Mid,Hyderabad,Contract
+1140,Mohit Pawar,2,Instructional Designer,2023-09-16,Mid,Bengaluru,Full-Time
+1141,Janhavi Mishra,2,Instructional Designer,2018-06-30,Mid,Chennai,Full-Time
+1142,Avni Pawar,6,Quality Analyst,2024-01-26,Mid,Chennai,Full-Time
+1143,Varun More,5,IT Support Specialist,2018-02-03,Senior,Pune,Full-Time
+1144,Naina Verma,6,Quality Analyst,2024-04-10,Senior,Hyderabad,Full-Time
+1145,Pooja Naik,8,Team Lead - Support,2021-10-30,Mid,Chennai,Contract
+1146,Mohit Shah,6,Process Executive,2021-10-06,Mid,Mumbai,Full-Time
+1147,Aarav Yadav,9,Research Coordinator,2018-06-22,Senior,Hyderabad,Full-Time
+1148,Anushka Bajaj,7,Account Manager,2020-09-06,Senior,Nagpur,Full-Time
+1149,Aman Verma,5,IT Support Specialist,2018-01-28,Senior,Mumbai,Full-Time
+1150,Siddharth Verma,4,Content Strategist,2020-03-07,Senior,Pune,Full-Time
+1151,Harsh Thakur,3,Accounts Analyst,2019-12-15,Mid,Chennai,Contract
+1152,Harsh Jadhav,3,Financial Analyst,2020-03-13,Mid,Pune,Full-Time
+1153,Dev Rao,5,Cloud Engineer,2019-03-31,Senior,Hyderabad,Full-Time
+1154,Radhika Saxena,8,Team Lead - Support,2025-05-31,Junior,Mumbai,Full-Time
+1155,Deepa Chavan,2,Instructional Designer,2019-06-20,Senior,Chennai,Full-Time
+1156,Aditya Gokhale,6,Process Executive,2025-02-18,Junior,Delhi NCR,Full-Time
+1157,Isha Sethi,4,Content Strategist,2018-08-07,Senior,Remote,Full-Time
+1158,Shreya Mehta,7,Business Development Executive,2023-04-12,Mid,Nagpur,Contract
+1159,Kabir Naik,5,IT Support Specialist,2023-10-27,Mid,Remote,Full-Time
+1160,Sakshi Yadav,5,Software Engineer,2024-07-08,Junior,Hyderabad,Full-Time
+1161,Meera Joshi,9,Insights Analyst,2023-01-26,Senior,Nagpur,Full-Time
+1162,Ananya Singh,6,Operations Analyst,2022-03-13,Mid,Delhi NCR,Full-Time
+1163,Nikhil Bhosale,6,Supply Chain Analyst,2020-07-31,Senior,Chennai,Full-Time
+1164,Pranav Shah,5,IT Support Specialist,2022-11-07,Mid,Nagpur,Full-Time
+1165,Aman Verma,2,Training Analyst,2020-08-15,Senior,Delhi NCR,Contract
+1166,Isha Jadhav,6,Process Executive,2025-03-21,Junior,Mumbai,Full-Time
+1167,Karan Joshi,1,HR Coordinator,2018-06-06,Senior,Chennai,Full-Time
+1168,Deepa Naik,4,Digital Marketing Executive,2025-08-31,Mid,Delhi NCR,Full-Time
+1169,Meera Khan,8,Customer Experience Analyst,2021-02-28,Lead,Pune,Full-Time
+1170,Diya Deshmukh,7,Regional Sales Manager,2019-09-04,Lead,Hyderabad,Full-Time
+1171,Siddharth Jain,3,Finance Executive,2024-08-01,Mid,Chennai,Full-Time
+1172,Yash Iyer,4,Content Strategist,2020-02-09,Senior,Remote,Full-Time
+1173,Rohan Sethi,9,Research Coordinator,2018-05-04,Senior,Delhi NCR,Full-Time
+1174,Karan Deshmukh,5,Cloud Engineer,2025-05-22,Mid,Nagpur,Full-Time
+1175,Kabir Mishra,8,Customer Support Executive,2025-09-29,Junior,Pune,Full-Time
+1176,Sameer Jadhav,2,Instructional Designer,2021-09-14,Mid,Nagpur,Full-Time
+1177,Deepa Pawar,10,Reporting Analyst,2018-09-18,Senior,Chennai,Contract
+1178,Ananya Kulkarni,10,Data Analyst,2025-03-02,Mid,Bengaluru,Full-Time
+1179,Chetan Joshi,8,Customer Support Executive,2024-10-07,Junior,Nagpur,Full-Time
+1180,Aman Jain,3,FP&A Analyst,2021-04-07,Senior,Chennai,Contract
+1181,Mohit Khan,1,People Operations Specialist,2021-08-31,Senior,Mumbai,Full-Time
+1182,Kunal Mane,6,Process Executive,2023-05-13,Mid,Bengaluru,Full-Time
+1183,Bhavna Kapoor,4,Content Strategist,2025-12-16,Junior,Hyderabad,Contract
+1184,Aarav Singh,7,Account Manager,2023-02-23,Mid,Mumbai,Full-Time
+1185,Rohan Mane,6,Operations Manager,2020-10-08,Senior,Remote,Full-Time
+1186,Tanvi Mane,6,Operations Manager,2026-04-08,Junior,Chennai,Full-Time
+1187,Chetan Mane,5,Cybersecurity Analyst,2019-12-19,Senior,Nagpur,Full-Time
+1188,Rohan Nair,5,Cloud Engineer,2025-05-23,Junior,Pune,Full-Time
+1189,Sneha Chavan,9,Insights Analyst,2019-10-09,Senior,Mumbai,Full-Time
+1190,Riya Nair,9,Insights Analyst,2022-08-12,Senior,Mumbai,Full-Time
+1191,Bhavna Gupta,6,Process Executive,2021-08-28,Mid,Pune,Full-Time
+1192,Rutuja Jain,1,HR Business Partner,2025-03-01,Junior,Chennai,Full-Time
+1193,Harsh Nair,9,Market Research Associate,2022-06-13,Junior,Chennai,Full-Time
+1194,Varun Deshmukh,5,Cloud Engineer,2018-10-07,Mid,Bengaluru,Full-Time
+1195,Aditi Kapoor,8,Customer Support Executive,2019-10-23,Mid,Bengaluru,Full-Time
+1196,Aman More,2,L&D Coordinator,2026-04-25,Junior,Delhi NCR,Full-Time
+1197,Aditya Mane,5,Systems Analyst,2019-12-30,Mid,Remote,Full-Time
+1198,Zoya More,8,Customer Support Executive,2023-11-12,Mid,Nagpur,Full-Time
+1199,Anushka Khan,5,Systems Analyst,2024-09-16,Junior,Hyderabad,Full-Time
+1200,Mohit Sharma,9,Research Analyst,2020-03-30,Mid,Chennai,Full-Time
+1201,Aniket Saxena,7,Business Development Executive,2018-09-16,Mid,Bengaluru,Full-Time
+1202,Kabir Chavan,5,Cybersecurity Analyst,2019-03-18,Lead,Hyderabad,Contract
+1203,Naina Nair,3,Accounts Analyst,2024-01-28,Mid,Hyderabad,Full-Time
+1204,Tanvi Shah,4,Marketing Analyst,2019-12-13,Mid,Nagpur,Full-Time
+1205,Isha Yadav,5,Cybersecurity Analyst,2018-09-28,Senior,Chennai,Full-Time
+1206,Anushka Kapoor,1,HR Business Partner,2020-06-14,Senior,Mumbai,Contract
+1207,Aniket Kapoor,8,Support Analyst,2024-05-20,Mid,Nagpur,Full-Time
+1208,Yash Shah,4,Brand Analyst,2025-02-15,Mid,Mumbai,Full-Time
+1209,Priya Yadav,1,HR Analyst,2024-07-24,Junior,Pune,Full-Time
+1210,Rutuja Iyer,1,People Operations Specialist,2019-05-24,Senior,Mumbai,Full-Time
+1211,Avni Khan,2,L&D Specialist,2023-08-05,Mid,Pune,Full-Time
+1212,Neha Thakur,10,Reporting Analyst,2024-09-15,Mid,Bengaluru,Full-Time
+1213,Mohit Yadav,4,Brand Analyst,2018-06-12,Senior,Pune,Full-Time
+1214,Dev Chavan,9,Research Analyst,2021-09-18,Mid,Hyderabad,Full-Time
+1215,Chetan Jain,6,Operations Analyst,2022-04-12,Mid,Mumbai,Full-Time
+1216,Avni Joshi,1,HR Analyst,2020-02-28,Mid,Mumbai,Full-Time
+1217,Ananya Iyer,6,Operations Manager,2020-04-17,Mid,Delhi NCR,Full-Time
+1218,Sameer Deshmukh,7,Account Manager,2020-09-30,Senior,Delhi NCR,Contract
+1219,Pooja Mehta,5,IT Support Specialist,2025-02-16,Junior,Nagpur,Full-Time
+1220,Shreya Thakur,2,Instructional Designer,2022-12-13,Mid,Bengaluru,Full-Time
+1221,Ananya Gokhale,1,People Operations Specialist,2022-04-12,Mid,Bengaluru,Contract
+1222,Janhavi Jain,7,Account Manager,2020-11-19,Senior,Nagpur,Contract
+1223,Zoya Pawar,6,Quality Analyst,2018-10-22,Senior,Bengaluru,Full-Time
+1224,Komal Pawar,1,HR Business Partner,2023-08-13,Mid,Nagpur,Full-Time
+1225,Janhavi Yadav,10,Data Analyst,2022-03-09,Mid,Nagpur,Full-Time
+1226,Rohan Kulkarni,10,Reporting Analyst,2019-05-25,Senior,Nagpur,Full-Time
+1227,Priya Naik,8,Team Lead - Support,2026-06-06,Junior,Chennai,Full-Time
+1228,Gaurav Pawar,7,Sales Executive,2022-10-03,Mid,Chennai,Full-Time
+1229,Sameer Jain,7,Business Development Executive,2025-03-28,Junior,Delhi NCR,Full-Time
+1230,Aarav Nair,6,Operations Analyst,2025-06-07,Mid,Nagpur,Full-Time
+1231,Deepa Mane,7,Account Manager,2018-11-26,Senior,Bengaluru,Full-Time
+1232,Rahul More,3,Finance Executive,2021-05-22,Senior,Delhi NCR,Full-Time
+1233,Aniket Yadav,8,Support Analyst,2026-02-28,Mid,Bengaluru,Full-Time
+1234,Janhavi Sharma,8,Customer Success Associate,2026-05-23,Junior,Remote,Full-Time
+1235,Mohit Yadav,1,People Operations Specialist,2025-10-23,Junior,Nagpur,Full-Time
+1236,Deepa Pawar,2,Training Analyst,2020-02-03,Senior,Mumbai,Full-Time
+1237,Akash Thakur,6,Process Executive,2020-05-20,Mid,Hyderabad,Full-Time
+1238,Shreya Nair,10,BI Analyst,2022-08-02,Mid,Mumbai,Full-Time
+1239,Karan Sharma,1,HR Coordinator,2019-05-26,Senior,Hyderabad,Full-Time
+1240,Isha Gokhale,5,Software Engineer,2019-02-17,Mid,Pune,Full-Time
+1241,Radhika Gokhale,3,Finance Executive,2018-01-30,Senior,Remote,Full-Time
+1242,Komal More,8,Support Analyst,2024-10-11,Junior,Chennai,Full-Time
+1243,Shreya Patil,10,Reporting Analyst,2025-06-17,Junior,Chennai,Full-Time
+1244,Arjun Sharma,1,HR Executive,2025-10-31,Junior,Delhi NCR,Full-Time
+1245,Pooja Bhosale,5,Cloud Engineer,2024-12-07,Junior,Hyderabad,Full-Time
+1246,Komal Sethi,10,Data Analyst,2021-08-12,Junior,Chennai,Full-Time
+1247,Shreya Saxena,3,Financial Analyst,2023-06-08,Mid,Chennai,Full-Time
+1248,Yash Mane,10,Reporting Analyst,2023-05-05,Senior,Nagpur,Full-Time
+1249,Radhika Mane,6,Operations Analyst,2025-12-26,Junior,Bengaluru,Full-Time
+1250,Riya Sethi,8,Customer Experience Analyst,2021-05-19,Lead,Remote,Full-Time
+1251,Rahul Deshmukh,9,Research Coordinator,2019-04-19,Senior,Hyderabad,Full-Time
+1252,Aniket Iyer,8,Customer Support Executive,2025-05-26,Junior,Bengaluru,Full-Time
+1253,Harsh More,9,Insights Analyst,2021-02-22,Mid,Mumbai,Full-Time
+1254,Ananya Saxena,10,Reporting Analyst,2025-02-08,Junior,Hyderabad,Contract
+1255,Karan Khan,8,Team Lead - Support,2024-09-26,Junior,Nagpur,Full-Time
+1256,Anjali Mehta,3,Finance Executive,2019-04-19,Senior,Hyderabad,Full-Time
+1257,Kunal Mishra,6,Supply Chain Analyst,2019-06-06,Lead,Pune,Full-Time
+1258,Kunal Iyer,1,People Operations Specialist,2024-01-03,Mid,Chennai,Full-Time
+1259,Aniket Khan,6,Operations Analyst,2024-09-30,Junior,Remote,Full-Time
+1260,Pranav More,2,Learning Program Manager,2021-04-30,Lead,Remote,Full-Time
+1261,Yash Patil,6,Supply Chain Analyst,2019-08-21,Senior,Chennai,Full-Time
+1262,Zoya Mishra,6,Operations Manager,2025-09-21,Junior,Hyderabad,Full-Time
+1263,Karan Singh,4,Digital Marketing Executive,2022-03-23,Junior,Hyderabad,Full-Time
+1264,Mihir Khan,10,Senior Data Analyst,2020-01-04,Lead,Delhi NCR,Full-Time
+1265,Naina More,10,Analytics Consultant,2024-02-23,Mid,Chennai,Full-Time
+1266,Ishaan Naik,5,Systems Analyst,2023-12-03,Mid,Nagpur,Full-Time
+1267,Akash Sethi,2,Training Analyst,2026-06-09,Mid,Remote,Full-Time
+1268,Ishaan Mane,6,Process Executive,2022-12-15,Mid,Hyderabad,Full-Time
+1269,Aarav Verma,8,Customer Experience Analyst,2020-03-12,Senior,Mumbai,Full-Time
+1270,Bhavna Jadhav,5,Software Engineer,2022-10-16,Mid,Mumbai,Full-Time
+1271,Anjali Bhosale,10,Senior Data Analyst,2020-01-06,Lead,Chennai,Contract
+1272,Meera Deshmukh,5,IT Support Specialist,2019-09-01,Senior,Mumbai,Full-Time
+1273,Chetan Yadav,5,Cybersecurity Analyst,2021-05-24,Senior,Nagpur,Full-Time
+1274,Sneha Yadav,8,Team Lead - Support,2025-04-17,Junior,Chennai,Full-Time
+1275,Tanvi More,2,L&D Specialist,2018-12-05,Mid,Pune,Contract
+1276,Yash Thakur,6,Operations Analyst,2024-06-03,Mid,Bengaluru,Full-Time
+1277,Janhavi Mishra,5,Systems Analyst,2025-03-25,Junior,Mumbai,Full-Time
+1278,Yash Sharma,1,HR Business Partner,2024-01-11,Mid,Remote,Full-Time
+1279,Tanvi Nair,6,Process Executive,2024-07-23,Junior,Mumbai,Full-Time
+1280,Riya Jain,9,Research Coordinator,2025-10-18,Junior,Mumbai,Full-Time
+1281,Ananya Chavan,2,Instructional Designer,2020-04-24,Senior,Pune,Full-Time
+1282,Rahul Kulkarni,10,Analytics Consultant,2023-09-05,Mid,Pune,Full-Time
+1283,Ishaan More,4,Marketing Manager,2023-10-29,Senior,Remote,Full-Time
+1284,Kavya Kapoor,6,Process Executive,2025-10-18,Junior,Mumbai,Full-Time
+1285,Dev Singh,3,Accounts Analyst,2020-02-10,Mid,Chennai,Full-Time
+1286,Riya Gupta,2,Training Analyst,2024-12-23,Junior,Nagpur,Full-Time
+1287,Vedant Iyer,5,Cybersecurity Analyst,2018-12-08,Lead,Bengaluru,Contract
+1288,Sneha Naik,3,Accounts Analyst,2025-01-22,Junior,Chennai,Contract
+1289,Mohit Bajaj,7,Business Development Executive,2023-09-26,Mid,Chennai,Full-Time
+1290,Isha Nair,5,Software Engineer,2024-10-08,Junior,Nagpur,Full-Time
+1291,Karan Gokhale,4,Brand Analyst,2018-12-31,Senior,Bengaluru,Full-Time
+1292,Diya Khan,4,Content Strategist,2019-02-06,Senior,Mumbai,Full-Time
+1293,Pranav Nair,6,Supply Chain Analyst,2021-06-09,Senior,Chennai,Contract
+1294,Aniket Mane,9,Research Analyst,2024-03-09,Mid,Bengaluru,Full-Time
+1295,Rutuja More,10,Analytics Consultant,2022-05-15,Mid,Remote,Contract
+1296,Zoya Singh,2,Learning Program Manager,2018-02-08,Senior,Bengaluru,Full-Time
+1297,Mihir Yadav,5,IT Support Specialist,2026-04-01,Junior,Hyderabad,Contract
+1298,Kavya Saxena,5,Cloud Engineer,2023-02-19,Mid,Delhi NCR,Full-Time
+1299,Diya Rao,10,Senior Data Analyst,2023-11-03,Senior,Mumbai,Full-Time
+1300,Sneha Mehta,5,IT Support Specialist,2021-07-04,Senior,Hyderabad,Full-Time
+1301,Ishaan Chavan,2,Instructional Designer,2018-08-24,Mid,Pune,Full-Time
+1302,Pranav Bhosale,7,Sales Executive,2026-03-13,Junior,Nagpur,Full-Time
+1303,Naina Naik,6,Quality Analyst,2026-05-14,Junior,Hyderabad,Contract
+1304,Bhavna More,7,Regional Sales Manager,2018-06-23,Senior,Hyderabad,Full-Time
+1305,Akash Iyer,1,HR Business Partner,2019-07-01,Senior,Nagpur,Full-Time
+1306,Vedant Deshmukh,5,Cybersecurity Analyst,2019-04-09,Senior,Mumbai,Full-Time
+1307,Aarav Thakur,4,Marketing Manager,2021-04-17,Senior,Nagpur,Full-Time
+1308,Aditya Jadhav,10,Analytics Consultant,2025-03-18,Junior,Remote,Full-Time
+1309,Janhavi Verma,4,Marketing Analyst,2024-11-26,Junior,Pune,Full-Time
+1310,Aarav Nair,9,Insights Analyst,2020-02-02,Senior,Remote,Full-Time
+1311,Mohit Nair,1,HR Business Partner,2023-10-08,Senior,Pune,Full-Time
+1312,Meera Verma,8,Support Analyst,2020-10-21,Mid,Chennai,Full-Time
+1313,Aniket Jain,9,Senior Research Analyst,2024-01-07,Senior,Remote,Full-Time
+1314,Kavya Mane,2,L&D Specialist,2026-05-19,Junior,Mumbai,Full-Time
+1315,Rutuja Shah,4,Content Strategist,2019-07-02,Senior,Bengaluru,Full-Time
+1316,Anjali Iyer,10,Analytics Consultant,2025-06-17,Mid,Remote,Full-Time
+1317,Rutuja Bajaj,4,Brand Analyst,2022-06-26,Mid,Bengaluru,Full-Time
+1318,Kavya Bhosale,10,Data Analyst,2018-03-28,Mid,Hyderabad,Full-Time
+1319,Sameer Thakur,7,Sales Executive,2021-11-02,Mid,Nagpur,Full-Time
+1320,Naina Deshmukh,4,Digital Marketing Executive,2023-06-14,Junior,Bengaluru,Full-Time
+1321,Yash Deshmukh,4,Marketing Manager,2019-04-17,Lead,Nagpur,Full-Time
+1322,Priya Kapoor,5,IT Support Specialist,2019-02-27,Senior,Hyderabad,Contract
+1323,Arjun Khan,7,Sales Executive,2019-09-02,Mid,Delhi NCR,Full-Time
+1324,Deepa Mehta,10,Data Analyst,2022-10-13,Junior,Nagpur,Full-Time
+1325,Diya Deshmukh,6,Quality Analyst,2025-11-07,Junior,Nagpur,Full-Time
+1326,Janhavi Nair,1,People Operations Specialist,2022-10-16,Mid,Chennai,Full-Time
+1327,Kabir Mane,10,Data Analyst,2025-12-24,Junior,Bengaluru,Full-Time
+1328,Dev Rao,1,HR Business Partner,2025-05-29,Junior,Delhi NCR,Contract
+1329,Pranav Verma,2,Instructional Designer,2020-01-28,Senior,Delhi NCR,Full-Time
+1330,Anushka Sethi,1,People Operations Specialist,2018-02-25,Senior,Chennai,Full-Time
+1331,Sakshi Bhosale,8,Support Analyst,2022-01-20,Mid,Hyderabad,Full-Time
+1332,Aniket Singh,3,Financial Analyst,2022-04-23,Junior,Pune,Contract
+1333,Deepa Naik,10,Analytics Consultant,2025-05-04,Mid,Mumbai,Full-Time
+1334,Mihir Pawar,10,BI Analyst,2024-12-10,Junior,Bengaluru,Full-Time
+1335,Harsh Mane,2,Training Analyst,2022-09-09,Mid,Chennai,Full-Time
+1336,Aman Pawar,7,Regional Sales Manager,2019-04-26,Lead,Nagpur,Contract
+1337,Bhavna Kapoor,10,Reporting Analyst,2023-08-26,Mid,Bengaluru,Full-Time
+1338,Yash Joshi,1,HR Business Partner,2024-05-08,Junior,Remote,Contract
+1339,Siddharth Bhosale,9,Insights Analyst,2018-11-04,Mid,Nagpur,Full-Time
+1340,Bhavna Mishra,6,Process Executive,2020-04-27,Mid,Pune,Contract
+1341,Harsh Rao,5,Systems Analyst,2025-12-08,Junior,Delhi NCR,Full-Time
+1342,Rahul Deshmukh,6,Quality Analyst,2019-12-02,Mid,Pune,Full-Time
+1343,Isha Sethi,10,Senior Data Analyst,2021-02-11,Lead,Pune,Full-Time
+1344,Aarav Yadav,10,Analytics Consultant,2020-05-10,Senior,Chennai,Full-Time
+1345,Harsh Thakur,1,HR Analyst,2025-11-29,Mid,Nagpur,Contract
+1346,Aarav Bajaj,4,Brand Analyst,2018-08-23,Senior,Hyderabad,Full-Time
+1347,Anushka Gokhale,2,Learning Program Manager,2018-03-06,Senior,Mumbai,Full-Time
+1348,Sneha Kapoor,10,Senior Data Analyst,2020-11-20,Lead,Hyderabad,Full-Time
+1349,Sneha Saxena,3,Finance Executive,2021-01-05,Mid,Bengaluru,Full-Time
+1350,Avni Mane,3,Finance Executive,2026-02-22,Junior,Mumbai,Full-Time
+1351,Chetan Joshi,3,Senior Financial Analyst,2020-01-28,Lead,Remote,Full-Time
+1352,Chetan Bajaj,7,Account Manager,2018-03-28,Senior,Hyderabad,Full-Time
+1353,Tanvi Khan,2,L&D Coordinator,2022-10-13,Mid,Bengaluru,Full-Time
+1354,Anjali Bajaj,6,Operations Analyst,2022-03-28,Mid,Pune,Full-Time
+1355,Sneha Kapoor,3,FP&A Analyst,2018-12-09,Senior,Pune,Full-Time
+1356,Ananya Joshi,6,Quality Analyst,2021-10-18,Senior,Remote,Contract
+1357,Pooja Singh,9,Research Coordinator,2019-10-31,Senior,Pune,Contract
+1358,Aditi Bajaj,7,Sales Executive,2025-01-14,Junior,Mumbai,Contract
+1359,Mohit Singh,4,Content Strategist,2023-09-27,Senior,Hyderabad,Full-Time
+1360,Tanvi Rao,3,Accounts Analyst,2022-04-28,Junior,Nagpur,Full-Time
+1361,Ishaan Verma,5,Software Engineer,2019-03-28,Mid,Chennai,Full-Time
+1362,Sameer Singh,5,Cybersecurity Analyst,2018-12-14,Lead,Bengaluru,Full-Time
+1363,Naina Singh,6,Quality Analyst,2024-09-22,Junior,Delhi NCR,Full-Time
+1364,Varun Verma,9,Senior Research Analyst,2021-01-15,Lead,Delhi NCR,Full-Time
+1365,Avni Shah,8,Support Analyst,2019-09-01,Senior,Nagpur,Full-Time
+1366,Anjali Mishra,7,Account Manager,2023-05-14,Senior,Delhi NCR,Full-Time
+1367,Kunal Verma,1,People Operations Specialist,2019-06-07,Mid,Remote,Full-Time
+1368,Sneha Shah,5,Systems Analyst,2022-08-23,Mid,Hyderabad,Full-Time
+1369,Pranav Chavan,5,Systems Analyst,2023-07-30,Mid,Nagpur,Full-Time
+1370,Anushka Naik,6,Process Executive,2022-09-24,Mid,Mumbai,Full-Time
+1371,Aditi Verma,5,Cybersecurity Analyst,2020-04-12,Lead,Remote,Full-Time
+1372,Komal Sethi,10,Senior Data Analyst,2018-09-02,Lead,Bengaluru,Full-Time
+1373,Mohit Deshmukh,5,IT Support Specialist,2024-03-08,Senior,Hyderabad,Full-Time
+1374,Zoya Singh,8,Customer Experience Analyst,2019-04-26,Lead,Nagpur,Full-Time
+1375,Yash Nair,7,Sales Executive,2022-10-06,Mid,Remote,Contract
+1376,Avni Mehta,9,Market Research Associate,2018-05-04,Mid,Mumbai,Full-Time
+1377,Chetan Pawar,6,Process Executive,2022-09-02,Junior,Delhi NCR,Full-Time
+1378,Tanvi Naik,5,Software Engineer,2021-10-13,Mid,Delhi NCR,Full-Time
+1379,Siddharth Kulkarni,2,L&D Specialist,2025-03-16,Junior,Pune,Full-Time
+1380,Nikhil Chavan,8,Support Analyst,2025-08-16,Mid,Delhi NCR,Full-Time
+1381,Ananya Bhosale,5,Cloud Engineer,2019-10-05,Senior,Bengaluru,Full-Time
+1382,Chetan Bajaj,5,Software Engineer,2018-08-18,Mid,Remote,Full-Time
+1383,Kunal Kulkarni,4,Marketing Analyst,2025-03-14,Junior,Chennai,Full-Time
+1384,Komal Kapoor,3,FP&A Analyst,2019-03-21,Mid,Pune,Full-Time
+1385,Dev Kapoor,4,Marketing Analyst,2024-01-28,Junior,Delhi NCR,Full-Time
+1386,Gaurav Gupta,6,Operations Analyst,2025-02-27,Mid,Pune,Contract
+1387,Kabir Mehta,10,Reporting Analyst,2023-06-05,Junior,Pune,Full-Time
+1388,Kabir Gokhale,8,Team Lead - Support,2022-06-19,Mid,Chennai,Full-Time
+1389,Rutuja Bhosale,7,Sales Analyst,2019-02-03,Senior,Bengaluru,Full-Time
+1390,Aditya Rao,6,Process Executive,2022-04-15,Mid,Bengaluru,Full-Time
+1391,Zoya Deshmukh,1,HR Analyst,2025-01-07,Junior,Bengaluru,Full-Time
+1392,Mihir Kapoor,10,Reporting Analyst,2023-08-17,Mid,Remote,Full-Time
+1393,Naina Patil,4,Brand Analyst,2022-01-15,Mid,Hyderabad,Full-Time
+1394,Avni Mishra,10,Analytics Consultant,2024-10-21,Junior,Mumbai,Full-Time
+1395,Ananya Pawar,2,Training Analyst,2021-06-21,Senior,Remote,Full-Time
+1396,Isha Mishra,2,Training Analyst,2021-04-25,Mid,Chennai,Full-Time
+1397,Harsh Pawar,1,People Operations Specialist,2025-12-20,Mid,Remote,Full-Time
+1398,Komal Sethi,10,Reporting Analyst,2024-05-18,Mid,Nagpur,Full-Time
+1399,Komal Bhosale,9,Research Coordinator,2025-08-19,Junior,Chennai,Full-Time
+1400,Vedant Patil,7,Sales Executive,2023-09-04,Mid,Hyderabad,Contract
+1401,Bhavna Mishra,1,HR Business Partner,2019-03-08,Senior,Mumbai,Full-Time
+1402,Kavya Jain,5,Cloud Engineer,2023-03-09,Mid,Remote,Full-Time
+1403,Meera Gokhale,1,HR Business Partner,2026-03-17,Junior,Hyderabad,Full-Time
+1404,Sameer Pawar,4,Digital Marketing Executive,2021-07-23,Mid,Remote,Full-Time
+1405,Pooja Singh,4,Marketing Manager,2018-06-06,Senior,Hyderabad,Full-Time
+1406,Akash Jadhav,6,Quality Analyst,2024-09-28,Mid,Nagpur,Full-Time
+1407,Siddharth More,3,Senior Financial Analyst,2020-05-16,Lead,Nagpur,Full-Time
+1408,Aman Gupta,3,Finance Executive,2019-12-23,Mid,Mumbai,Full-Time
+1409,Radhika Joshi,9,Senior Research Analyst,2023-01-24,Senior,Delhi NCR,Full-Time
+1410,Naina Shah,8,Customer Experience Analyst,2019-01-14,Lead,Delhi NCR,Full-Time
+1411,Rahul Naik,3,Accounts Analyst,2022-09-13,Mid,Nagpur,Full-Time
+1412,Aarav Chavan,10,BI Analyst,2024-05-25,Mid,Mumbai,Contract
+1413,Mihir Thakur,6,Quality Analyst,2021-08-19,Mid,Pune,Full-Time
+1414,Kabir Nair,9,Senior Research Analyst,2019-08-28,Senior,Nagpur,Full-Time
+1415,Arjun Yadav,6,Supply Chain Analyst,2018-01-16,Lead,Remote,Contract
+1416,Deepa Iyer,1,HR Coordinator,2020-06-14,Senior,Bengaluru,Contract
+1417,Deepa More,5,Software Engineer,2021-11-26,Mid,Chennai,Full-Time
+1418,Anjali Naik,1,HR Business Partner,2021-06-11,Senior,Remote,Full-Time
+1419,Naina Bhosale,5,Cloud Engineer,2021-12-13,Senior,Mumbai,Full-Time
+1420,Sameer Kulkarni,5,Cloud Engineer,2022-03-09,Mid,Nagpur,Full-Time
+1421,Sneha Rao,9,Research Analyst,2025-09-21,Junior,Mumbai,Full-Time
+1422,Mohit Nair,1,HR Business Partner,2018-03-09,Senior,Mumbai,Full-Time
+1423,Mohit Joshi,6,Quality Analyst,2018-05-14,Senior,Remote,Contract
+1424,Anjali Verma,5,Cybersecurity Analyst,2020-03-12,Lead,Remote,Full-Time
+1425,Rutuja Khan,9,Research Analyst,2025-03-26,Junior,Chennai,Full-Time
+1426,Harsh Rao,6,Supply Chain Analyst,2021-01-01,Lead,Nagpur,Full-Time
+1427,Aditi Singh,1,People Operations Specialist,2022-08-26,Junior,Chennai,Full-Time
+1428,Gaurav Chavan,2,Instructional Designer,2024-06-01,Senior,Hyderabad,Contract
+1429,Rohan Iyer,7,Regional Sales Manager,2018-07-31,Lead,Bengaluru,Full-Time
+1430,Kabir Bhosale,10,Reporting Analyst,2019-12-13,Senior,Nagpur,Full-Time
+1431,Sneha Mishra,1,HR Business Partner,2019-06-02,Senior,Delhi NCR,Contract
+1432,Ananya Sharma,2,Instructional Designer,2021-08-13,Mid,Pune,Contract
+1433,Ananya Mishra,2,Instructional Designer,2024-12-06,Junior,Pune,Full-Time
+1434,Kavya Kulkarni,10,BI Analyst,2025-02-11,Junior,Hyderabad,Full-Time
+1435,Kunal Gokhale,3,Finance Executive,2020-10-01,Senior,Pune,Full-Time
+1436,Sneha Mishra,1,People Operations Specialist,2019-08-12,Senior,Mumbai,Full-Time
+1437,Ishaan Gupta,10,BI Analyst,2019-05-18,Mid,Mumbai,Full-Time
+1438,Dev Khan,5,IT Support Specialist,2022-01-20,Senior,Remote,Full-Time
+1439,Aman Joshi,5,Cybersecurity Analyst,2023-06-16,Senior,Nagpur,Full-Time
+1440,Bhavna Kulkarni,9,Research Coordinator,2025-02-08,Mid,Pune,Full-Time
+1441,Aditya Nair,7,Sales Analyst,2025-01-29,Junior,Chennai,Full-Time
+1442,Bhavna Bhosale,10,Reporting Analyst,2024-09-23,Junior,Mumbai,Full-Time
+1443,Priya Gokhale,6,Process Executive,2024-01-05,Junior,Hyderabad,Full-Time
+1444,Arjun Deshmukh,2,L&D Coordinator,2020-06-07,Mid,Bengaluru,Full-Time
+1445,Kavya Naik,4,Marketing Manager,2020-03-27,Lead,Delhi NCR,Full-Time
+1446,Meera Jadhav,8,Customer Success Associate,2023-07-24,Mid,Delhi NCR,Full-Time
+1447,Meera Nair,3,FP&A Analyst,2026-01-17,Junior,Bengaluru,Full-Time
+1448,Neha Iyer,10,Reporting Analyst,2023-06-22,Mid,Chennai,Contract
+1449,Rohan Verma,2,Training Analyst,2022-04-18,Mid,Mumbai,Full-Time
+1450,Harsh Mishra,2,Learning Program Manager,2018-05-19,Lead,Nagpur,Full-Time
+1451,Radhika Verma,6,Operations Manager,2025-03-27,Mid,Pune,Full-Time
+1452,Chetan Verma,2,L&D Specialist,2021-08-14,Mid,Mumbai,Full-Time
+1453,Kabir Nair,7,Sales Executive,2022-03-04,Junior,Chennai,Full-Time
+1454,Kabir Mane,7,Sales Analyst,2020-05-25,Senior,Mumbai,Full-Time
+1455,Aniket Chavan,4,Brand Analyst,2020-05-19,Senior,Mumbai,Contract
+1456,Naina Shah,9,Research Coordinator,2022-09-24,Mid,Hyderabad,Full-Time
+1457,Isha Iyer,1,HR Executive,2023-07-17,Mid,Mumbai,Full-Time
+1458,Gaurav Mishra,2,L&D Coordinator,2021-08-31,Mid,Delhi NCR,Full-Time
+1459,Nikhil Rao,7,Sales Analyst,2024-06-16,Senior,Nagpur,Full-Time
+1460,Tanvi Sharma,9,Research Analyst,2023-12-01,Junior,Remote,Full-Time
+1461,Isha Shah,8,Support Analyst,2022-08-28,Mid,Nagpur,Full-Time
+1462,Akash Khan,6,Quality Analyst,2021-07-06,Mid,Remote,Full-Time
+1463,Shreya Nair,9,Senior Research Analyst,2019-05-13,Lead,Pune,Full-Time
+1464,Kabir Sethi,1,HR Business Partner,2018-02-12,Mid,Hyderabad,Full-Time
+1465,Komal Bajaj,1,HR Executive,2026-02-13,Mid,Pune,Full-Time
+1466,Janhavi Mehta,9,Research Coordinator,2018-06-26,Mid,Chennai,Contract
+1467,Bhavna Jadhav,8,Customer Success Associate,2022-04-04,Mid,Remote,Full-Time
+1468,Mohit Yadav,2,Instructional Designer,2019-08-30,Senior,Mumbai,Contract
+1469,Pranav Gupta,6,Quality Analyst,2024-06-25,Mid,Remote,Full-Time
+1470,Kavya Chavan,1,People Operations Specialist,2021-04-28,Senior,Hyderabad,Full-Time
+1471,Aarav More,1,HR Analyst,2023-07-19,Junior,Remote,Full-Time
+1472,Sakshi Gokhale,3,Senior Financial Analyst,2019-03-05,Senior,Chennai,Full-Time
+1473,Priya Nair,7,Business Development Executive,2025-05-08,Junior,Hyderabad,Full-Time
+1474,Priya Joshi,5,Cloud Engineer,2023-01-28,Senior,Hyderabad,Full-Time
+1475,Rohan Yadav,4,Content Strategist,2019-11-04,Senior,Bengaluru,Full-Time
+1476,Aditi Mane,9,Insights Analyst,2026-05-10,Junior,Bengaluru,Full-Time
+1477,Kavya Gupta,1,HR Executive,2025-06-04,Junior,Mumbai,Full-Time
+1478,Naina Bhosale,5,Cloud Engineer,2019-09-09,Senior,Pune,Full-Time
+1479,Kunal Thakur,4,Brand Analyst,2019-02-05,Mid,Hyderabad,Full-Time
+1480,Radhika Kapoor,3,Finance Executive,2019-12-25,Senior,Nagpur,Full-Time
+1481,Anjali Deshmukh,7,Sales Executive,2025-04-01,Junior,Pune,Full-Time
+1482,Aniket Gupta,6,Process Executive,2020-09-04,Mid,Nagpur,Full-Time
+1483,Yash Gupta,5,Cloud Engineer,2020-06-19,Senior,Hyderabad,Full-Time
+1484,Zoya Kapoor,8,Support Analyst,2021-11-24,Mid,Pune,Full-Time
+1485,Rutuja Rao,3,Accounts Analyst,2025-11-09,Junior,Bengaluru,Full-Time
+1486,Nikhil Singh,7,Sales Executive,2019-11-14,Mid,Remote,Full-Time
+1487,Aman Kulkarni,4,Marketing Manager,2019-12-29,Lead,Pune,Contract
+1488,Pranav Sethi,4,Digital Marketing Executive,2023-04-25,Mid,Remote,Full-Time
+1489,Ishaan Bajaj,1,People Operations Specialist,2018-03-13,Senior,Bengaluru,Full-Time
+1490,Rutuja Shah,8,Team Lead - Support,2019-02-14,Senior,Remote,Full-Time
+1491,Harsh Verma,10,Analytics Consultant,2020-11-20,Senior,Pune,Full-Time
+1492,Anushka More,4,Marketing Manager,2021-09-28,Senior,Remote,Full-Time
+1493,Aditi Singh,3,Finance Executive,2023-10-29,Mid,Hyderabad,Full-Time
+1494,Rutuja Naik,4,Brand Analyst,2018-05-07,Mid,Chennai,Full-Time
+1495,Kunal Yadav,8,Customer Experience Analyst,2020-03-04,Lead,Mumbai,Full-Time
+1496,Neha Mane,9,Market Research Associate,2025-08-12,Junior,Delhi NCR,Full-Time
+1497,Isha Rao,9,Market Research Associate,2022-05-21,Mid,Pune,Contract
+1498,Anjali Iyer,6,Operations Manager,2021-11-07,Senior,Chennai,Full-Time
+1499,Vedant Singh,2,Instructional Designer,2018-02-04,Senior,Bengaluru,Contract
+1500,Bhavna Rao,10,Analytics Consultant,2024-12-30,Junior,Delhi NCR,Full-Time
+1501,Dev Rao,8,Customer Experience Analyst,2018-03-05,Senior,Mumbai,Full-Time
+1502,Varun Bajaj,5,IT Support Specialist,2018-01-21,Senior,Pune,Full-Time
+1503,Priya More,2,Learning Program Manager,2021-03-06,Senior,Bengaluru,Full-Time
+1504,Deepa Iyer,7,Regional Sales Manager,2019-08-08,Lead,Mumbai,Full-Time
+1505,Gaurav Saxena,3,Senior Financial Analyst,2023-04-23,Senior,Nagpur,Full-Time
+1506,Janhavi Kapoor,5,Cybersecurity Analyst,2019-02-06,Lead,Delhi NCR,Full-Time
+1507,Sakshi Singh,6,Process Executive,2025-08-12,Mid,Delhi NCR,Full-Time
+1508,Ananya Rao,5,Cybersecurity Analyst,2020-03-28,Senior,Remote,Contract
+1509,Radhika Jain,3,FP&A Analyst,2022-11-25,Junior,Chennai,Full-Time
+1510,Mohit Jain,4,Marketing Analyst,2023-03-26,Mid,Pune,Full-Time
+1511,Janhavi Saxena,1,People Operations Specialist,2019-07-30,Senior,Chennai,Full-Time
+1512,Akash Gokhale,7,Account Manager,2024-05-05,Senior,Bengaluru,Full-Time
+1513,Radhika Jain,7,Sales Analyst,2023-03-11,Senior,Mumbai,Full-Time
+1514,Sameer Nair,4,Content Strategist,2025-04-15,Junior,Remote,Full-Time
+1515,Vedant Bhosale,9,Senior Research Analyst,2019-05-13,Senior,Pune,Full-Time
+1516,Pranav Singh,6,Process Executive,2024-04-21,Mid,Bengaluru,Full-Time
+1517,Aarav Saxena,7,Account Manager,2026-01-24,Mid,Hyderabad,Full-Time
+1518,Anjali Bhosale,1,People Operations Specialist,2019-09-19,Senior,Hyderabad,Full-Time
+1519,Neha Khan,2,Learning Program Manager,2018-04-11,Lead,Pune,Full-Time
+1520,Gaurav Bajaj,4,Marketing Manager,2023-06-05,Senior,Delhi NCR,Contract
+1521,Naina Singh,7,Sales Executive,2025-05-19,Junior,Bengaluru,Full-Time
+1522,Priya Thakur,8,Customer Success Associate,2025-05-16,Junior,Remote,Full-Time
+1523,Sakshi Pawar,4,Content Strategist,2025-06-27,Junior,Delhi NCR,Full-Time
+1524,Naina Singh,5,IT Support Specialist,2019-03-16,Senior,Delhi NCR,Full-Time
+1525,Janhavi Patil,2,Instructional Designer,2022-05-15,Junior,Pune,Full-Time
+1526,Nikhil Gupta,10,Reporting Analyst,2023-04-01,Senior,Bengaluru,Full-Time
+1527,Zoya Bhosale,6,Operations Manager,2023-08-24,Mid,Mumbai,Full-Time
+1528,Rohan Shah,7,Account Manager,2021-12-12,Mid,Bengaluru,Full-Time
+1529,Meera Mehta,8,Team Lead - Support,2025-05-20,Junior,Nagpur,Full-Time
+1530,Priya Gokhale,6,Supply Chain Analyst,2020-01-09,Senior,Delhi NCR,Full-Time
+1531,Kavya Mishra,7,Account Manager,2024-08-08,Mid,Mumbai,Full-Time
+1532,Aniket More,1,HR Executive,2026-03-21,Junior,Remote,Full-Time
+1533,Mihir Saxena,4,Marketing Manager,2020-08-06,Lead,Hyderabad,Full-Time
+1534,Kunal Gokhale,9,Insights Analyst,2019-12-14,Senior,Mumbai,Full-Time
+1535,Rutuja Mehta,6,Operations Manager,2019-04-14,Mid,Chennai,Contract
+1536,Kabir Nair,7,Regional Sales Manager,2018-05-01,Lead,Remote,Full-Time
+1537,Deepa Joshi,2,Training Analyst,2025-02-23,Junior,Remote,Full-Time
+1538,Bhavna Iyer,7,Business Development Executive,2020-07-12,Mid,Mumbai,Contract
+1539,Aditya Saxena,1,HR Analyst,2025-07-01,Junior,Pune,Full-Time
+1540,Aman Shah,8,Customer Success Associate,2024-05-16,Mid,Remote,Full-Time
+1541,Priya Verma,8,Team Lead - Support,2024-05-25,Senior,Bengaluru,Full-Time
+1542,Aman Mishra,5,Software Engineer,2025-01-05,Junior,Bengaluru,Contract
+1543,Akash Kapoor,4,Marketing Manager,2019-04-29,Senior,Chennai,Full-Time
+1544,Harsh Khan,3,Senior Financial Analyst,2021-04-02,Lead,Chennai,Full-Time
+1545,Aman Chavan,9,Senior Research Analyst,2019-10-09,Lead,Hyderabad,Contract
+1546,Shreya Patil,10,Data Analyst,2023-08-11,Mid,Remote,Full-Time
+1547,Harsh Joshi,7,Account Manager,2018-05-13,Senior,Pune,Full-Time
+1548,Siddharth More,3,Financial Analyst,2026-03-25,Junior,Hyderabad,Full-Time
+1549,Yash Bajaj,1,People Operations Specialist,2024-04-28,Senior,Chennai,Full-Time
+1550,Ananya Mane,10,Analytics Consultant,2024-09-16,Junior,Bengaluru,Full-Time
+1551,Priya Deshmukh,7,Sales Analyst,2019-03-03,Mid,Nagpur,Full-Time
+1552,Akash Sharma,4,Digital Marketing Executive,2020-07-21,Mid,Nagpur,Full-Time
+1553,Kunal Naik,6,Quality Analyst,2018-08-02,Senior,Nagpur,Full-Time
+1554,Shreya Mane,6,Operations Manager,2019-04-19,Senior,Chennai,Full-Time
+1555,Ananya Mishra,4,Marketing Analyst,2018-08-26,Mid,Hyderabad,Full-Time
+1556,Aarav Sethi,8,Customer Success Associate,2024-01-06,Mid,Pune,Full-Time
+1557,Aditya Shah,1,People Operations Specialist,2022-12-02,Mid,Hyderabad,Full-Time
+1558,Anjali More,2,L&D Coordinator,2022-06-18,Mid,Mumbai,Full-Time
+1559,Rutuja Bajaj,10,Analytics Consultant,2020-04-23,Senior,Hyderabad,Full-Time
+1560,Ishaan Sethi,7,Business Development Executive,2022-02-11,Mid,Delhi NCR,Full-Time
+1561,Kavya Mane,7,Account Manager,2023-08-25,Junior,Remote,Full-Time
+1562,Radhika Deshmukh,1,HR Coordinator,2019-07-16,Lead,Delhi NCR,Contract
+1563,Avni Patil,3,Accounts Analyst,2022-03-06,Mid,Remote,Full-Time
+1564,Aditya Gupta,10,Analytics Consultant,2018-03-29,Senior,Nagpur,Full-Time
+1565,Shreya Khan,8,Team Lead - Support,2018-12-13,Mid,Pune,Full-Time
+1566,Kunal Kulkarni,5,Cloud Engineer,2018-07-01,Mid,Pune,Full-Time
+1567,Sameer Gokhale,1,HR Business Partner,2021-11-25,Senior,Delhi NCR,Contract
+1568,Shreya Iyer,3,Finance Executive,2018-04-23,Senior,Pune,Full-Time
+1569,Ishaan Sethi,6,Operations Manager,2026-02-02,Mid,Nagpur,Contract
+1570,Kunal Jain,7,Business Development Executive,2023-10-27,Mid,Bengaluru,Full-Time
+1571,Ananya Deshmukh,4,Content Strategist,2025-08-27,Mid,Chennai,Contract
+1572,Isha More,5,IT Support Specialist,2024-11-26,Junior,Pune,Full-Time
+1573,Harsh Sethi,4,Digital Marketing Executive,2025-05-30,Junior,Remote,Full-Time
+1574,Kavya Pawar,1,HR Coordinator,2018-02-06,Senior,Hyderabad,Full-Time
+1575,Shreya Chavan,1,HR Business Partner,2018-11-22,Senior,Mumbai,Full-Time
+1576,Pranav Singh,2,Training Analyst,2021-02-05,Senior,Bengaluru,Full-Time
+1577,Anjali Yadav,9,Research Analyst,2025-05-10,Junior,Bengaluru,Contract
+1578,Riya Naik,9,Market Research Associate,2024-07-03,Junior,Pune,Full-Time
+1579,Kavya Chavan,10,Senior Data Analyst,2018-03-08,Senior,Pune,Contract
+1580,Neha Nair,3,Financial Analyst,2019-03-24,Mid,Hyderabad,Full-Time
+1581,Vedant Iyer,4,Content Strategist,2022-03-02,Senior,Nagpur,Full-Time
+1582,Komal Shah,2,Instructional Designer,2021-08-30,Mid,Chennai,Full-Time
+1583,Bhavna Verma,10,Reporting Analyst,2021-04-19,Senior,Delhi NCR,Full-Time
+1584,Dev Saxena,10,Reporting Analyst,2018-04-15,Mid,Chennai,Full-Time
+1585,Mihir Singh,5,Cloud Engineer,2024-07-14,Junior,Mumbai,Full-Time
+1586,Rohan Yadav,10,Senior Data Analyst,2020-07-08,Senior,Nagpur,Contract
+1587,Sameer Pawar,7,Account Manager,2023-12-02,Mid,Chennai,Full-Time
+1588,Gaurav Shah,3,Accounts Analyst,2024-06-14,Mid,Chennai,Full-Time
+1589,Yash Deshmukh,5,Cloud Engineer,2026-05-23,Mid,Nagpur,Full-Time
+1590,Komal Yadav,1,HR Business Partner,2024-04-14,Mid,Hyderabad,Full-Time
+1591,Arjun Jadhav,8,Customer Experience Analyst,2020-07-30,Senior,Hyderabad,Full-Time
+1592,Harsh Saxena,7,Sales Analyst,2025-06-20,Junior,Chennai,Full-Time
+1593,Avni Mishra,2,Instructional Designer,2022-08-01,Mid,Hyderabad,Full-Time
+1594,Mohit Gupta,9,Insights Analyst,2018-03-05,Mid,Mumbai,Full-Time
+1595,Bhavna Mehta,9,Market Research Associate,2022-11-03,Junior,Nagpur,Full-Time
+1596,Gaurav Naik,4,Content Strategist,2022-07-06,Mid,Mumbai,Full-Time
+1597,Shreya Nair,9,Research Analyst,2021-10-10,Mid,Mumbai,Full-Time
+1598,Rutuja Bajaj,10,Analytics Consultant,2022-08-02,Mid,Delhi NCR,Full-Time
+1599,Anushka Mishra,7,Sales Executive,2026-03-24,Junior,Bengaluru,Full-Time
+1600,Nikhil Khan,6,Quality Analyst,2022-02-24,Mid,Remote,Full-Time
+1601,Anushka Nair,6,Process Executive,2024-08-05,Junior,Delhi NCR,Full-Time
+1602,Radhika Mishra,4,Brand Analyst,2024-04-29,Mid,Delhi NCR,Full-Time
+1603,Avni Patil,5,Systems Analyst,2026-06-29,Junior,Nagpur,Contract
+1604,Kavya Rao,4,Digital Marketing Executive,2024-11-25,Junior,Mumbai,Full-Time
+1605,Bhavna Rao,4,Content Strategist,2022-12-03,Mid,Mumbai,Full-Time
+1606,Riya Bajaj,7,Business Development Executive,2019-08-01,Mid,Pune,Contract
+1607,Deepa Sharma,9,Insights Analyst,2024-01-21,Mid,Pune,Full-Time
+1608,Neha Bhosale,3,Accounts Analyst,2024-05-28,Mid,Remote,Full-Time
+1609,Anjali Jain,10,Analytics Consultant,2026-01-12,Junior,Remote,Full-Time
+1610,Mihir More,1,HR Coordinator,2019-07-15,Lead,Mumbai,Full-Time
+1611,Mihir Mehta,8,Support Analyst,2026-05-07,Mid,Bengaluru,Contract
+1612,Priya More,4,Marketing Analyst,2023-02-01,Mid,Chennai,Full-Time
+1613,Kabir Joshi,5,Software Engineer,2025-11-28,Mid,Pune,Full-Time
+1614,Diya More,2,Training Analyst,2022-03-21,Senior,Delhi NCR,Full-Time
+1615,Ishaan Singh,2,Training Analyst,2020-02-06,Senior,Mumbai,Contract
+1616,Naina Mehta,9,Insights Analyst,2026-05-28,Junior,Hyderabad,Full-Time
+1617,Kunal Yadav,1,HR Analyst,2025-09-18,Junior,Chennai,Full-Time
+1618,Diya Mane,6,Supply Chain Analyst,2020-01-08,Lead,Delhi NCR,Full-Time
+1619,Kavya Chavan,5,Cloud Engineer,2025-01-24,Junior,Delhi NCR,Full-Time
+1620,Mohit Jain,3,FP&A Analyst,2026-06-20,Mid,Hyderabad,Full-Time
+1621,Varun Nair,2,Instructional Designer,2023-03-19,Senior,Nagpur,Full-Time
+1622,Pranav Kapoor,8,Team Lead - Support,2023-06-05,Senior,Hyderabad,Full-Time
+1623,Mohit Patil,4,Content Strategist,2023-09-10,Mid,Delhi NCR,Full-Time
+1624,Harsh Jadhav,5,Software Engineer,2022-12-16,Mid,Delhi NCR,Full-Time
+1625,Aditya Rao,7,Account Manager,2021-10-23,Mid,Nagpur,Full-Time
+1626,Anushka Yadav,6,Quality Analyst,2019-11-14,Senior,Chennai,Full-Time
+1627,Aditi Saxena,6,Supply Chain Analyst,2018-03-23,Lead,Nagpur,Full-Time
+1628,Anushka Gokhale,8,Customer Experience Analyst,2021-09-27,Senior,Mumbai,Full-Time
+1629,Bhavna Bajaj,6,Operations Manager,2022-01-23,Mid,Hyderabad,Full-Time
+1630,Dev Chavan,8,Customer Success Associate,2022-03-12,Mid,Pune,Full-Time
+1631,Aniket Bhosale,9,Insights Analyst,2026-06-20,Mid,Remote,Full-Time
+1632,Sneha Gokhale,2,L&D Specialist,2021-05-19,Mid,Pune,Full-Time
+1633,Arjun Bajaj,8,Support Analyst,2022-03-28,Mid,Mumbai,Full-Time
+1634,Mihir Iyer,1,HR Executive,2026-02-05,Junior,Pune,Contract
+1635,Sakshi Saxena,6,Operations Manager,2019-09-14,Mid,Hyderabad,Contract
+1636,Rutuja Sharma,9,Research Coordinator,2021-08-18,Mid,Delhi NCR,Full-Time
+1637,Rohan Pawar,3,Senior Financial Analyst,2020-12-18,Lead,Nagpur,Full-Time
+1638,Riya Gupta,5,Cybersecurity Analyst,2020-06-29,Lead,Remote,Full-Time
+1639,Kunal Sharma,9,Insights Analyst,2023-12-25,Mid,Nagpur,Full-Time
+1640,Diya Mishra,8,Customer Support Executive,2026-01-05,Junior,Nagpur,Full-Time
+1641,Tanvi Rao,5,IT Support Specialist,2023-05-07,Mid,Bengaluru,Full-Time
+1642,Pranav Mishra,1,HR Analyst,2019-11-25,Mid,Mumbai,Full-Time
+1643,Rohan Gokhale,5,Systems Analyst,2023-04-24,Mid,Pune,Full-Time
+1644,Avni Patil,3,Finance Executive,2021-06-29,Senior,Nagpur,Full-Time
+1645,Pranav Chavan,3,Finance Executive,2020-05-06,Senior,Chennai,Full-Time
+1646,Riya Sethi,4,Marketing Analyst,2025-12-13,Junior,Mumbai,Full-Time
+1647,Aarav Kulkarni,7,Sales Executive,2022-03-19,Junior,Bengaluru,Full-Time
+1648,Naina Pawar,5,Systems Analyst,2019-04-11,Mid,Remote,Full-Time
+1649,Aarav Rao,8,Customer Support Executive,2024-02-19,Mid,Nagpur,Full-Time
+1650,Kabir Kapoor,7,Sales Analyst,2025-08-03,Junior,Bengaluru,Full-Time
+1651,Shreya Naik,4,Content Strategist,2025-09-06,Junior,Delhi NCR,Full-Time
+1652,Mihir Sethi,5,IT Support Specialist,2021-09-14,Senior,Bengaluru,Contract
+1653,Mohit Kulkarni,7,Business Development Executive,2023-04-25,Junior,Remote,Full-Time
+1654,Deepa Joshi,10,Senior Data Analyst,2018-01-23,Senior,Mumbai,Contract
+1655,Nikhil Kapoor,5,Systems Analyst,2019-01-23,Mid,Mumbai,Full-Time
+1656,Aarav Jadhav,7,Sales Analyst,2020-07-14,Senior,Delhi NCR,Full-Time
+1657,Janhavi Verma,8,Team Lead - Support,2022-10-12,Mid,Delhi NCR,Contract
+1658,Sakshi Singh,6,Operations Analyst,2025-05-24,Junior,Hyderabad,Full-Time
+1659,Radhika Mishra,2,Instructional Designer,2024-04-27,Junior,Chennai,Contract
+1660,Rutuja Sethi,8,Team Lead - Support,2024-08-22,Junior,Hyderabad,Full-Time
+1661,Ananya Jadhav,1,HR Coordinator,2020-08-07,Lead,Bengaluru,Full-Time
+1662,Akash Singh,2,Learning Program Manager,2018-01-02,Senior,Remote,Full-Time
+1663,Siddharth Nair,7,Business Development Executive,2021-09-01,Mid,Nagpur,Full-Time
+1664,Janhavi Bajaj,8,Support Analyst,2025-12-02,Junior,Mumbai,Contract
+1665,Isha Naik,9,Senior Research Analyst,2019-11-12,Lead,Bengaluru,Full-Time
+1666,Harsh More,6,Operations Analyst,2023-07-01,Mid,Nagpur,Full-Time
+1667,Anushka More,2,Instructional Designer,2022-02-06,Senior,Nagpur,Full-Time
+1668,Chetan Jadhav,6,Supply Chain Analyst,2020-02-22,Senior,Pune,Full-Time
+1669,Sakshi Rao,5,IT Support Specialist,2023-11-25,Mid,Mumbai,Full-Time
+1670,Sameer Gupta,10,Reporting Analyst,2023-08-22,Senior,Delhi NCR,Full-Time
+1671,Isha Yadav,5,Software Engineer,2025-10-19,Junior,Pune,Full-Time
+1672,Chetan Pawar,10,Data Analyst,2025-02-02,Junior,Pune,Full-Time
+1673,Rutuja Kulkarni,1,HR Analyst,2025-12-31,Junior,Mumbai,Full-Time
+1674,Sneha Naik,8,Customer Support Executive,2019-05-05,Mid,Chennai,Full-Time
+1675,Deepa Yadav,9,Senior Research Analyst,2021-02-10,Lead,Pune,Full-Time
+1676,Bhavna Mane,8,Customer Experience Analyst,2021-07-20,Senior,Chennai,Contract
+1677,Varun More,1,HR Executive,2025-06-14,Junior,Mumbai,Full-Time
+1678,Isha Mehta,8,Customer Success Associate,2023-08-17,Junior,Remote,Full-Time
+1679,Mohit Kulkarni,4,Marketing Manager,2020-03-24,Senior,Pune,Full-Time
+1680,Nikhil Mishra,4,Marketing Analyst,2021-12-07,Junior,Remote,Full-Time
+1681,Ananya Kulkarni,2,Training Analyst,2019-01-06,Mid,Pune,Full-Time
+1682,Nikhil Mehta,8,Customer Experience Analyst,2020-06-09,Senior,Hyderabad,Full-Time
+1683,Deepa Thakur,8,Customer Success Associate,2025-03-15,Mid,Delhi NCR,Full-Time
+1684,Arjun Mishra,5,IT Support Specialist,2021-03-21,Mid,Nagpur,Full-Time
+1685,Chetan Rao,8,Customer Experience Analyst,2021-01-22,Lead,Delhi NCR,Full-Time
+1686,Komal Verma,3,Finance Executive,2023-06-30,Mid,Bengaluru,Full-Time
+1687,Rahul Mishra,10,BI Analyst,2024-07-25,Junior,Nagpur,Full-Time
+1688,Dev Shah,7,Sales Analyst,2025-08-25,Mid,Mumbai,Contract
+1689,Harsh Patil,8,Customer Support Executive,2020-11-23,Mid,Bengaluru,Full-Time
+1690,Rohan Khan,2,L&D Coordinator,2024-07-31,Junior,Chennai,Full-Time
+1691,Pooja Shah,7,Sales Analyst,2018-02-02,Mid,Mumbai,Full-Time
+1692,Rahul Kulkarni,10,Data Analyst,2021-06-08,Mid,Remote,Contract
+1693,Mihir Khan,5,Cloud Engineer,2024-06-17,Mid,Hyderabad,Full-Time
+1694,Vedant Khan,7,Sales Analyst,2024-09-27,Junior,Pune,Full-Time
+1695,Naina Gokhale,8,Support Analyst,2023-09-08,Junior,Nagpur,Contract
+1696,Janhavi Mane,1,HR Analyst,2023-09-29,Mid,Bengaluru,Full-Time
+1697,Janhavi Saxena,7,Regional Sales Manager,2018-08-09,Lead,Bengaluru,Full-Time
+1698,Varun Singh,5,IT Support Specialist,2019-11-09,Senior,Bengaluru,Full-Time
+1699,Dev Iyer,4,Marketing Analyst,2020-01-27,Mid,Hyderabad,Full-Time
+1700,Bhavna Verma,7,Sales Executive,2022-03-13,Junior,Remote,Contract
+1701,Pooja More,7,Account Manager,2025-11-02,Junior,Remote,Full-Time
+1702,Kabir Gokhale,8,Support Analyst,2019-01-28,Senior,Nagpur,Full-Time
+1703,Naina Kapoor,9,Insights Analyst,2025-07-26,Junior,Mumbai,Full-Time
+1704,Aditi Deshmukh,5,Systems Analyst,2026-04-21,Mid,Hyderabad,Full-Time
+1705,Shreya Kapoor,5,Cloud Engineer,2023-08-16,Senior,Mumbai,Full-Time
+1706,Janhavi Iyer,2,L&D Coordinator,2020-02-09,Mid,Chennai,Full-Time
+1707,Janhavi Khan,7,Account Manager,2022-10-10,Mid,Pune,Full-Time
+1708,Meera More,10,Data Analyst,2022-09-24,Mid,Remote,Full-Time
+1709,Meera Saxena,4,Marketing Analyst,2026-03-21,Junior,Bengaluru,Full-Time
+1710,Nikhil Sharma,2,Instructional Designer,2023-09-08,Mid,Nagpur,Full-Time
+1711,Rutuja Yadav,8,Support Analyst,2021-05-25,Senior,Remote,Contract
+1712,Rahul Verma,5,Software Engineer,2023-04-24,Mid,Bengaluru,Full-Time
+1713,Ananya Singh,6,Quality Analyst,2022-04-20,Senior,Chennai,Contract
+1714,Mihir Sethi,3,Finance Executive,2023-10-11,Senior,Nagpur,Full-Time
+1715,Pranav Jain,5,IT Support Specialist,2018-06-13,Mid,Pune,Contract
+1716,Vedant Rao,7,Sales Analyst,2020-10-30,Senior,Delhi NCR,Full-Time
+1717,Kabir Rao,4,Marketing Analyst,2022-09-05,Junior,Mumbai,Full-Time
+1718,Gaurav Kulkarni,7,Sales Executive,2023-12-17,Mid,Mumbai,Full-Time
+1719,Isha Verma,7,Account Manager,2025-02-05,Junior,Hyderabad,Contract
+1720,Komal Patil,6,Process Executive,2018-06-16,Mid,Mumbai,Full-Time
+1721,Sneha Thakur,6,Quality Analyst,2026-02-19,Junior,Nagpur,Full-Time
+1722,Tanvi Thakur,1,HR Executive,2026-05-17,Junior,Nagpur,Full-Time
+1723,Janhavi Kapoor,8,Customer Success Associate,2024-05-27,Mid,Pune,Full-Time
+1724,Naina Gupta,6,Supply Chain Analyst,2020-05-31,Senior,Bengaluru,Full-Time
+1725,Chetan More,6,Operations Manager,2018-07-07,Senior,Delhi NCR,Full-Time
+1726,Varun Singh,5,Cloud Engineer,2018-03-18,Senior,Delhi NCR,Full-Time
+1727,Diya Deshmukh,6,Operations Analyst,2025-02-13,Junior,Chennai,Full-Time
+1728,Sameer Bajaj,1,HR Business Partner,2021-03-24,Senior,Nagpur,Contract
+1729,Riya Sharma,4,Content Strategist,2022-05-13,Mid,Chennai,Full-Time
+1730,Rutuja Pawar,4,Digital Marketing Executive,2022-12-26,Mid,Bengaluru,Full-Time
+1731,Rohan Mehta,3,Senior Financial Analyst,2018-05-13,Senior,Remote,Contract
+1732,Radhika Verma,10,Reporting Analyst,2018-12-07,Mid,Delhi NCR,Full-Time
+1733,Shreya Mishra,5,Systems Analyst,2023-03-30,Junior,Chennai,Contract
+1734,Ishaan Chavan,5,Cybersecurity Analyst,2018-04-06,Senior,Remote,Full-Time
+1735,Sameer Sethi,5,Software Engineer,2024-01-11,Junior,Mumbai,Full-Time
+1736,Chetan Sethi,3,FP&A Analyst,2019-03-30,Senior,Nagpur,Contract
+1737,Sameer Gupta,5,IT Support Specialist,2026-06-05,Junior,Chennai,Full-Time
+1738,Siddharth Yadav,7,Sales Analyst,2025-09-14,Mid,Nagpur,Full-Time
+1739,Ishaan Bajaj,9,Insights Analyst,2023-07-20,Mid,Bengaluru,Full-Time
+1740,Karan Gokhale,5,Cloud Engineer,2018-01-14,Senior,Bengaluru,Full-Time
+1741,Mohit Iyer,5,Systems Analyst,2025-04-29,Junior,Pune,Contract
+1742,Ananya Kapoor,3,Finance Executive,2024-11-02,Junior,Pune,Full-Time
+1743,Pooja More,6,Quality Analyst,2019-11-13,Senior,Chennai,Full-Time
+1744,Priya Sethi,8,Customer Success Associate,2025-05-03,Junior,Bengaluru,Full-Time
+1745,Zoya Jadhav,5,Systems Analyst,2020-09-07,Mid,Chennai,Full-Time
+1746,Nikhil Jain,4,Digital Marketing Executive,2018-05-07,Mid,Remote,Full-Time
+1747,Anjali Saxena,8,Support Analyst,2023-03-05,Mid,Bengaluru,Full-Time
+1748,Aditya More,5,Cloud Engineer,2018-10-14,Mid,Remote,Full-Time
+1749,Zoya Chavan,1,People Operations Specialist,2022-09-05,Senior,Pune,Full-Time
+1750,Meera Bajaj,5,Software Engineer,2026-02-21,Junior,Chennai,Full-Time
+1751,Neha Iyer,7,Sales Executive,2023-09-27,Mid,Mumbai,Full-Time
+1752,Anjali Thakur,9,Market Research Associate,2024-07-02,Mid,Chennai,Full-Time
+1753,Pooja Joshi,7,Regional Sales Manager,2019-08-05,Lead,Delhi NCR,Full-Time
+1754,Zoya Pawar,4,Digital Marketing Executive,2025-10-12,Junior,Delhi NCR,Full-Time
+1755,Neha Naik,4,Content Strategist,2022-12-27,Mid,Delhi NCR,Contract
+1756,Ishaan Sharma,1,HR Analyst,2019-07-28,Mid,Chennai,Contract
+1757,Zoya Kulkarni,5,Cybersecurity Analyst,2021-04-07,Senior,Delhi NCR,Full-Time
+1758,Rutuja Saxena,7,Business Development Executive,2025-07-20,Junior,Bengaluru,Contract
+1759,Diya Sharma,4,Digital Marketing Executive,2022-04-23,Mid,Delhi NCR,Full-Time
+1760,Priya Thakur,6,Supply Chain Analyst,2020-11-28,Senior,Nagpur,Full-Time
+1761,Tanvi Singh,6,Supply Chain Analyst,2019-11-29,Lead,Chennai,Contract
+1762,Radhika Pawar,5,Systems Analyst,2023-06-11,Mid,Remote,Full-Time
+1763,Janhavi Joshi,1,People Operations Specialist,2018-09-23,Senior,Bengaluru,Full-Time
+1764,Tanvi Joshi,6,Quality Analyst,2026-03-05,Mid,Remote,Full-Time
+1765,Rutuja Sethi,6,Process Executive,2025-02-28,Mid,Hyderabad,Full-Time
+1766,Karan Bhosale,7,Sales Executive,2022-06-21,Mid,Delhi NCR,Contract
+1767,Ananya Saxena,10,Data Analyst,2026-04-25,Junior,Remote,Contract
+1768,Rutuja Kulkarni,6,Supply Chain Analyst,2020-09-29,Senior,Hyderabad,Full-Time
+1769,Sameer Gupta,7,Sales Analyst,2023-02-12,Mid,Mumbai,Full-Time
+1770,Arjun Bhosale,7,Regional Sales Manager,2018-09-18,Lead,Delhi NCR,Full-Time
+1771,Sakshi Pawar,3,Finance Executive,2020-09-26,Senior,Mumbai,Contract
+1772,Sneha Mehta,9,Research Coordinator,2018-07-29,Senior,Remote,Full-Time
+1773,Rahul Mishra,5,Systems Analyst,2023-05-04,Mid,Remote,Full-Time
+1774,Anjali Thakur,6,Operations Manager,2024-07-10,Junior,Hyderabad,Contract
+1775,Aarav Gupta,8,Team Lead - Support,2024-11-21,Mid,Delhi NCR,Full-Time
+1776,Priya Rao,7,Sales Analyst,2021-09-08,Mid,Delhi NCR,Contract
+1777,Priya Rao,3,Senior Financial Analyst,2021-02-01,Senior,Remote,Full-Time
+1778,Kabir Mane,10,Senior Data Analyst,2020-01-17,Senior,Remote,Full-Time
+1779,Vedant Rao,2,Training Analyst,2018-09-26,Senior,Remote,Full-Time
+1780,Deepa Gokhale,7,Sales Analyst,2024-01-16,Senior,Hyderabad,Full-Time
+1781,Radhika Pawar,4,Content Strategist,2021-06-04,Senior,Delhi NCR,Contract
+1782,Bhavna Joshi,3,Finance Executive,2025-07-15,Junior,Bengaluru,Full-Time
+1783,Radhika Pawar,6,Supply Chain Analyst,2019-10-06,Senior,Nagpur,Full-Time
+1784,Janhavi Verma,3,FP&A Analyst,2020-12-12,Senior,Delhi NCR,Full-Time
+1785,Janhavi Iyer,7,Account Manager,2026-05-11,Junior,Nagpur,Full-Time
+1786,Mohit Verma,8,Customer Success Associate,2022-07-14,Junior,Remote,Full-Time
+1787,Varun Naik,1,People Operations Specialist,2025-11-24,Junior,Delhi NCR,Full-Time
+1788,Kabir Chavan,1,HR Analyst,2022-10-18,Mid,Hyderabad,Contract
+1789,Gaurav Kulkarni,6,Quality Analyst,2021-01-27,Mid,Remote,Contract
+1790,Kunal Naik,5,Cybersecurity Analyst,2018-07-08,Senior,Remote,Full-Time
+1791,Akash Nair,4,Marketing Analyst,2024-10-21,Junior,Chennai,Full-Time
+1792,Anjali Pawar,6,Quality Analyst,2022-11-30,Senior,Mumbai,Full-Time
+1793,Avni Sethi,10,BI Analyst,2026-03-20,Junior,Delhi NCR,Contract
+1794,Kabir Mishra,3,Senior Financial Analyst,2018-12-27,Senior,Delhi NCR,Contract
+1795,Arjun Gokhale,6,Quality Analyst,2021-04-08,Senior,Chennai,Full-Time
+1796,Dev Kulkarni,9,Research Coordinator,2023-01-01,Mid,Remote,Full-Time
+1797,Zoya Gupta,5,IT Support Specialist,2021-09-26,Mid,Pune,Full-Time
+1798,Pranav Saxena,2,L&D Coordinator,2022-08-10,Mid,Pune,Contract
+1799,Aditya Bhosale,5,IT Support Specialist,2024-05-06,Mid,Remote,Full-Time
+1800,Aman Mishra,6,Operations Analyst,2025-02-11,Junior,Mumbai,Contract
+1801,Ananya Mishra,2,Instructional Designer,2023-10-05,Senior,Hyderabad,Full-Time
+1802,Nikhil Jain,8,Customer Experience Analyst,2022-11-01,Senior,Bengaluru,Full-Time
+1803,Nikhil Bhosale,1,HR Business Partner,2025-04-07,Junior,Pune,Full-Time
+1804,Kunal Sharma,6,Quality Analyst,2018-01-27,Senior,Hyderabad,Full-Time
+1805,Sakshi More,5,Cybersecurity Analyst,2020-11-26,Lead,Chennai,Contract
+1806,Rohan Jadhav,5,IT Support Specialist,2025-06-18,Junior,Bengaluru,Full-Time
+1807,Aniket Sharma,8,Customer Experience Analyst,2020-04-24,Senior,Pune,Full-Time
+1808,Kabir Jadhav,6,Quality Analyst,2018-10-11,Senior,Hyderabad,Full-Time
+1809,Diya Jadhav,4,Content Strategist,2022-10-04,Senior,Chennai,Full-Time
+1810,Kunal Sharma,2,Instructional Designer,2022-12-06,Junior,Hyderabad,Full-Time
+1811,Dev Gokhale,1,HR Business Partner,2022-12-02,Mid,Mumbai,Full-Time
+1812,Mihir Bhosale,10,Reporting Analyst,2023-09-07,Senior,Bengaluru,Full-Time
+1813,Kavya Thakur,2,Training Analyst,2023-06-27,Mid,Nagpur,Full-Time
+1814,Komal Pawar,3,Finance Executive,2019-01-07,Senior,Mumbai,Full-Time
+1815,Meera Sethi,1,People Operations Specialist,2022-04-06,Senior,Chennai,Full-Time
+1816,Tanvi Rao,10,Reporting Analyst,2018-09-25,Senior,Mumbai,Full-Time
+1817,Isha Thakur,9,Senior Research Analyst,2018-03-06,Lead,Chennai,Full-Time
+1818,Aarav Singh,2,L&D Specialist,2020-10-16,Mid,Bengaluru,Full-Time
+1819,Dev Sethi,8,Customer Experience Analyst,2018-09-08,Senior,Delhi NCR,Full-Time
+1820,Chetan Jadhav,6,Supply Chain Analyst,2019-10-08,Senior,Bengaluru,Full-Time
+1821,Aditi Pawar,5,IT Support Specialist,2019-03-25,Senior,Delhi NCR,Full-Time
+1822,Aditi Saxena,7,Sales Analyst,2020-12-22,Senior,Chennai,Full-Time
+1823,Avni Jadhav,9,Insights Analyst,2018-05-21,Senior,Pune,Contract
+1824,Bhavna Kulkarni,5,Software Engineer,2024-09-17,Junior,Pune,Full-Time
+1825,Aman Nair,9,Insights Analyst,2019-01-13,Senior,Remote,Full-Time
+1826,Sameer Saxena,9,Research Analyst,2024-01-08,Mid,Delhi NCR,Full-Time
+1827,Varun Chavan,5,IT Support Specialist,2020-11-18,Mid,Mumbai,Full-Time
+1828,Diya Bhosale,5,Systems Analyst,2024-05-28,Mid,Bengaluru,Full-Time
+1829,Meera Rao,7,Sales Executive,2026-05-03,Junior,Hyderabad,Full-Time
+1830,Karan Naik,3,Finance Executive,2026-03-10,Junior,Delhi NCR,Full-Time
+1831,Sakshi Thakur,4,Marketing Analyst,2022-03-16,Mid,Nagpur,Full-Time
+1832,Sneha Patil,8,Customer Success Associate,2020-01-17,Mid,Bengaluru,Full-Time
+1833,Kavya Joshi,4,Brand Analyst,2024-06-01,Mid,Remote,Full-Time
+1834,Anjali Thakur,5,Cloud Engineer,2020-12-12,Senior,Chennai,Full-Time
+1835,Pranav Gokhale,10,Senior Data Analyst,2020-02-03,Senior,Remote,Full-Time
+1836,Harsh Mehta,7,Sales Analyst,2021-11-03,Mid,Nagpur,Full-Time
+1837,Nikhil Bajaj,10,Data Analyst,2019-06-02,Mid,Mumbai,Contract
+1838,Janhavi Jain,7,Regional Sales Manager,2019-06-02,Lead,Nagpur,Contract
+1839,Priya Kulkarni,10,Senior Data Analyst,2018-12-06,Lead,Nagpur,Contract
+1840,Aditi Joshi,3,FP&A Analyst,2025-08-19,Junior,Bengaluru,Contract
+1841,Rahul Verma,9,Market Research Associate,2023-11-21,Junior,Bengaluru,Full-Time
+1842,Sneha Sethi,2,L&D Specialist,2025-08-18,Junior,Bengaluru,Contract
+1843,Deepa Gupta,10,Data Analyst,2024-11-02,Junior,Nagpur,Full-Time
+1844,Pooja Jain,5,Cloud Engineer,2023-11-08,Senior,Bengaluru,Full-Time
+1845,Varun Rao,1,People Operations Specialist,2020-10-26,Senior,Mumbai,Full-Time
+1846,Bhavna Gokhale,8,Customer Success Associate,2019-07-29,Mid,Nagpur,Full-Time
+1847,Gaurav Bajaj,7,Sales Analyst,2022-05-21,Mid,Mumbai,Full-Time
+1848,Meera Nair,10,BI Analyst,2021-02-05,Mid,Hyderabad,Full-Time
+1849,Aarav Yadav,2,Training Analyst,2021-02-02,Senior,Delhi NCR,Contract
+1850,Diya More,2,Instructional Designer,2025-01-18,Junior,Delhi NCR,Full-Time
+1851,Aman Mane,6,Quality Analyst,2024-11-03,Junior,Delhi NCR,Full-Time
+1852,Nikhil Iyer,5,Systems Analyst,2020-11-12,Mid,Remote,Full-Time
+1853,Mihir Kapoor,3,FP&A Analyst,2019-02-27,Mid,Hyderabad,Full-Time
+1854,Sneha Nair,8,Support Analyst,2022-11-07,Mid,Delhi NCR,Full-Time
+1855,Harsh Verma,7,Sales Executive,2021-09-08,Mid,Pune,Full-Time
+1856,Pranav Deshmukh,7,Account Manager,2023-06-12,Mid,Delhi NCR,Full-Time
+1857,Sameer Bajaj,10,Analytics Consultant,2025-12-12,Junior,Nagpur,Full-Time
+1858,Tanvi Nair,6,Operations Analyst,2024-08-15,Mid,Mumbai,Full-Time
+1859,Sameer Iyer,5,Cloud Engineer,2025-07-18,Junior,Pune,Full-Time
+1860,Rohan Sethi,7,Regional Sales Manager,2022-12-09,Senior,Pune,Full-Time
+1861,Naina More,8,Customer Support Executive,2025-01-16,Junior,Hyderabad,Contract
+1862,Aniket Rao,3,Finance Executive,2025-01-26,Mid,Pune,Full-Time
+1863,Vedant Verma,9,Insights Analyst,2020-11-04,Senior,Hyderabad,Full-Time
+1864,Yash Yadav,5,Cloud Engineer,2018-07-15,Senior,Bengaluru,Full-Time
+1865,Rutuja Khan,6,Quality Analyst,2024-02-20,Mid,Bengaluru,Full-Time
+1866,Rahul Thakur,9,Market Research Associate,2021-09-29,Mid,Chennai,Full-Time
+1867,Meera Shah,2,Instructional Designer,2026-02-05,Junior,Bengaluru,Full-Time
+1868,Karan Saxena,3,Finance Executive,2025-12-07,Junior,Chennai,Full-Time
+1869,Deepa Mishra,10,Reporting Analyst,2021-08-15,Junior,Delhi NCR,Contract
+1870,Aman Joshi,6,Operations Analyst,2022-06-19,Mid,Mumbai,Contract
+1871,Harsh Singh,10,Reporting Analyst,2025-06-09,Junior,Chennai,Full-Time
+1872,Rutuja Bajaj,2,Training Analyst,2022-04-27,Junior,Mumbai,Full-Time
+1873,Gaurav Chavan,10,Reporting Analyst,2022-12-18,Senior,Delhi NCR,Full-Time
+1874,Gaurav Mane,5,Systems Analyst,2025-10-18,Mid,Remote,Full-Time
+1875,Aditi Sethi,2,Instructional Designer,2021-04-30,Mid,Remote,Full-Time
+1876,Chetan Sethi,6,Operations Manager,2024-05-15,Mid,Nagpur,Full-Time
+1877,Harsh Iyer,7,Account Manager,2022-01-30,Senior,Chennai,Full-Time
+1878,Yash Singh,4,Content Strategist,2022-01-02,Junior,Hyderabad,Contract
+1879,Priya Naik,6,Supply Chain Analyst,2019-01-31,Lead,Remote,Contract
+1880,Kavya Naik,4,Digital Marketing Executive,2024-10-10,Junior,Remote,Full-Time
+1881,Neha Pawar,6,Supply Chain Analyst,2018-08-06,Senior,Nagpur,Full-Time
+1882,Neha Chavan,10,Data Analyst,2019-12-03,Mid,Chennai,Full-Time
+1883,Kavya Mehta,9,Research Coordinator,2019-08-29,Mid,Delhi NCR,Full-Time
+1884,Siddharth Singh,7,Account Manager,2023-07-04,Mid,Hyderabad,Full-Time
+1885,Karan Deshmukh,4,Brand Analyst,2025-10-26,Junior,Bengaluru,Contract
+1886,Aarav Kapoor,10,Data Analyst,2024-07-31,Junior,Chennai,Contract
+1887,Radhika Iyer,2,Learning Program Manager,2018-10-18,Senior,Bengaluru,Full-Time
+1888,Chetan Bajaj,3,Accounts Analyst,2024-09-29,Mid,Pune,Full-Time
+1889,Meera Mishra,7,Account Manager,2021-09-21,Junior,Nagpur,Full-Time
+1890,Chetan Nair,7,Regional Sales Manager,2019-07-22,Lead,Delhi NCR,Full-Time
+1891,Pranav Mehta,2,Training Analyst,2022-10-29,Senior,Delhi NCR,Full-Time
+1892,Sneha Mehta,3,Finance Executive,2021-12-09,Senior,Remote,Full-Time
+1893,Akash Chavan,6,Supply Chain Analyst,2018-03-25,Lead,Pune,Full-Time
+1894,Radhika Sharma,1,HR Coordinator,2018-01-08,Lead,Pune,Full-Time
+1895,Rohan Mishra,5,Cybersecurity Analyst,2018-04-24,Lead,Chennai,Full-Time
+1896,Pranav Kulkarni,10,Senior Data Analyst,2020-02-12,Senior,Hyderabad,Full-Time
+1897,Sameer Verma,1,HR Analyst,2025-08-30,Mid,Remote,Full-Time
+1898,Aditya Jadhav,6,Operations Analyst,2022-12-29,Junior,Delhi NCR,Full-Time
+1899,Radhika Kulkarni,2,L&D Coordinator,2025-08-29,Junior,Remote,Full-Time
+1900,Nikhil Jadhav,6,Operations Manager,2024-11-16,Mid,Remote,Full-Time
+1901,Komal Singh,7,Sales Analyst,2018-09-26,Senior,Remote,Full-Time
+1902,Pooja Saxena,8,Customer Experience Analyst,2018-06-20,Senior,Mumbai,Contract
+1903,Radhika Mishra,1,HR Business Partner,2025-05-06,Junior,Hyderabad,Full-Time
+1904,Ishaan Yadav,4,Brand Analyst,2023-01-09,Mid,Nagpur,Full-Time
+1905,Aniket Shah,5,Cloud Engineer,2023-07-02,Junior,Nagpur,Full-Time
+1906,Yash Patil,5,Cybersecurity Analyst,2021-03-22,Senior,Pune,Full-Time
+1907,Rutuja Mane,10,Senior Data Analyst,2021-06-11,Lead,Bengaluru,Full-Time
+1908,Janhavi Khan,7,Business Development Executive,2023-12-29,Junior,Chennai,Contract
+1909,Rutuja Bhosale,1,HR Analyst,2025-09-03,Mid,Chennai,Full-Time
+1910,Chetan Mane,10,Reporting Analyst,2019-02-09,Senior,Chennai,Full-Time
+1911,Sneha Kapoor,7,Sales Executive,2023-07-22,Mid,Pune,Full-Time
+1912,Ishaan Sharma,3,Accounts Analyst,2025-09-24,Junior,Chennai,Full-Time
+1913,Meera Patil,10,Reporting Analyst,2020-07-24,Senior,Bengaluru,Contract
+1914,Naina More,3,FP&A Analyst,2025-07-01,Junior,Hyderabad,Full-Time
+1915,Mohit Khan,5,Cloud Engineer,2018-02-11,Senior,Hyderabad,Full-Time
+1916,Meera Patil,3,Senior Financial Analyst,2018-02-12,Senior,Remote,Full-Time
+1917,Anjali Nair,7,Business Development Executive,2020-07-02,Mid,Remote,Full-Time
+1918,Rutuja Gupta,3,Finance Executive,2021-09-02,Mid,Delhi NCR,Contract
+1919,Siddharth Nair,4,Brand Analyst,2024-05-24,Mid,Hyderabad,Full-Time
+1920,Radhika Patil,6,Operations Manager,2023-08-02,Mid,Remote,Full-Time
+1921,Chetan Mehta,2,Learning Program Manager,2018-06-05,Lead,Mumbai,Full-Time
+1922,Avni Jain,5,Software Engineer,2022-02-28,Mid,Hyderabad,Full-Time
+1923,Avni Shah,7,Account Manager,2018-06-29,Senior,Bengaluru,Full-Time
+1924,Kunal Singh,5,IT Support Specialist,2025-03-23,Junior,Mumbai,Full-Time
+1925,Mihir Jain,3,FP&A Analyst,2020-03-07,Senior,Remote,Full-Time
+1926,Riya Kulkarni,9,Market Research Associate,2024-09-30,Junior,Chennai,Full-Time
+1927,Rahul Sharma,2,Learning Program Manager,2018-09-24,Senior,Bengaluru,Full-Time
+1928,Vedant Deshmukh,5,Cybersecurity Analyst,2019-08-11,Lead,Pune,Full-Time
+1929,Anushka Mishra,1,HR Coordinator,2018-08-28,Lead,Mumbai,Full-Time
+1930,Aman Sharma,8,Customer Experience Analyst,2018-05-25,Senior,Remote,Contract
+1931,Kunal Jain,7,Regional Sales Manager,2021-03-02,Senior,Hyderabad,Full-Time
+1932,Sneha Jain,6,Operations Manager,2021-11-14,Senior,Bengaluru,Full-Time
+1933,Ishaan Yadav,6,Process Executive,2022-01-15,Mid,Nagpur,Full-Time
+1934,Naina Saxena,9,Research Coordinator,2022-02-16,Mid,Bengaluru,Full-Time
+1935,Diya Khan,5,Systems Analyst,2025-12-20,Mid,Chennai,Full-Time
+1936,Nikhil Thakur,10,Analytics Consultant,2022-09-21,Senior,Remote,Full-Time
+1937,Meera Singh,5,Systems Analyst,2021-10-15,Mid,Hyderabad,Full-Time
+1938,Mihir More,7,Sales Analyst,2024-05-17,Mid,Remote,Contract
+1939,Janhavi Joshi,9,Insights Analyst,2022-07-31,Mid,Bengaluru,Full-Time
+1940,Anushka Sethi,2,Instructional Designer,2025-04-25,Junior,Pune,Full-Time
+1941,Varun Khan,3,Senior Financial Analyst,2024-03-09,Senior,Nagpur,Full-Time
+1942,Kunal Mishra,10,Senior Data Analyst,2018-04-08,Senior,Bengaluru,Full-Time
+1943,Avni Yadav,10,Analytics Consultant,2025-08-19,Junior,Hyderabad,Full-Time
+1944,Rutuja Singh,5,Cloud Engineer,2023-04-04,Mid,Chennai,Contract
+1945,Sneha Mane,10,Data Analyst,2024-11-13,Junior,Mumbai,Full-Time
+1946,Akash Shah,1,HR Coordinator,2018-02-05,Lead,Mumbai,Full-Time
+1947,Avni Joshi,10,Reporting Analyst,2022-01-01,Mid,Mumbai,Full-Time
+1948,Neha Pawar,7,Sales Analyst,2021-07-16,Mid,Bengaluru,Full-Time
+1949,Avni Kulkarni,4,Brand Analyst,2024-04-20,Mid,Mumbai,Contract
+1950,Riya Yadav,10,Analytics Consultant,2022-08-06,Mid,Delhi NCR,Full-Time
+1951,Neha Nair,10,Data Analyst,2025-06-12,Mid,Bengaluru,Full-Time
+1952,Aditi Mishra,5,IT Support Specialist,2023-05-08,Mid,Remote,Contract
+1953,Pranav More,6,Supply Chain Analyst,2023-01-07,Senior,Chennai,Full-Time
+1954,Arjun Kapoor,10,Reporting Analyst,2022-02-24,Junior,Nagpur,Full-Time
+1955,Sneha Shah,2,Training Analyst,2025-07-02,Junior,Mumbai,Full-Time
+1956,Sakshi Iyer,6,Process Executive,2023-07-20,Junior,Chennai,Full-Time
+1957,Aditi Pawar,3,Senior Financial Analyst,2021-02-21,Lead,Chennai,Full-Time
+1958,Harsh Jain,1,HR Business Partner,2020-09-05,Senior,Chennai,Full-Time
+1959,Ananya Shah,4,Marketing Analyst,2025-05-13,Junior,Bengaluru,Contract
+1960,Kunal Joshi,1,HR Business Partner,2024-06-07,Junior,Nagpur,Full-Time
+1961,Kunal Shah,1,People Operations Specialist,2025-07-15,Junior,Nagpur,Full-Time
+1962,Mihir Gupta,7,Regional Sales Manager,2019-06-27,Lead,Hyderabad,Full-Time
+1963,Varun Mehta,4,Marketing Manager,2018-12-08,Lead,Chennai,Contract
+1964,Siddharth Nair,9,Senior Research Analyst,2018-04-05,Lead,Hyderabad,Full-Time
+1965,Gaurav Gokhale,2,L&D Coordinator,2018-09-24,Mid,Mumbai,Full-Time
+1966,Shreya Mehta,7,Business Development Executive,2026-04-05,Mid,Remote,Full-Time
+1967,Akash Naik,8,Support Analyst,2019-03-10,Senior,Hyderabad,Full-Time
+1968,Aarav Iyer,3,Accounts Analyst,2026-01-20,Mid,Hyderabad,Full-Time
+1969,Radhika Joshi,7,Account Manager,2022-05-04,Mid,Hyderabad,Full-Time
+1970,Mihir More,6,Supply Chain Analyst,2020-02-02,Senior,Pune,Full-Time
+1971,Deepa Gupta,3,Accounts Analyst,2018-01-26,Mid,Hyderabad,Full-Time
+1972,Kabir Gokhale,7,Business Development Executive,2018-11-07,Mid,Bengaluru,Full-Time
+1973,Mohit Bhosale,7,Sales Analyst,2024-08-23,Junior,Hyderabad,Full-Time
+1974,Radhika Sharma,3,FP&A Analyst,2021-11-13,Mid,Delhi NCR,Full-Time
+1975,Mihir Patil,1,HR Coordinator,2018-09-15,Senior,Nagpur,Full-Time
+1976,Rutuja More,7,Sales Executive,2026-01-12,Junior,Chennai,Contract
+1977,Sameer More,8,Customer Support Executive,2022-01-20,Mid,Delhi NCR,Full-Time
+1978,Komal Pawar,5,IT Support Specialist,2026-04-29,Mid,Remote,Full-Time
+1979,Sakshi Kulkarni,6,Operations Analyst,2026-05-10,Junior,Chennai,Full-Time
+1980,Meera Jain,5,Cloud Engineer,2023-03-06,Mid,Remote,Full-Time
+1981,Aditi Sethi,2,L&D Specialist,2026-06-02,Junior,Chennai,Full-Time
+1982,Komal Sharma,10,Analytics Consultant,2025-02-02,Junior,Bengaluru,Full-Time
+1983,Aditi Khan,6,Operations Manager,2020-01-24,Mid,Bengaluru,Full-Time
+1984,Bhavna Rao,4,Marketing Manager,2018-03-30,Senior,Delhi NCR,Full-Time
+1985,Naina Iyer,3,Accounts Analyst,2024-10-21,Junior,Remote,Full-Time
+1986,Kabir Naik,4,Brand Analyst,2019-03-11,Mid,Delhi NCR,Full-Time
+1987,Mohit Pawar,3,FP&A Analyst,2023-07-18,Senior,Delhi NCR,Full-Time
+1988,Naina Kapoor,4,Content Strategist,2021-06-26,Senior,Bengaluru,Contract
+1989,Yash Sethi,4,Digital Marketing Executive,2026-02-16,Junior,Chennai,Contract
+1990,Komal Iyer,10,BI Analyst,2018-09-16,Mid,Hyderabad,Full-Time
+1991,Pooja Saxena,7,Sales Analyst,2021-07-04,Mid,Chennai,Contract
+1992,Arjun Shah,8,Customer Success Associate,2025-10-31,Junior,Hyderabad,Full-Time
+1993,Kabir Bhosale,5,IT Support Specialist,2023-04-09,Senior,Nagpur,Full-Time
+1994,Nikhil Kapoor,7,Regional Sales Manager,2018-11-30,Senior,Delhi NCR,Full-Time
+1995,Isha Naik,5,IT Support Specialist,2020-03-02,Senior,Chennai,Full-Time
+1996,Kabir Verma,5,Cybersecurity Analyst,2020-07-03,Senior,Remote,Contract
+1997,Pranav Shah,2,Learning Program Manager,2021-01-22,Lead,Hyderabad,Full-Time
+1998,Ishaan Thakur,10,Data Analyst,2024-09-13,Junior,Hyderabad,Contract
+1999,Kunal Iyer,8,Customer Support Executive,2021-03-02,Mid,Delhi NCR,Full-Time
+2000,Tanvi Yadav,3,Finance Executive,2021-04-27,Mid,Mumbai,Full-Time

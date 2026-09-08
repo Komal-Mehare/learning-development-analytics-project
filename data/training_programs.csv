@@ -1,0 +1,41 @@
+training_id,training_name,training_category,duration_hours,delivery_mode,cost_per_employee,difficulty_level
+1,Advanced Excel,Technical,12,Online,2500,Intermediate
+2,Power BI Fundamentals,Technical,16,Hybrid,4000,Beginner
+3,SQL for Analysts,Technical,20,Online,4500,Intermediate
+4,Data Visualization,Technical,12,Hybrid,3500,Intermediate
+5,Python for Data Analysis,Technical,24,Online,5500,Intermediate
+6,Statistical Analysis Basics,Technical,16,Online,4200,Beginner
+7,Research Methods for Business,Research,14,Hybrid,3800,Intermediate
+8,Survey Design & Analysis,Research,12,Online,3200,Intermediate
+9,Qualitative Research Methods,Research,10,Classroom,3500,Intermediate
+10,Market Research Fundamentals,Research,12,Hybrid,3600,Beginner
+11,Leadership Essentials,Leadership,10,Classroom,6000,Intermediate
+12,People Management,Leadership,14,Classroom,7000,Advanced
+13,Coaching & Mentoring,Leadership,12,Hybrid,6500,Advanced
+14,Decision Making for Managers,Leadership,8,Classroom,5200,Intermediate
+15,Strategic Thinking,Leadership,10,Hybrid,5800,Advanced
+16,Communication Skills,Behavioural,8,Classroom,3000,Beginner
+17,Business Communication,Behavioural,10,Online,3200,Intermediate
+18,Presentation Skills,Behavioural,8,Classroom,3400,Beginner
+19,Conflict Management,Behavioural,8,Classroom,3200,Intermediate
+20,Emotional Intelligence,Behavioural,10,Hybrid,3900,Intermediate
+21,Time Management,Behavioural,6,Online,1800,Beginner
+22,Problem Solving,Behavioural,8,Hybrid,2600,Intermediate
+23,Critical Thinking,Behavioural,10,Online,3000,Intermediate
+24,Negotiation Skills,Behavioural,10,Classroom,4500,Advanced
+25,Customer Experience Excellence,Functional,10,Hybrid,3000,Intermediate
+26,Sales Effectiveness,Functional,12,Classroom,4200,Intermediate
+27,Recruitment Analytics,Functional,12,Online,3600,Intermediate
+28,Performance Management,Functional,10,Hybrid,3800,Intermediate
+29,Learning Needs Analysis,Functional,12,Online,4000,Advanced
+30,Instructional Design Basics,Functional,14,Online,4300,Intermediate
+31,Project Management Fundamentals,Business,16,Hybrid,5000,Intermediate
+32,Agile Fundamentals,Business,12,Online,4200,Beginner
+33,Process Improvement,Business,14,Hybrid,4600,Intermediate
+34,Lean Six Sigma Awareness,Business,10,Online,3900,Beginner
+35,Finance for Non-Finance Professionals,Business,12,Classroom,4100,Beginner
+36,Data Privacy Awareness,Compliance,4,Online,1200,Beginner
+37,POSH Awareness,Compliance,3,Online,900,Beginner
+38,Information Security Awareness,Compliance,4,Online,1100,Beginner
+39,Workplace Ethics,Compliance,4,Online,1000,Beginner
+40,Diversity & Inclusion at Work,Culture,6,Hybrid,2200,Beginner

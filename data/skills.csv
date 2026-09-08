@@ -1,0 +1,61 @@
+skill_id,skill_name,skill_category
+1,Advanced Excel,Technical
+2,SQL,Technical
+3,Power BI,Technical
+4,Python,Technical
+5,Data Visualization,Technical
+6,Data Cleaning,Technical
+7,Statistics,Analytical
+8,Data Interpretation,Analytical
+9,Problem Solving,Analytical
+10,Critical Thinking,Analytical
+11,Reporting,Analytical
+12,Dashboard Design,Analytical
+13,Research Methods,Research
+14,Survey Design,Research
+15,Qualitative Research,Research
+16,Quantitative Research,Research
+17,SPSS/JASP,Research
+18,Insight Synthesis,Research
+19,Communication,Behavioural
+20,Presentation,Behavioural
+21,Time Management,Behavioural
+22,Conflict Management,Behavioural
+23,Emotional Intelligence,Behavioural
+24,Negotiation,Behavioural
+25,Leadership,Leadership
+26,People Management,Leadership
+27,Coaching,Leadership
+28,Decision Making,Leadership
+29,Strategic Thinking,Leadership
+30,Stakeholder Management,Leadership
+31,Recruitment Analytics,HR/L&D
+32,Learning Needs Analysis,HR/L&D
+33,Instructional Design,HR/L&D
+34,Performance Management,HR/L&D
+35,Talent Management,HR/L&D
+36,Employee Engagement,HR/L&D
+37,Financial Analysis,Finance
+38,Budgeting,Finance
+39,Forecasting,Finance
+40,Financial Reporting,Finance
+41,Cost Analysis,Finance
+42,Business Finance,Finance
+43,Digital Marketing,Marketing
+44,Market Analysis,Marketing
+45,Content Strategy,Marketing
+46,Campaign Analytics,Marketing
+47,Brand Management,Marketing
+48,Customer Insights,Marketing
+49,Process Improvement,Operations
+50,Quality Management,Operations
+51,Project Management,Operations
+52,Agile,Operations
+53,Customer Experience,Operations
+54,Workflow Optimization,Operations
+55,Sales Analytics,Sales
+56,Business Development,Sales
+57,Account Management,Sales
+58,CRM,Sales
+59,Customer Success,Sales
+60,Information Security,Technical
